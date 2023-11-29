@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="90" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Scion" ascendClassName="Ascendant" mainSocketGroup="1" viewMode="SKILLS" pantheonMinorGod="None">
+		<PlayerStat stat="AverageHit" value="3934.75"/>
+		<PlayerStat stat="Speed" value="1.5"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
+		<PlayerStat stat="CritChance" value="0"/>
+		<PlayerStat stat="CritMultiplier" value="0"/>
+		<PlayerStat stat="TotalDPS" value="59021.25"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithBleedDPS" value="59021.25"/>
+		<PlayerStat stat="IgniteDPS" value="2113.2965502911"/>
+		<PlayerStat stat="WithIgniteDPS" value="61134.546550291"/>
+		<PlayerStat stat="WithPoisonDPS" value="59021.25"/>
+		<PlayerStat stat="TotalDotDPS" value="2113.2965502911"/>
+		<PlayerStat stat="CullingDPS" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="61134.546550291"/>
+		<PlayerStat stat="Cooldown" value="0.264"/>
+		<PlayerStat stat="AreaOfEffectRadius" value="16"/>
+		<PlayerStat stat="ManaCost" value="0"/>
+		<PlayerStat stat="LifeCost" value="263"/>
+		<PlayerStat stat="ESCost" value="0"/>
+		<PlayerStat stat="RageCost" value="0"/>
+		<PlayerStat stat="ManaPercentCost" value="0"/>
+		<PlayerStat stat="LifePercentCost" value="0"/>
+		<PlayerStat stat="ManaPerSecondCost" value="0"/>
+		<PlayerStat stat="LifePerSecondCost" value="0"/>
+		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="Str" value="340"/>
+		<PlayerStat stat="ReqStr" value="111"/>
+		<PlayerStat stat="Dex" value="260"/>
+		<PlayerStat stat="ReqDex" value="155"/>
+		<PlayerStat stat="Int" value="85"/>
+		<PlayerStat stat="ReqInt" value="122"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="TotalEHP" value="20373.470590134"/>
+		<PlayerStat stat="SecondMinimalMaximumHitTaken" value="6751.2147716229"/>
+		<PlayerStat stat="Life" value="6092"/>
+		<PlayerStat stat="Spec:LifeInc" value="180"/>
+		<PlayerStat stat="LifeUnreserved" value="6092"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegen" value="412.99191"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="769"/>
+		<PlayerStat stat="Spec:ManaInc" value="0"/>
+		<PlayerStat stat="ManaUnreserved" value="61"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="7.9323797139142"/>
+		<PlayerStat stat="ManaRegen" value="13.5"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="Ward" value="0"/>
+		<PlayerStat stat="EnergyShield" value="855"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
+		<PlayerStat stat="EnergyShieldRegen" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Evasion" value="32333"/>
+		<PlayerStat stat="Spec:EvasionInc" value="182"/>
+		<PlayerStat stat="MeleeEvadeChance" value="79"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="79"/>
+		<PlayerStat stat="Armour" value="321"/>
+		<PlayerStat stat="Spec:ArmourInc" value="32"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="2"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.51"/>
+		<PlayerStat stat="BlockChance" value="0"/>
+		<PlayerStat stat="SpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="SpellSuppressionChance" value="36"/>
+		<PlayerStat stat="FireResist" value="69"/>
+		<PlayerStat stat="FireResistOverCap" value="0"/>
+		<PlayerStat stat="ColdResist" value="75"/>
+		<PlayerStat stat="ColdResistOverCap" value="11"/>
+		<PlayerStat stat="LightningResist" value="37"/>
+		<PlayerStat stat="LightningResistOverCap" value="0"/>
+		<PlayerStat stat="ChaosResist" value="-60"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="FullDPS" value="65466.899050291"/>
+		<FullDPSSkill skillPart="All Projectiles" source="" stat="Blazing Salvo" value="59021.25"/>
+		<FullDPSSkill skillPart="" source="" stat="Wave of Conviction" value="4332.3525"/>
+		<FullDPSSkill skillPart="" source="Blazing Salvo" stat="Best Ignite DPS" value="2113.2965502911"/>
+		<PlayerStat stat="PowerCharges" value="3"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="0"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+	</Build>
+	<Import/>
+	<Calcs>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Input name="skill_number" number="1"/>
+		<Section collapsed="false" id="SkillSelect"/>
+		<Section collapsed="false" id="HitDamage"/>
+		<Section collapsed="false" id="Warcries"/>
+		<Section collapsed="false" id="Dot"/>
+		<Section collapsed="false" id="Speed"/>
+		<Section collapsed="false" id="Crit"/>
+		<Section collapsed="false" id="Impale"/>
+		<Section collapsed="false" id="SkillTypeStats"/>
+		<Section collapsed="false" id="HitChance"/>
+		<Section collapsed="false" id="Bleed"/>
+		<Section collapsed="false" id="Poison"/>
+		<Section collapsed="false" id="Ignite"/>
+		<Section collapsed="false" id="Decay"/>
+		<Section collapsed="false" id="LeechGain"/>
+		<Section collapsed="false" id="EleAilments"/>
+		<Section collapsed="false" id="MiscEffects"/>
+		<Section collapsed="false" id="Attributes"/>
+		<Section collapsed="false" id="Life"/>
+		<Section collapsed="false" id="Mana"/>
+		<Section collapsed="false" id="EnergyShield"/>
+		<Section collapsed="false" id="Ward"/>
+		<Section collapsed="false" id="Armour"/>
+		<Section collapsed="false" id="Evasion"/>
+		<Section collapsed="false" id="Resist"/>
+		<Section collapsed="false" id="Block"/>
+		<Section collapsed="false" id="MiscDefences"/>
+		<Section collapsed="false" id="DamageTaken"/>
+	</Calcs>
+	<Skills sortGemsByDPSField="CombinedDPS" matchGemLevelToCharacterLevel="false" sortGemsByDPS="true" defaultGemQuality="20" defaultGemLevel="20" showSupportGemTypes="ALL" showAltQualityGems="false">
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" groupCount="nil" enabled="true" slot="Helmet" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportLifetap" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemLifetap" quality="20" enabled="true" count="1" nameSpec="Lifetap"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportCastOnDamageTaken" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" quality="20" enabled="true" count="1" nameSpec="Cast when Damage Taken"/>
+			<Gem enableGlobal2="nil" level="8" enableGlobal1="true" skillId="Ember" qualityId="Default" skillPart="2" gemId="Metadata/Items/Gems/SkillGemBlazingSalvo" quality="20" enabled="true" skillPartCalcs="2" count="1" nameSpec="Blazing Salvo" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportGreaterMultipleProjectiles" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" quality="20" enabled="true" count="1" nameSpec="Greater Multiple Projectiles"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" groupCount="nil" enabled="true" slot="Boots" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="SupportCastOnDamageTaken" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" quality="20" enabled="true" count="1" nameSpec="Cast when Damage Taken"/>
+			<Gem enableGlobal2="false" level="7" enableGlobal1="true" skillId="Purge" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPurge" quality="20" enabled="true" count="1" nameSpec="Wave of Conviction" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="SupportLifetap" skillMinionItemSet="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemLifetap" quality="20" enabled="true" count="1" nameSpec="Lifetap" skillMinion="SummonedReaper"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Flammability" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemFlammability" quality="20" enabled="true" count="1" nameSpec="Flammability"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Anger" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemAnger" quality="20" enabled="true" count="1" nameSpec="Anger"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Grace" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemGrace" quality="20" enabled="true" count="1" nameSpec="Grace"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="HeraldOfAsh" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHeraldOfAsh" quality="20" enabled="true" count="1" nameSpec="Herald of Ash"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" source="Item:11:Mark of the Shaper, Opal Ring" enabled="true" slot="Ring 1" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SummonVoidSphere" qualityId="Default" quality="0" enabled="true" count="1" nameSpec="Summon Volatile Anomaly"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" source="Item:19:Doryani&apos;s Delusion, Slink Boots" enabled="false" slot="Boots" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" level="25" enableGlobal1="true" skillId="FireResistAura" quality="0" enabled="true" count="nil" nameSpec=""/>
+			<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="SupportCastOnDamageTaken" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" quality="20" enabled="true" count="1" nameSpec="Cast when Damage Taken"/>
+			<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="SupportLifetap" skillMinionItemSet="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemLifetap" quality="20" enabled="true" count="1" nameSpec="Lifetap" skillMinion="SummonedReaper"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" source="Item:21:Shroud of the Lightless, Carnal Armour" enabled="true" slot="Body Armour" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="ShadeForm" quality="0" enabled="true" count="nil" nameSpec=""/>
+		</Skill>
+	</Skills>
+	<Tree activeSpec="1">
+		<Spec ascendClassId="1" masteryEffects="{50757,57074},{56023,44240},{44316,64381},{6507,34383},{41016,40906},{53517,34242},{20736,59906},{4139,47642},{44298,48385}" nodes="11150,9327,41016,23027,31961,63282,9009,34171,32091,15868,33508,26196,39861,33989,24755,4139,3992,24383,193,13164,20807,19506,20551,9206,29353,17788,50690,34579,918,15144,17790,6230,8348,52288,23334,65808,19287,58833,28221,35503,6534,28574,44202,24496,50904,19939,60204,62021,22266,65817,60472,44316,65097,63723,62429,26725,36287,14292,60735,13714,36221,19858,56023,42133,20736,30690,32555,30679,11678,4194,32763,31513,44298,53517,48822,6797,38048,36047,33545,29061,17814,13782,6507,61198,3676,48768,30302,55993,63048,41251,59928,44429,53118,55649,65811,30380,65167,26523,49978,58449,40100,12702,45593,53114,5152,22627,49532,12412,20812,6538,15073,59606,33875,31683,61437,47062,35754,8938,36881,18033,55373,2219,35179,55906,12801,24643,31585,65034,6446,7594,38689,61875,51786,1461,62662,48828,57736,31598,50757" treeVersion="3_17" classId="0">
+			<EditedNodes/>
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgABhiuOJG-gOFnzfNn3MiMxhXt9Wz38guRmVJu1hMVgsxArD5hfPwDBM2xRR0wyUEcj9nKpRXzGAocTA5Y7KEV-GFYgnMxAWyZLV249iq8Zhm-erKpfsMbYTePrLPJFVvrsOK0c_kn46_PdaGWNvzfU7T81ko19TZLa16SVUQB34n8rd9ctnhBif_t7Ga0K0Q2-thqNlKCMz4MJcYVFljXWGWvvDg5cvoB2Xtq59kihI-oYrY3Pftlhdqz-j2ebwzrkUZykMZ6yGc96FCBYY8F8MHxRTBmKOuHo1oRTe8Pv_bfWIuqQEUZx2E0Iq4lr2mIyAWBDe2H-ChkuHaqXIfGzykoFtfTGvrzhiHtuxkUDARABGQETCZ_KoDi6GhAr-32tHKzQ2tfqAlEAvQGtCoXC0Q2GTxlr3vLGRQ==
+			</URL>
+			<Sockets>
+				<Socket nodeId="11150" itemId="14"/>
+				<Socket nodeId="60735" itemId="14"/>
+				<Socket nodeId="26725" itemId="14"/>
+				<Socket nodeId="32763" itemId="16"/>
+				<Socket nodeId="26196" itemId="14"/>
+				<Socket nodeId="33989" itemId="14"/>
+				<Socket nodeId="41263" itemId="15"/>
+				<Socket nodeId="31683" itemId="5"/>
+				<Socket nodeId="48768" itemId="5"/>
+				<Socket nodeId="6230" itemId="5"/>
+			</Sockets>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<TreeView searchStr="flask charges" zoomY="34.963580768942" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-114.049454361"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
+		<Item variant="3" id="1">
+			Rarity: UNIQUE
+Hiltless
+Reaver Sword
+Variant: Pre 2.6.0
+Variant: Pre 3.11.0
+Variant: Current
+Selected Variant: 3
+Reaver Sword
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 59
+Implicits: 3
+{variant:1}18% increased Accuracy Rating
+{variant:2}40% increased Global Accuracy Rating
+{variant:3}60% increased Global Accuracy Rating
+Socketed Gems are Supported by Level 1 Lifetap
+{range:0.5}Adds (90-115) to (230-260) Physical Damage
+{range:1}(40-50)% increased Critical Strike Chance
+Enemies you Attack Reflect 100 Physical Damage to you
++2 to Weapon range
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="1" id="6"/>
+		</Item>
+		<Item variant="125" variantAlt="152" id="2">
+			Rarity: UNIQUE
+Forbidden Shako
+Great Crown
+Armour: 193
+ArmourBasePercentile: 0.9907
+Energy Shield: 40
+EnergyShieldBasePercentile: 1
+League: Harvest
+Variant: Added Chaos Damage (Low Level)
+Variant: Added Chaos Damage (High Level)
+Variant: Added Cold Damage (Low Level)
+Variant: Added Cold Damage (High Level)
+Variant: Added Fire Damage (Low Level)
+Variant: Added Fire Damage (High Level)
+Variant: Added Lightning Damage (Low Level)
+Variant: Added Lightning Damage (High Level)
+Variant: Additional Accuracy (Low Level)
+Variant: Additional Accuracy (High Level)
+Variant: Advanced Traps (Low Level)
+Variant: Advanced Traps (High Level)
+Variant: Ancestral Call (Low Level)
+Variant: Ancestral Call (High Level)
+Variant: Arcane Surge (Low Level)
+Variant: Arcane Surge (High Level)
+Variant: Archmage (Low Level)
+Variant: Archmage (High Level)
+Variant: Arrogance (Low Level)
+Variant: Arrogance (High Level)
+Variant: Arrow Nova (Low Level)
+Variant: Arrow Nova (High Level)
+Variant: Ballista Totem (Low Level)
+Variant: Ballista Totem (High Level)
+Variant: Barrage (Low Level)
+Variant: Barrage (High Level)
+Variant: Behead (Low Level)
+Variant: Behead (High Level)
+Variant: Blasphemy (Low Level)
+Variant: Blasphemy (High Level)
+Variant: Blastchain Mine (Low Level)
+Variant: Blastchain Mine (High Level)
+Variant: Blind (Low Level)
+Variant: Blind (High Level)
+Variant: Bloodlust (Low Level)
+Variant: Bloodlust (High Level)
+Variant: Bloodthirst (Low Level)
+Variant: Bloodthirst (High Level)
+Variant: Bonechill (Low Level)
+Variant: Bonechill (High Level)
+Variant: Brutality (Low Level)
+Variant: Brutality (High Level)
+Variant: Burning Damage (Low Level)
+Variant: Burning Damage (High Level)
+Variant: Cast On Critical Strike (Low Level)
+Variant: Cast On Critical Strike (High Level)
+Variant: Cast on Death (Low Level)
+Variant: Cast on Death (High Level)
+Variant: Cast on Melee Kill (Low Level)
+Variant: Cast on Melee Kill (High Level)
+Variant: Cast when Damage Taken (Low Level)
+Variant: Cast when Damage Taken (High Level)
+Variant: Cast when Stunned (Low Level)
+Variant: Cast when Stunned (High Level)
+Variant: Cast while Channelling (Low Level)
+Variant: Cast while Channelling (High Level)
+Variant: Chain (Low Level)
+Variant: Chain (High Level)
+Variant: Chance to Bleed (Low Level)
+Variant: Chance to Bleed (High Level)
+Variant: Chance to Flee (Low Level)
+Variant: Chance to Flee (High Level)
+Variant: Chance to Poison (Low Level)
+Variant: Chance to Poison (High Level)
+Variant: Charged Mines (Low Level)
+Variant: Charged Mines (High Level)
+Variant: Charged Traps (Low Level)
+Variant: Charged Traps (High Level)
+Variant: Close Combat (Low Level)
+Variant: Close Combat (High Level)
+Variant: Cluster Traps (Low Level)
+Variant: Cluster Traps (High Level)
+Variant: Cold Penetration (Low Level)
+Variant: Cold Penetration (High Level)
+Variant: Cold to Fire (Low Level)
+Variant: Cold to Fire (High Level)
+Variant: Combustion (Low Level)
+Variant: Combustion (High Level)
+Variant: Concentrated Effect (Low Level)
+Variant: Concentrated Effect (High Level)
+Variant: Controlled Destruction (Low Level)
+Variant: Controlled Destruction (High Level)
+Variant: Critical Strike Affliction (Low Level)
+Variant: Critical Strike Affliction (High Level)
+Variant: Cruelty (Low Level)
+Variant: Cruelty (High Level)
+Variant: Culling Strike (Low Level)
+Variant: Culling Strike (High Level)
+Variant: Damage on Full Life (Low Level)
+Variant: Damage on Full Life (High Level)
+Variant: Deadly Ailments (Low Level)
+Variant: Deadly Ailments (High Level)
+Variant: Decay (Low Level)
+Variant: Decay (High Level)
+Variant: Divine Blessing (Low Level)
+Variant: Divine Blessing (High Level)
+Variant: Earthbreaker (Low Level)
+Variant: Earthbreaker (High Level)
+Variant: Efficacy (Low Level)
+Variant: Efficacy (High Level)
+Variant: Elemental Army (Low Level)
+Variant: Elemental Army (High Level)
+Variant: Elemental Damage with Attacks (Low Level)
+Variant: Elemental Damage with Attacks (High Level)
+Variant: Elemental Focus (Low Level)
+Variant: Elemental Focus (High Level)
+Variant: Elemental Penetration (Low Level)
+Variant: Elemental Penetration (High Level)
+Variant: Elemental Proliferation (Low Level)
+Variant: Elemental Proliferation (High Level)
+Variant: Endurance Charge on Melee Stun (Low Level)
+Variant: Endurance Charge on Melee Stun (High Level)
+Variant: Energy Leech (Low Level)
+Variant: Energy Leech (High Level)
+Variant: Eternal Blessing (Low Level)
+Variant: Eternal Blessing (High Level)
+Variant: Faster Attacks (Low Level)
+Variant: Faster Attacks (High Level)
+Variant: Faster Casting (Low Level)
+Variant: Faster Casting (High Level)
+Variant: Faster Projectiles (Low Level)
+Variant: Faster Projectiles (High Level)
+Variant: Feeding Frenzy (Low Level)
+Variant: Feeding Frenzy (High Level)
+Variant: Fire Penetration (Low Level)
+Variant: Fire Penetration (High Level)
+Variant: Fist of War (Low Level)
+Variant: Fist of War (High Level)
+Variant: Focused Ballista (Low Level)
+Variant: Focused Ballista (High Level)
+Variant: Fork (Low Level)
+Variant: Fork (High Level)
+Variant: Fortify (Low Level)
+Variant: Fortify (High Level)
+Variant: Generosity (Low Level)
+Variant: Generosity (High Level)
+Variant: Greater Multiple Projectiles (Low Level)
+Variant: Greater Multiple Projectiles (High Level)
+Variant: Greater Volley (Low Level)
+Variant: Greater Volley (High Level)
+Variant: Hextouch (Low Level)
+Variant: Hextouch (High Level)
+Variant: High-Impact Mine (Low Level)
+Variant: High-Impact Mine (High Level)
+Variant: Hypothermia (Low Level)
+Variant: Hypothermia (High Level)
+Variant: Ice Bite (Low Level)
+Variant: Ice Bite (High Level)
+Variant: Ignite Proliferation (Low Level)
+Variant: Ignite Proliferation (High Level)
+Variant: Immolate (Low Level)
+Variant: Immolate (High Level)
+Variant: Impale (Low Level)
+Variant: Impale (High Level)
+Variant: Impending Doom (Low Level)
+Variant: Impending Doom (High Level)
+Variant: Increased Area of Effect (Low Level)
+Variant: Increased Area of Effect (High Level)
+Variant: Increased Critical Damage (Low Level)
+Variant: Increased Critical Damage (High Level)
+Variant: Increased Critical Strikes (Low Level)
+Variant: Increased Critical Strikes (High Level)
+Variant: Increased Duration (Low Level)
+Variant: Increased Duration (High Level)
+Variant: Infernal Legion (Low Level)
+Variant: Infernal Legion (High Level)
+Variant: Infused Channelling (Low Level)
+Variant: Infused Channelling (High Level)
+Variant: Innervate (Low Level)
+Variant: Innervate (High Level)
+Variant: Inspiration (Low Level)
+Variant: Inspiration (High Level)
+Variant: Intensify (Low Level)
+Variant: Intensify (High Level)
+Variant: Iron Grip (Low Level)
+Variant: Iron Grip (High Level)
+Variant: Iron Will (Low Level)
+Variant: Iron Will (High Level)
+Variant: Item Rarity (Low Level)
+Variant: Item Rarity (High Level)
+Variant: Knockback (Low Level)
+Variant: Knockback (High Level)
+Variant: Less Duration (Low Level)
+Variant: Less Duration (High Level)
+Variant: Lesser Multiple Projectiles (Low Level)
+Variant: Lesser Multiple Projectiles (High Level)
+Variant: Life Gain on Hit (Low Level)
+Variant: Life Gain on Hit (High Level)
+Variant: Life Leech (Low Level)
+Variant: Life Leech (High Level)
+Variant: Lifetap (Low Level)
+Variant: Lifetap (High Level)
+Variant: Lightning Penetration (Low Level)
+Variant: Lightning Penetration (High Level)
+Variant: Maim (Low Level)
+Variant: Maim (High Level)
+Variant: Mana Leech (Low Level)
+Variant: Mana Leech (High Level)
+Variant: Mark On Hit (Low Level)
+Variant: Mark On Hit (High Level)
+Variant: Meat Shield (Low Level)
+Variant: Meat Shield (High Level)
+Variant: Melee Physical Damage (Low Level)
+Variant: Melee Physical Damage (High Level)
+Variant: Melee Splash (Low Level)
+Variant: Melee Splash (High Level)
+Variant: Minefield (Low Level)
+Variant: Minefield (High Level)
+Variant: Minion Damage (Low Level)
+Variant: Minion Damage (High Level)
+Variant: Minion Life (Low Level)
+Variant: Minion Life (High Level)
+Variant: Minion Speed (Low Level)
+Variant: Minion Speed (High Level)
+Variant: Mirage Archer (Low Level)
+Variant: Mirage Archer (High Level)
+Variant: Multiple Totems (Low Level)
+Variant: Multiple Totems (High Level)
+Variant: Multiple Traps (Low Level)
+Variant: Multiple Traps (High Level)
+Variant: Multistrike (Low Level)
+Variant: Multistrike (High Level)
+Variant: Nightblade (Low Level)
+Variant: Nightblade (High Level)
+Variant: Onslaught (Low Level)
+Variant: Onslaught (High Level)
+Variant: Physical to Lightning (Low Level)
+Variant: Physical to Lightning (High Level)
+Variant: Pierce (Low Level)
+Variant: Pierce (High Level)
+Variant: Pinpoint (Low Level)
+Variant: Pinpoint (High Level)
+Variant: Point Blank (Low Level)
+Variant: Point Blank (High Level)
+Variant: Power Charge On Critical (Low Level)
+Variant: Power Charge On Critical (High Level)
+Variant: Predator (Low Level)
+Variant: Predator (High Level)
+Variant: Pulverise (Low Level)
+Variant: Pulverise (High Level)
+Variant: Rage (Low Level)
+Variant: Rage (High Level)
+Variant: Ruthless (Low Level)
+Variant: Ruthless (High Level)
+Variant: Second Wind (Low Level)
+Variant: Second Wind (High Level)
+Variant: Shockwave (Low Level)
+Variant: Shockwave (High Level)
+Variant: Slower Projectiles (Low Level)
+Variant: Slower Projectiles (High Level)
+Variant: Spell Cascade (Low Level)
+Variant: Spell Cascade (High Level)
+Variant: Spell Echo (Low Level)
+Variant: Spell Echo (High Level)
+Variant: Spell Totem (Low Level)
+Variant: Spell Totem (High Level)
+Variant: Stun (Low Level)
+Variant: Stun (High Level)
+Variant: Summon Phantasm (Low Level)
+Variant: Summon Phantasm (High Level)
+Variant: Swift Affliction (Low Level)
+Variant: Swift Affliction (High Level)
+Variant: Swift Assembly (Low Level)
+Variant: Swift Assembly (High Level)
+Variant: Swiftbrand (Low Level)
+Variant: Swiftbrand (High Level)
+Variant: Trap (Low Level)
+Variant: Trap (High Level)
+Variant: Trap and Mine Damage (Low Level)
+Variant: Trap and Mine Damage (High Level)
+Variant: Trinity (Low Level)
+Variant: Trinity (High Level)
+Variant: Unbound Ailments (Low Level)
+Variant: Unbound Ailments (High Level)
+Variant: Unleash (Low Level)
+Variant: Unleash (High Level)
+Variant: Urgent Orders (Low Level)
+Variant: Urgent Orders (High Level)
+Variant: Vicious Projectiles (Low Level)
+Variant: Vicious Projectiles (High Level)
+Variant: Vile Toxins (Low Level)
+Variant: Vile Toxins (High Level)
+Variant: Void Manipulation (Low Level)
+Variant: Void Manipulation (High Level)
+Variant: Volley (Low Level)
+Variant: Volley (High Level)
+Variant: Withering Touch (Low Level)
+Variant: Withering Touch (High Level)
+Selected Variant: 125
+Great Crown
+Has Alt Variant: true
+Selected Alt Variant: 152
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 68
+Implicits: 0
+{variant:1}{range:0.5}Socketed Gems are Supported by Level (1-10) Added Chaos Damage
+{variant:2}{range:0.5}Socketed Gems are Supported by Level (25-35) Added Chaos Damage
+{variant:3}{range:0.5}Socketed Gems are Supported by Level (1-10) Added Cold Damage
+{variant:4}{range:0.5}Socketed Gems are Supported by Level (25-35) Added Cold Damage
+{variant:5}{range:0.5}Socketed Gems are Supported by Level (1-10) Added Fire Damage
+{variant:6}{range:0.5}Socketed Gems are Supported by Level (25-35) Added Fire Damage
+{variant:7}{range:0.5}Socketed Gems are Supported by Level (1-10) Added Lightning Damage
+{variant:8}{range:0.5}Socketed Gems are Supported by Level (25-35) Added Lightning Damage
+{variant:9}{range:0.5}Socketed Gems are Supported by Level (1-10) Additional Accuracy
+{variant:10}{range:0.5}Socketed Gems are Supported by Level (25-35) Additional Accuracy
+{variant:11}{range:0.5}Socketed Gems are Supported by Level (1-10) Advanced Traps
+{variant:12}{range:0.5}Socketed Gems are Supported by Level (25-35) Advanced Traps
+{variant:13}{range:0.5}Socketed Gems are Supported by Level (1-10) Ancestral Call
+{variant:14}{range:0.5}Socketed Gems are Supported by Level (25-35) Ancestral Call
+{variant:15}{range:0.5}Socketed Gems are Supported by Level (1-10) Arcane Surge
+{variant:16}{range:0.5}Socketed Gems are Supported by Level (25-35) Arcane Surge
+{variant:17}{range:0.5}Socketed Gems are Supported by Level (1-10) Archmage
+{variant:18}{range:0.5}Socketed Gems are Supported by Level (25-35) Archmage
+{variant:19}{range:0.5}Socketed Gems are Supported by Level (1-10) Arrogance
+{variant:20}{range:0.5}Socketed Gems are Supported by Level (25-35) Arrogance
+{variant:21}{range:0.5}Socketed Gems are Supported by Level (1-10) Arrow Nova
+{variant:22}{range:0.5}Socketed Gems are Supported by Level (25-35) Arrow Nova
+{variant:23}{range:0.5}Socketed Gems are Supported by Level (1-10) Ballista Totem
+{variant:24}{range:0.5}Socketed Gems are Supported by Level (25-35) Ballista Totem
+{variant:25}{range:0.5}Socketed Gems are Supported by Level (1-10) Barrage
+{variant:26}{range:0.5}Socketed Gems are Supported by Level (25-35) Barrage
+{variant:27}{range:0.5}Socketed Gems are Supported by Level (1-10) Behead
+{variant:28}{range:0.5}Socketed Gems are Supported by Level (25-35) Behead
+{variant:29}{range:0.5}Socketed Gems are Supported by Level (1-10) Blasphemy
+{variant:30}{range:0.5}Socketed Gems are Supported by Level (25-35) Blasphemy
+{variant:31}{range:0.5}Socketed Gems are Supported by Level (1-10) Blastchain Mine
+{variant:32}{range:0.5}Socketed Gems are Supported by Level (25-35) Blastchain Mine
+{variant:33}{range:0.5}Socketed Gems are Supported by Level (1-10) Blind
+{variant:34}{range:0.5}Socketed Gems are Supported by Level (25-35) Blind
+{variant:35}{range:0.5}Socketed Gems are Supported by Level (1-10) Bloodlust
+{variant:36}{range:0.5}Socketed Gems are Supported by Level (25-35) Bloodlust
+{variant:37}{range:0.5}Socketed Gems are Supported by Level (1-10) Bloodthirst
+{variant:38}{range:0.5}Socketed Gems are Supported by Level (25-35) Bloodthirst
+{variant:39}{range:0.5}Socketed Gems are Supported by Level (1-10) Bonechill
+{variant:40}{range:0.5}Socketed Gems are Supported by Level (25-35) Bonechill
+{variant:41}{range:0.5}Socketed Gems are Supported by Level (1-10) Brutality
+{variant:42}{range:0.5}Socketed Gems are Supported by Level (25-35) Brutality
+{variant:43}{range:0.5}Socketed Gems are Supported by Level (1-10) Burning Damage
+{variant:44}{range:0.5}Socketed Gems are Supported by Level (25-35) Burning Damage
+{variant:45}{range:0.5}Socketed Gems are Supported by Level (1-10) Cast On Critical Strike
+{variant:46}{range:0.5}Socketed Gems are Supported by Level (25-35) Cast On Critical Strike
+{variant:47}{range:0.5}Socketed Gems are Supported by Level (1-10) Cast on Death
+{variant:48}{range:0.5}Socketed Gems are Supported by Level (25-35) Cast on Death
+{variant:49}{range:0.5}Socketed Gems are Supported by Level (1-10) Cast on Melee Kill
+{variant:50}{range:0.5}Socketed Gems are Supported by Level (25-35) Cast on Melee Kill
+{variant:51}{range:0.5}Socketed Gems are Supported by Level (1-10) Cast when Damage Taken
+{variant:52}{range:0.5}Socketed Gems are Supported by Level (25-35) Cast when Damage Taken
+{variant:53}{range:0.5}Socketed Gems are Supported by Level (1-10) Cast when Stunned
+{variant:54}{range:0.5}Socketed Gems are Supported by Level (25-35) Cast when Stunned
+{variant:55}{range:0.5}Socketed Gems are Supported by Level (1-10) Cast while Channelling
+{variant:56}{range:0.5}Socketed Gems are Supported by Level (25-35) Cast while Channelling
+{variant:57}{range:0.5}Socketed Gems are Supported by Level (1-10) Chain
+{variant:58}{range:0.5}Socketed Gems are Supported by Level (25-35) Chain
+{variant:59}{range:0.5}Socketed Gems are Supported by Level (1-10) Chance to Bleed
+{variant:60}{range:0.5}Socketed Gems are Supported by Level (25-35) Chance to Bleed
+{variant:61}{range:0.5}Socketed Gems are Supported by Level (1-10) Chance to Flee
+{variant:62}{range:0.5}Socketed Gems are Supported by Level (25-35) Chance to Flee
+{variant:63}{range:0.5}Socketed Gems are Supported by Level (1-10) Chance to Poison
+{variant:64}{range:0.5}Socketed Gems are Supported by Level (25-35) Chance to Poison
+{variant:65}{range:0.5}Socketed Gems are Supported by Level (1-10) Charged Mines
+{variant:66}{range:0.5}Socketed Gems are Supported by Level (25-35) Charged Mines
+{variant:67}{range:0.5}Socketed Gems are Supported by Level (1-10) Charged Traps
+{variant:68}{range:0.5}Socketed Gems are Supported by Level (25-35) Charged Traps
+{variant:69}{range:0.5}Socketed Gems are Supported by Level (1-10) Close Combat
+{variant:70}{range:0.5}Socketed Gems are Supported by Level (25-35) Close Combat
+{variant:71}{range:0.5}Socketed Gems are Supported by Level (1-10) Cluster Traps
+{variant:72}{range:0.5}Socketed Gems are Supported by Level (25-35) Cluster Traps
+{variant:73}{range:0.5}Socketed Gems are Supported by Level (1-10) Cold Penetration
+{variant:74}{range:0.5}Socketed Gems are Supported by Level (25-35) Cold Penetration
+{variant:75}{range:0.5}Socketed Gems are Supported by Level (1-10) Cold to Fire
+{variant:76}{range:0.5}Socketed Gems are Supported by Level (25-35) Cold to Fire
+{variant:77}{range:0.5}Socketed Gems are Supported by Level (1-10) Combustion
+{variant:78}{range:0.5}Socketed Gems are Supported by Level (25-35) Combustion
+{variant:79}{range:0.5}Socketed Gems are Supported by Level (1-10) Concentrated Effect
+{variant:80}{range:0.5}Socketed Gems are Supported by Level (25-35) Concentrated Effect
+{variant:81}{range:0.5}Socketed Gems are Supported by Level (1-10) Controlled Destruction
+{variant:82}{range:0.5}Socketed Gems are Supported by Level (25-35) Controlled Destruction
+{variant:83}{range:0.5}Socketed Gems are Supported by Level (1-10) Critical Strike Affliction
+{variant:84}{range:0.5}Socketed Gems are Supported by Level (25-35) Critical Strike Affliction
+{variant:85}{range:0.5}Socketed Gems are Supported by Level (1-10) Cruelty
+{variant:86}{range:0.5}Socketed Gems are Supported by Level (25-35) Cruelty
+{variant:87}{range:0.5}Socketed Gems are Supported by Level (1-10) Culling Strike
+{variant:88}{range:0.5}Socketed Gems are Supported by Level (25-35) Culling Strike
+{variant:89}{range:0.5}Socketed Gems are Supported by Level (1-10) Damage on Full Life
+{variant:90}{range:0.5}Socketed Gems are Supported by Level (25-35) Damage on Full Life
+{variant:91}{range:0.5}Socketed Gems are Supported by Level (1-10) Deadly Ailments
+{variant:92}{range:0.5}Socketed Gems are Supported by Level (25-35) Deadly Ailments
+{variant:93}{range:0.5}Socketed Gems are Supported by Level (1-10) Decay
+{variant:94}{range:0.5}Socketed Gems are Supported by Level (25-35) Decay
+{variant:95}{range:0.5}Socketed Gems are Supported by Level (1-10) Divine Blessing
+{variant:96}{range:0.5}Socketed Gems are Supported by Level (25-35) Divine Blessing
+{variant:97}{range:0.5}Socketed Gems are Supported by Level (1-10) Earthbreaker
+{variant:98}{range:0.5}Socketed Gems are Supported by Level (25-35) Earthbreaker
+{variant:99}{range:0.5}Socketed Gems are Supported by Level (1-10) Efficacy
+{variant:100}{range:0.5}Socketed Gems are Supported by Level (25-35) Efficacy
+{variant:101}{range:0.5}Socketed Gems are Supported by Level (1-10) Elemental Army
+{variant:102}{range:0.5}Socketed Gems are Supported by Level (25-35) Elemental Army
+{variant:103}{range:0.5}Socketed Gems are Supported by Level (1-10) Elemental Damage with Attacks
+{variant:104}{range:0.5}Socketed Gems are Supported by Level (25-35) Elemental Damage with Attacks
+{variant:105}{range:0.5}Socketed Gems are Supported by Level (1-10) Elemental Focus
+{variant:106}{range:0.5}Socketed Gems are Supported by Level (25-35) Elemental Focus
+{variant:107}{range:0.5}Socketed Gems are Supported by Level (1-10) Elemental Penetration
+{variant:108}{range:0.5}Socketed Gems are Supported by Level (25-35) Elemental Penetration
+{variant:109}{range:0.5}Socketed Gems are Supported by Level (1-10) Elemental Proliferation
+{variant:110}{range:0.5}Socketed Gems are Supported by Level (25-35) Elemental Proliferation
+{variant:111}{range:0.5}Socketed Gems are Supported by Level (1-10) Endurance Charge on Melee Stun
+{variant:112}{range:0.5}Socketed Gems are Supported by Level (25-35) Endurance Charge on Melee Stun
+{variant:113}{range:0.5}Socketed Gems are Supported by Level (1-10) Energy Leech
+{variant:114}{range:0.5}Socketed Gems are Supported by Level (25-35) Energy Leech
+{variant:115}{range:0.5}Socketed Gems are Supported by Level (1-10) Eternal Blessing
+{variant:116}{range:0.5}Socketed Gems are Supported by Level (25-35) Eternal Blessing
+{variant:117}{range:0.5}Socketed Gems are Supported by Level (1-10) Faster Attacks
+{variant:118}{range:0.5}Socketed Gems are Supported by Level (25-35) Faster Attacks
+{variant:119}{range:0.5}Socketed Gems are Supported by Level (1-10) Faster Casting
+{variant:120}{range:0.5}Socketed Gems are Supported by Level (25-35) Faster Casting
+{variant:121}{range:0.5}Socketed Gems are Supported by Level (1-10) Faster Projectiles
+{variant:122}{range:0.5}Socketed Gems are Supported by Level (25-35) Faster Projectiles
+{variant:123}{range:0.5}Socketed Gems are Supported by Level (1-10) Feeding Frenzy
+{variant:124}{range:0.5}Socketed Gems are Supported by Level (25-35) Feeding Frenzy
+{variant:125}{range:0.927}Socketed Gems are Supported by Level (1-10) Fire Penetration
+{variant:126}{range:0.5}Socketed Gems are Supported by Level (25-35) Fire Penetration
+{variant:127}{range:0.5}Socketed Gems are Supported by Level (1-10) Fist of War
+{variant:128}{range:0.5}Socketed Gems are Supported by Level (25-35) Fist of War
+{variant:129}{range:0.5}Socketed Gems are Supported by Level (1-10) Focused Ballista
+{variant:130}{range:0.5}Socketed Gems are Supported by Level (25-35) Focused Ballista
+{variant:131}{range:0.5}Socketed Gems are Supported by Level (1-10) Fork
+{variant:132}{range:0.5}Socketed Gems are Supported by Level (25-35) Fork
+{variant:133}{range:0.5}Socketed Gems are Supported by Level (1-10) Fortify
+{variant:134}{range:0.5}Socketed Gems are Supported by Level (25-35) Fortify
+{variant:135}{range:0.5}Socketed Gems are Supported by Level (1-10) Generosity
+{variant:136}{range:0.5}Socketed Gems are Supported by Level (25-35) Generosity
+{variant:137}{range:0.5}Socketed Gems are Supported by Level (1-10) Greater Multiple Projectiles
+{variant:138}{range:0.5}Socketed Gems are Supported by Level (25-35) Greater Multiple Projectiles
+{variant:139}{range:0.5}Socketed Gems are Supported by Level (1-10) Greater Volley
+{variant:140}{range:0.5}Socketed Gems are Supported by Level (25-35) Greater Volley
+{variant:141}{range:0.5}Socketed Gems are Supported by Level (1-10) Hextouch
+{variant:142}{range:0.5}Socketed Gems are Supported by Level (25-35) Hextouch
+{variant:143}{range:0.5}Socketed Gems are Supported by Level (1-10) High-Impact Mine
+{variant:144}{range:0.5}Socketed Gems are Supported by Level (25-35) High-Impact Mine
+{variant:145}{range:0.5}Socketed Gems are Supported by Level (1-10) Hypothermia
+{variant:146}{range:0.5}Socketed Gems are Supported by Level (25-35) Hypothermia
+{variant:147}{range:0.5}Socketed Gems are Supported by Level (1-10) Ice Bite
+{variant:148}{range:0.5}Socketed Gems are Supported by Level (25-35) Ice Bite
+{variant:149}{range:0.5}Socketed Gems are Supported by Level (1-10) Ignite Proliferation
+{variant:150}{range:0.5}Socketed Gems are Supported by Level (25-35) Ignite Proliferation
+{variant:151}{range:0.5}Socketed Gems are Supported by Level (1-10) Immolate
+{variant:152}{range:0.707}Socketed Gems are Supported by Level (25-35) Immolate
+{variant:153}{range:0.5}Socketed Gems are Supported by Level (1-10) Impale
+{variant:154}{range:0.5}Socketed Gems are Supported by Level (25-35) Impale
+{variant:155}{range:0.5}Socketed Gems are Supported by Level (1-10) Impending Doom
+{variant:156}{range:0.5}Socketed Gems are Supported by Level (25-35) Impending Doom
+{variant:157}{range:0.5}Socketed Gems are Supported by Level (1-10) Increased Area of Effect
+{variant:158}{range:0.5}Socketed Gems are Supported by Level (25-35) Increased Area of Effect
+{variant:159}{range:0.5}Socketed Gems are Supported by Level (1-10) Increased Critical Damage
+{variant:160}{range:0.5}Socketed Gems are Supported by Level (25-35) Increased Critical Damage
+{variant:161}{range:0.5}Socketed Gems are Supported by Level (1-10) Increased Critical Strikes
+{variant:162}{range:0.5}Socketed Gems are Supported by Level (25-35) Increased Critical Strikes
+{variant:163}{range:0.5}Socketed Gems are Supported by Level (1-10) Increased Duration
+{variant:164}{range:0.5}Socketed Gems are Supported by Level (25-35) Increased Duration
+{variant:165}{range:0.5}Socketed Gems are Supported by Level (1-10) Infernal Legion
+{variant:166}{range:0.5}Socketed Gems are Supported by Level (25-35) Infernal Legion
+{variant:167}{range:0.5}Socketed Gems are Supported by Level (1-10) Infused Channelling
+{variant:168}{range:0.5}Socketed Gems are Supported by Level (25-35) Infused Channelling
+{variant:169}{range:0.5}Socketed Gems are Supported by Level (1-10) Innervate
+{variant:170}{range:0.5}Socketed Gems are Supported by Level (25-35) Innervate
+{variant:171}{range:0.5}Socketed Gems are Supported by Level (1-10) Inspiration
+{variant:172}{range:0.5}Socketed Gems are Supported by Level (25-35) Inspiration
+{variant:173}{range:0.5}Socketed Gems are Supported by Level (1-10) Intensify
+{variant:174}{range:0.5}Socketed Gems are Supported by Level (25-35) Intensify
+{variant:175}{range:0.5}Socketed Gems are Supported by Level (1-10) Iron Grip
+{variant:176}{range:0.5}Socketed Gems are Supported by Level (25-35) Iron Grip
+{variant:177}{range:0.5}Socketed Gems are Supported by Level (1-10) Iron Will
+{variant:178}{range:0.5}Socketed Gems are Supported by Level (25-35) Iron Will
+{variant:179}{range:0.5}Socketed Gems are Supported by Level (1-10) Item Rarity
+{variant:180}{range:0.5}Socketed Gems are Supported by Level (25-35) Item Rarity
+{variant:181}{range:0.5}Socketed Gems are Supported by Level (1-10) Knockback
+{variant:182}{range:0.5}Socketed Gems are Supported by Level (25-35) Knockback
+{variant:183}{range:0.5}Socketed Gems are Supported by Level (1-10) Less Duration
+{variant:184}{range:0.5}Socketed Gems are Supported by Level (25-35) Less Duration
+{variant:185}{range:0.5}Socketed Gems are Supported by Level (1-10) Lesser Multiple Projectiles
+{variant:186}{range:0.5}Socketed Gems are Supported by Level (25-35) Lesser Multiple Projectiles
+{variant:187}{range:0.5}Socketed Gems are Supported by Level (1-10) Life Gain on Hit
+{variant:188}{range:0.5}Socketed Gems are Supported by Level (25-35) Life Gain on Hit
+{variant:189}{range:0.5}Socketed Gems are Supported by Level (1-10) Life Leech
+{variant:190}{range:0.5}Socketed Gems are Supported by Level (25-35) Life Leech
+{variant:191}{range:0.5}Socketed Gems are Supported by Level (1-10) Lifetap
+{variant:192}{range:0.5}Socketed Gems are Supported by Level (25-35) Lifetap
+{variant:193}{range:0.5}Socketed Gems are Supported by Level (1-10) Lightning Penetration
+{variant:194}{range:0.5}Socketed Gems are Supported by Level (25-35) Lightning Penetration
+{variant:195}{range:0.5}Socketed Gems are Supported by Level (1-10) Maim
+{variant:196}{range:0.5}Socketed Gems are Supported by Level (25-35) Maim
+{variant:197}{range:0.5}Socketed Gems are Supported by Level (1-10) Mana Leech
+{variant:198}{range:0.5}Socketed Gems are Supported by Level (25-35) Mana Leech
+{variant:199}{range:0.5}Socketed Gems are Supported by Level (1-10) Mark On Hit
+{variant:200}{range:0.5}Socketed Gems are Supported by Level (25-35) Mark On Hit
+{variant:201}{range:0.5}Socketed Gems are Supported by Level (1-10) Meat Shield
+{variant:202}{range:0.5}Socketed Gems are Supported by Level (25-35) Meat Shield
+{variant:203}{range:0.5}Socketed Gems are Supported by Level (1-10) Melee Physical Damage
+{variant:204}{range:0.5}Socketed Gems are Supported by Level (25-35) Melee Physical Damage
+{variant:205}{range:0.5}Socketed Gems are Supported by Level (1-10) Melee Splash
+{variant:206}{range:0.5}Socketed Gems are Supported by Level (25-35) Melee Splash
+{variant:207}{range:0.5}Socketed Gems are Supported by Level (1-10) Minefield
+{variant:208}{range:0.5}Socketed Gems are Supported by Level (25-35) Minefield
+{variant:209}{range:0.5}Socketed Gems are Supported by Level (1-10) Minion Damage
+{variant:210}{range:0.5}Socketed Gems are Supported by Level (25-35) Minion Damage
+{variant:211}{range:0.5}Socketed Gems are Supported by Level (1-10) Minion Life
+{variant:212}{range:0.5}Socketed Gems are Supported by Level (25-35) Minion Life
+{variant:213}{range:0.5}Socketed Gems are Supported by Level (1-10) Minion Speed
+{variant:214}{range:0.5}Socketed Gems are Supported by Level (25-35) Minion Speed
+{variant:215}{range:0.5}Socketed Gems are Supported by Level (1-10) Mirage Archer
+{variant:216}{range:0.5}Socketed Gems are Supported by Level (25-35) Mirage Archer
+{variant:217}{range:0.5}Socketed Gems are Supported by Level (1-10) Multiple Totems
+{variant:218}{range:0.5}Socketed Gems are Supported by Level (25-35) Multiple Totems
+{variant:219}{range:0.5}Socketed Gems are Supported by Level (1-10) Multiple Traps
+{variant:220}{range:0.5}Socketed Gems are Supported by Level (25-35) Multiple Traps
+{variant:221}{range:0.5}Socketed Gems are Supported by Level (1-10) Multistrike
+{variant:222}{range:0.5}Socketed Gems are Supported by Level (25-35) Multistrike
+{variant:223}{range:0.5}Socketed Gems are Supported by Level (1-10) Nightblade
+{variant:224}{range:0.5}Socketed Gems are Supported by Level (25-35) Nightblade
+{variant:225}{range:0.5}Socketed Gems are Supported by Level (1-10) Onslaught
+{variant:226}{range:0.5}Socketed Gems are Supported by Level (25-35) Onslaught
+{variant:227}{range:0.5}Socketed Gems are Supported by Level (1-10) Physical to Lightning
+{variant:228}{range:0.5}Socketed Gems are Supported by Level (25-35) Physical to Lightning
+{variant:229}{range:0.5}Socketed Gems are Supported by Level (1-10) Pierce
+{variant:230}{range:0.5}Socketed Gems are Supported by Level (25-35) Pierce
+{variant:231}{range:0.5}Socketed Gems are Supported by Level (1-10) Pinpoint
+{variant:232}{range:0.5}Socketed Gems are Supported by Level (25-35) Pinpoint
+{variant:233}{range:0.5}Socketed Gems are Supported by Level (1-10) Point Blank
+{variant:234}{range:0.5}Socketed Gems are Supported by Level (25-35) Point Blank
+{variant:235}{range:0.5}Socketed Gems are Supported by Level (1-10) Power Charge On Critical
+{variant:236}{range:0.5}Socketed Gems are Supported by Level (25-35) Power Charge On Critical
+{variant:237}{range:0.5}Socketed Gems are Supported by Level (1-10) Predator
+{variant:238}{range:0.5}Socketed Gems are Supported by Level (25-35) Predator
+{variant:239}{range:0.5}Socketed Gems are Supported by Level (1-10) Pulverise
+{variant:240}{range:0.5}Socketed Gems are Supported by Level (25-35) Pulverise
+{variant:241}{range:0.5}Socketed Gems are Supported by Level (1-10) Rage
+{variant:242}{range:0.5}Socketed Gems are Supported by Level (25-35) Rage
+{variant:243}{range:0.5}Socketed Gems are Supported by Level (1-10) Ruthless
+{variant:244}{range:0.5}Socketed Gems are Supported by Level (25-35) Ruthless
+{variant:245}{range:0.5}Socketed Gems are Supported by Level (1-10) Second Wind
+{variant:246}{range:0.5}Socketed Gems are Supported by Level (25-35) Second Wind
+{variant:247}{range:0.5}Socketed Gems are Supported by Level (1-10) Shockwave
+{variant:248}{range:0.5}Socketed Gems are Supported by Level (25-35) Shockwave
+{variant:249}{range:0.5}Socketed Gems are Supported by Level (1-10) Slower Projectiles
+{variant:250}{range:0.5}Socketed Gems are Supported by Level (25-35) Slower Projectiles
+{variant:251}{range:0.5}Socketed Gems are Supported by Level (1-10) Spell Cascade
+{variant:252}{range:0.5}Socketed Gems are Supported by Level (25-35) Spell Cascade
+{variant:253}{range:0.5}Socketed Gems are Supported by Level (1-10) Spell Echo
+{variant:254}{range:0.5}Socketed Gems are Supported by Level (25-35) Spell Echo
+{variant:255}{range:0.5}Socketed Gems are Supported by Level (1-10) Spell Totem
+{variant:256}{range:0.5}Socketed Gems are Supported by Level (25-35) Spell Totem
+{variant:257}{range:0.5}Socketed Gems are Supported by Level (1-10) Stun
+{variant:258}{range:0.5}Socketed Gems are Supported by Level (25-35) Stun
+{variant:259}{range:0.5}Socketed Gems are Supported by Level (1-10) Summon Phantasm
+{variant:260}{range:0.5}Socketed Gems are Supported by Level (25-35) Summon Phantasm
+{variant:261}{range:0.5}Socketed Gems are Supported by Level (1-10) Swift Affliction
+{variant:262}{range:0.5}Socketed Gems are Supported by Level (25-35) Swift Affliction
+{variant:263}{range:0.5}Socketed Gems are Supported by Level (1-10) Swift Assembly
+{variant:264}{range:0.5}Socketed Gems are Supported by Level (25-35) Swift Assembly
+{variant:265}{range:0.5}Socketed Gems are Supported by Level (1-10) Swiftbrand
+{variant:266}{range:0.5}Socketed Gems are Supported by Level (25-35) Swiftbrand
+{variant:267}{range:0.5}Socketed Gems are Supported by Level (1-10) Trap
+{variant:268}{range:0.5}Socketed Gems are Supported by Level (25-35) Trap
+{variant:269}{range:0.5}Socketed Gems are Supported by Level (1-10) Trap and Mine Damage
+{variant:270}{range:0.5}Socketed Gems are Supported by Level (25-35) Trap and Mine Damage
+{variant:271}{range:0.5}Socketed Gems are Supported by Level (1-10) Trinity
+{variant:272}{range:0.5}Socketed Gems are Supported by Level (25-35) Trinity
+{variant:273}{range:0.5}Socketed Gems are Supported by Level (1-10) Unbound Ailments
+{variant:274}{range:0.5}Socketed Gems are Supported by Level (25-35) Unbound Ailments
+{variant:275}{range:0.5}Socketed Gems are Supported by Level (1-10) Unleash
+{variant:276}{range:0.5}Socketed Gems are Supported by Level (25-35) Unleash
+{variant:277}{range:0.5}Socketed Gems are Supported by Level (1-10) Urgent Orders
+{variant:278}{range:0.5}Socketed Gems are Supported by Level (25-35) Urgent Orders
+{variant:279}{range:0.5}Socketed Gems are Supported by Level (1-10) Vicious Projectiles
+{variant:280}{range:0.5}Socketed Gems are Supported by Level (25-35) Vicious Projectiles
+{variant:281}{range:0.5}Socketed Gems are Supported by Level (1-10) Vile Toxins
+{variant:282}{range:0.5}Socketed Gems are Supported by Level (25-35) Vile Toxins
+{variant:283}{range:0.5}Socketed Gems are Supported by Level (1-10) Void Manipulation
+{variant:284}{range:0.5}Socketed Gems are Supported by Level (25-35) Void Manipulation
+{variant:285}{range:0.5}Socketed Gems are Supported by Level (1-10) Volley
+{variant:286}{range:0.5}Socketed Gems are Supported by Level (25-35) Volley
+{variant:287}{range:0.5}Socketed Gems are Supported by Level (1-10) Withering Touch
+{variant:288}{range:0.5}Socketed Gems are Supported by Level (25-35) Withering Touch
+{range:0.5}+(25-30) to all Attributes
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+			<ModRange range="0.5" id="46"/>
+			<ModRange range="0.5" id="47"/>
+			<ModRange range="0.5" id="48"/>
+			<ModRange range="0.5" id="49"/>
+			<ModRange range="0.5" id="50"/>
+			<ModRange range="0.5" id="51"/>
+			<ModRange range="0.5" id="52"/>
+			<ModRange range="0.5" id="53"/>
+			<ModRange range="0.5" id="54"/>
+			<ModRange range="0.5" id="55"/>
+			<ModRange range="0.5" id="56"/>
+			<ModRange range="0.5" id="57"/>
+			<ModRange range="0.5" id="58"/>
+			<ModRange range="0.5" id="59"/>
+			<ModRange range="0.5" id="60"/>
+			<ModRange range="0.5" id="61"/>
+			<ModRange range="0.5" id="62"/>
+			<ModRange range="0.5" id="63"/>
+			<ModRange range="0.5" id="64"/>
+			<ModRange range="0.5" id="65"/>
+			<ModRange range="0.5" id="66"/>
+			<ModRange range="0.5" id="67"/>
+			<ModRange range="0.5" id="68"/>
+			<ModRange range="0.5" id="69"/>
+			<ModRange range="0.5" id="70"/>
+			<ModRange range="0.5" id="71"/>
+			<ModRange range="0.5" id="72"/>
+			<ModRange range="0.5" id="73"/>
+			<ModRange range="0.5" id="74"/>
+			<ModRange range="0.5" id="75"/>
+			<ModRange range="0.5" id="76"/>
+			<ModRange range="0.5" id="77"/>
+			<ModRange range="0.5" id="78"/>
+			<ModRange range="0.5" id="79"/>
+			<ModRange range="0.5" id="80"/>
+			<ModRange range="0.5" id="81"/>
+			<ModRange range="0.5" id="82"/>
+			<ModRange range="0.5" id="83"/>
+			<ModRange range="0.5" id="84"/>
+			<ModRange range="0.5" id="85"/>
+			<ModRange range="0.5" id="86"/>
+			<ModRange range="0.5" id="87"/>
+			<ModRange range="0.5" id="88"/>
+			<ModRange range="0.5" id="89"/>
+			<ModRange range="0.5" id="90"/>
+			<ModRange range="0.5" id="91"/>
+			<ModRange range="0.5" id="92"/>
+			<ModRange range="0.5" id="93"/>
+			<ModRange range="0.5" id="94"/>
+			<ModRange range="0.5" id="95"/>
+			<ModRange range="0.5" id="96"/>
+			<ModRange range="0.5" id="97"/>
+			<ModRange range="0.5" id="98"/>
+			<ModRange range="0.5" id="99"/>
+			<ModRange range="0.5" id="100"/>
+			<ModRange range="0.5" id="101"/>
+			<ModRange range="0.5" id="102"/>
+			<ModRange range="0.5" id="103"/>
+			<ModRange range="0.5" id="104"/>
+			<ModRange range="0.5" id="105"/>
+			<ModRange range="0.5" id="106"/>
+			<ModRange range="0.5" id="107"/>
+			<ModRange range="0.5" id="108"/>
+			<ModRange range="0.5" id="109"/>
+			<ModRange range="0.5" id="110"/>
+			<ModRange range="0.5" id="111"/>
+			<ModRange range="0.5" id="112"/>
+			<ModRange range="0.5" id="113"/>
+			<ModRange range="0.5" id="114"/>
+			<ModRange range="0.5" id="115"/>
+			<ModRange range="0.5" id="116"/>
+			<ModRange range="0.5" id="117"/>
+			<ModRange range="0.5" id="118"/>
+			<ModRange range="0.5" id="119"/>
+			<ModRange range="0.5" id="120"/>
+			<ModRange range="0.5" id="121"/>
+			<ModRange range="0.5" id="122"/>
+			<ModRange range="0.5" id="123"/>
+			<ModRange range="0.5" id="124"/>
+			<ModRange range="0.927" id="125"/>
+			<ModRange range="0.5" id="126"/>
+			<ModRange range="0.5" id="127"/>
+			<ModRange range="0.5" id="128"/>
+			<ModRange range="0.5" id="129"/>
+			<ModRange range="0.5" id="130"/>
+			<ModRange range="0.5" id="131"/>
+			<ModRange range="0.5" id="132"/>
+			<ModRange range="0.5" id="133"/>
+			<ModRange range="0.5" id="134"/>
+			<ModRange range="0.5" id="135"/>
+			<ModRange range="0.5" id="136"/>
+			<ModRange range="0.5" id="137"/>
+			<ModRange range="0.5" id="138"/>
+			<ModRange range="0.5" id="139"/>
+			<ModRange range="0.5" id="140"/>
+			<ModRange range="0.5" id="141"/>
+			<ModRange range="0.5" id="142"/>
+			<ModRange range="0.5" id="143"/>
+			<ModRange range="0.5" id="144"/>
+			<ModRange range="0.5" id="145"/>
+			<ModRange range="0.5" id="146"/>
+			<ModRange range="0.5" id="147"/>
+			<ModRange range="0.5" id="148"/>
+			<ModRange range="0.5" id="149"/>
+			<ModRange range="0.5" id="150"/>
+			<ModRange range="0.5" id="151"/>
+			<ModRange range="0.707" id="152"/>
+			<ModRange range="0.5" id="153"/>
+			<ModRange range="0.5" id="154"/>
+			<ModRange range="0.5" id="155"/>
+			<ModRange range="0.5" id="156"/>
+			<ModRange range="0.5" id="157"/>
+			<ModRange range="0.5" id="158"/>
+			<ModRange range="0.5" id="159"/>
+			<ModRange range="0.5" id="160"/>
+			<ModRange range="0.5" id="161"/>
+			<ModRange range="0.5" id="162"/>
+			<ModRange range="0.5" id="163"/>
+			<ModRange range="0.5" id="164"/>
+			<ModRange range="0.5" id="165"/>
+			<ModRange range="0.5" id="166"/>
+			<ModRange range="0.5" id="167"/>
+			<ModRange range="0.5" id="168"/>
+			<ModRange range="0.5" id="169"/>
+			<ModRange range="0.5" id="170"/>
+			<ModRange range="0.5" id="171"/>
+			<ModRange range="0.5" id="172"/>
+			<ModRange range="0.5" id="173"/>
+			<ModRange range="0.5" id="174"/>
+			<ModRange range="0.5" id="175"/>
+			<ModRange range="0.5" id="176"/>
+			<ModRange range="0.5" id="177"/>
+			<ModRange range="0.5" id="178"/>
+			<ModRange range="0.5" id="179"/>
+			<ModRange range="0.5" id="180"/>
+			<ModRange range="0.5" id="181"/>
+			<ModRange range="0.5" id="182"/>
+			<ModRange range="0.5" id="183"/>
+			<ModRange range="0.5" id="184"/>
+			<ModRange range="0.5" id="185"/>
+			<ModRange range="0.5" id="186"/>
+			<ModRange range="0.5" id="187"/>
+			<ModRange range="0.5" id="188"/>
+			<ModRange range="0.5" id="189"/>
+			<ModRange range="0.5" id="190"/>
+			<ModRange range="0.5" id="191"/>
+			<ModRange range="0.5" id="192"/>
+			<ModRange range="0.5" id="193"/>
+			<ModRange range="0.5" id="194"/>
+			<ModRange range="0.5" id="195"/>
+			<ModRange range="0.5" id="196"/>
+			<ModRange range="0.5" id="197"/>
+			<ModRange range="0.5" id="198"/>
+			<ModRange range="0.5" id="199"/>
+			<ModRange range="0.5" id="200"/>
+			<ModRange range="0.5" id="201"/>
+			<ModRange range="0.5" id="202"/>
+			<ModRange range="0.5" id="203"/>
+			<ModRange range="0.5" id="204"/>
+			<ModRange range="0.5" id="205"/>
+			<ModRange range="0.5" id="206"/>
+			<ModRange range="0.5" id="207"/>
+			<ModRange range="0.5" id="208"/>
+			<ModRange range="0.5" id="209"/>
+			<ModRange range="0.5" id="210"/>
+			<ModRange range="0.5" id="211"/>
+			<ModRange range="0.5" id="212"/>
+			<ModRange range="0.5" id="213"/>
+			<ModRange range="0.5" id="214"/>
+			<ModRange range="0.5" id="215"/>
+			<ModRange range="0.5" id="216"/>
+			<ModRange range="0.5" id="217"/>
+			<ModRange range="0.5" id="218"/>
+			<ModRange range="0.5" id="219"/>
+			<ModRange range="0.5" id="220"/>
+			<ModRange range="0.5" id="221"/>
+			<ModRange range="0.5" id="222"/>
+			<ModRange range="0.5" id="223"/>
+			<ModRange range="0.5" id="224"/>
+			<ModRange range="0.5" id="225"/>
+			<ModRange range="0.5" id="226"/>
+			<ModRange range="0.5" id="227"/>
+			<ModRange range="0.5" id="228"/>
+			<ModRange range="0.5" id="229"/>
+			<ModRange range="0.5" id="230"/>
+			<ModRange range="0.5" id="231"/>
+			<ModRange range="0.5" id="232"/>
+			<ModRange range="0.5" id="233"/>
+			<ModRange range="0.5" id="234"/>
+			<ModRange range="0.5" id="235"/>
+			<ModRange range="0.5" id="236"/>
+			<ModRange range="0.5" id="237"/>
+			<ModRange range="0.5" id="238"/>
+			<ModRange range="0.5" id="239"/>
+			<ModRange range="0.5" id="240"/>
+			<ModRange range="0.5" id="241"/>
+			<ModRange range="0.5" id="242"/>
+			<ModRange range="0.5" id="243"/>
+			<ModRange range="0.5" id="244"/>
+			<ModRange range="0.5" id="245"/>
+			<ModRange range="0.5" id="246"/>
+			<ModRange range="0.5" id="247"/>
+			<ModRange range="0.5" id="248"/>
+			<ModRange range="0.5" id="249"/>
+			<ModRange range="0.5" id="250"/>
+			<ModRange range="0.5" id="251"/>
+			<ModRange range="0.5" id="252"/>
+			<ModRange range="0.5" id="253"/>
+			<ModRange range="0.5" id="254"/>
+			<ModRange range="0.5" id="255"/>
+			<ModRange range="0.5" id="256"/>
+			<ModRange range="0.5" id="257"/>
+			<ModRange range="0.5" id="258"/>
+			<ModRange range="0.5" id="259"/>
+			<ModRange range="0.5" id="260"/>
+			<ModRange range="0.5" id="261"/>
+			<ModRange range="0.5" id="262"/>
+			<ModRange range="0.5" id="263"/>
+			<ModRange range="0.5" id="264"/>
+			<ModRange range="0.5" id="265"/>
+			<ModRange range="0.5" id="266"/>
+			<ModRange range="0.5" id="267"/>
+			<ModRange range="0.5" id="268"/>
+			<ModRange range="0.5" id="269"/>
+			<ModRange range="0.5" id="270"/>
+			<ModRange range="0.5" id="271"/>
+			<ModRange range="0.5" id="272"/>
+			<ModRange range="0.5" id="273"/>
+			<ModRange range="0.5" id="274"/>
+			<ModRange range="0.5" id="275"/>
+			<ModRange range="0.5" id="276"/>
+			<ModRange range="0.5" id="277"/>
+			<ModRange range="0.5" id="278"/>
+			<ModRange range="0.5" id="279"/>
+			<ModRange range="0.5" id="280"/>
+			<ModRange range="0.5" id="281"/>
+			<ModRange range="0.5" id="282"/>
+			<ModRange range="0.5" id="283"/>
+			<ModRange range="0.5" id="284"/>
+			<ModRange range="0.5" id="285"/>
+			<ModRange range="0.5" id="286"/>
+			<ModRange range="0.5" id="287"/>
+			<ModRange range="0.5" id="288"/>
+			<ModRange range="0.5" id="289"/>
+		</Item>
+		<Item variant="3" id="3">
+			Rarity: UNIQUE
+Pyre
+Sapphire Ring
+Variant: Pre 2.6.0
+Variant: Pre 3.0.0
+Variant: Current
+Selected Variant: 3
+Sapphire Ring
+LevelReq: 11
+Implicits: 1
+{tags:jewellery_resistance}{range:0.037}+(20-30)% to Cold Resistance
+{tags:jewellery_resistance}{range:0.988}+(25-35)% to Fire Resistance
+{tags:jewellery_elemental}{variant:1,2}{range:0.5}(25-35)% increased Burning Damage
+{tags:jewellery_elemental}{variant:3}{range:0.5}(60-80)% increased Burning Damage
+{tags:jewellery_elemental}{variant:1}100% of Cold Damage Converted to Fire Damage
+{tags:jewellery_elemental}{variant:2,3}40% of Cold Damage Converted to Fire Damage
+10% increased Light Radius
+Ignited Enemies you hit are destroyed on Kill
+			<ModRange range="0.037" id="1"/>
+			<ModRange range="0.988" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="4">
+			Rarity: MAGIC
+Surgeon&apos;s Diamond Flask of Piercing
+Crafted: true
+Prefix: {range:0.5}FlaskChanceRechargeOnCrit5
+Suffix: {range:1}FlaskBuffCriticalChanceWhileHealing2_
+Quality: 20
+LevelReq: 64
+Implicits: 0
+33% chance to gain a Flask Charge when you deal a Critical Strike
+37% increased Critical Strike Chance during Flask Effect
+		</Item>
+		<Item id="5">
+			Rarity: UNIQUE
+Might of the Meek
+Crimson Jewel
+Radius: Large
+Implicits: 0
+50% increased Effect of non-Keystone Passive Skills in Radius
+Notable Passive Skills in Radius grant nothing
+		</Item>
+		<Item variant="2" id="6">
+			Rarity: UNIQUE
+Atziri&apos;s Step
+Slink Boots
+Evasion: 849
+EvasionBasePercentile: 1
+Variant: Pre 3.16.0
+Variant: Current
+Selected Variant: 2
+Slink Boots
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 69
+Implicits: 0
+180% increased Evasion Rating
+{range:0.768}+(55-75) to maximum Life
+30% increased Movement Speed
+{variant:1}{range:0.5}(21-24)% chance to Suppress Spell Damage
+{variant:2}{range:1}(20-26)% chance to Suppress Spell Damage
+			<ModRange range="0.768" id="2"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="1" id="5"/>
+		</Item>
+		<Item id="7">
+			Rarity: RARE
+New Item
+Vaal Regalia
+Energy Shield: 517
+EnergyShieldBasePercentile: 0
+Elder Item
+Crafted: true
+Prefix: {range:0.908}LocalIncreasedEnergyShield9
+Prefix: {range:0.944}LocalIncreasedEnergyShieldPercent6
+Prefix: {range:0.155}IncreasedLife9
+Suffix: {range:0.93}AdditionalCriticalStrikeChanceWithAttacksUber1
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B-B-B-B
+LevelReq: 68
+Implicits: 0
++75 to maximum Energy Shield
+90% increased Energy Shield
++91 to maximum Life
+Attacks have +1% to Critical Strike Chance
+{tags:unveiled_mod,elemental,lightning,chaos,resistance}{crafted}{range:1}+(13-15)% to Lightning and Chaos Resistances
+			<ModRange range="1" id="5"/>
+		</Item>
+		<Item variant="2" id="8">
+			Rarity: UNIQUE
+Energy From Within
+Cobalt Jewel
+Variant: Pre 2.5.0
+Variant: Current
+Selected Variant: 2
+Cobalt Jewel
+Radius: Large
+Implicits: 0
+{variant:1}{range:0.5}(8-12)% increased maximum Energy Shield
+{variant:2}{range:1}(3-6)% increased maximum Energy Shield
+Increases and Reductions to Life in Radius are Transformed to apply to Energy Shield
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="1" id="2"/>
+		</Item>
+		<Item id="9">
+			Rarity: RARE
+New Item
+Fingerless Silk Gloves
+Energy Shield: 150
+EnergyShieldBasePercentile: 0
+Crafted: true
+Prefix: {range:0.908}IncreasedLife6
+Prefix: {range:0.447}LocalIncreasedEnergyShield6
+Prefix: {range:0.19}LocalIncreasedEnergyShieldPercent5
+Suffix: None
+Suffix: {range:0.803}FireResist6
+Suffix: None
+Quality: 20
+Sockets: B-B-B-B
+LevelReq: 70
+Implicits: 1
+{tags:caster_damage,damage,caster}{range:0.5}(12-16)% increased Spell Damage
++34 to maximum Energy Shield
+70% increased Energy Shield
++68 to maximum Life
++40% to Fire Resistance
+{tags:attribute}{crafted}{range:0.5}+(26-30) to Strength
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="10">
+			Rarity: RARE
+New Item
+Amber Amulet
+Crafted: true
+Prefix: {range:0.986}IncreasedEnergyShield8
+Prefix: {range:0.25}IncreasedEnergyShieldPercent6
+Prefix: {range:0.162}IncreasedLife7
+Suffix: None
+Suffix: {range:0.676}CriticalMultiplier4
+Suffix: {range:0.394}AllResistances5
+Quality: 0
+LevelReq: 56
+Implicits: 2
+{crafted}Allocates Divine Judgement
+{tags:attribute}{range:1}+(20-30) to Strength
++28% to Global Critical Strike Multiplier
++31 to maximum Energy Shield
+18% increased maximum Energy Shield
++71 to maximum Life
++15% to all Elemental Resistances
+{tags:elemental,fire,cold,resistance}{crafted}{range:0.5}+(13-16)% to Fire and Cold Resistances
+			<ModRange range="1" id="2"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="11">
+			Rarity: UNIQUE
+Mark of the Shaper
+Opal Ring
+Shaper Item
+Catalyst: Imbued
+CatalystQuality: 20
+LevelReq: 80
+Implicits: 1
+{tags:jewellery_elemental}{range:1}(15-25)% increased Elemental Damage
+{tags:jewellery_elemental,caster}{range:0.5}Adds (13-18) to (50-56) Lightning Damage to Spells
+{tags:jewellery_defense}{range:0.878}(6-10)% increased maximum Energy Shield
+{tags:life}{range:0.5}(6-10)% increased maximum Life
+{tags:caster}{range:0.878}(60-80)% increased Spell Damage if your other Ring is an Elder Item
+Cannot be Stunned by Spells if your other Ring is a Shaper Item
+20% chance to Trigger Level 20 Summon Volatile Anomaly on Kill
+			<ModRange range="1" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.878" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.878" id="5"/>
+		</Item>
+		<Item id="12">
+			Rarity: RARE
+New Item
+Two-Stone Ring (Cold/Lightning)
+Elder Item
+Crafted: true
+Prefix: {range:0.567}IncreasedEnergyShield10
+Prefix: {range:0.69}IncreasedLife5
+Prefix: None
+Suffix: {range:0.764}CriticalStrikeMultiplierUber2_
+Suffix: {range:0.845}ColdResist5
+Suffix: None
+Quality: 0
+LevelReq: 60
+Implicits: 1
+{tags:elemental,cold,lightning,resistance}{range:1}+(12-16)% to Cold and Lightning Resistances
++15% to Global Critical Strike Multiplier
++41 to maximum Energy Shield
++56 to maximum Life
++34% to Cold Resistance
+{tags:elemental,cold,lightning,resistance}{crafted}{range:0.5}+(13-16)% to Cold and Lightning Resistances
+			<ModRange range="1" id="1"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="13">
+			Rarity: RARE
+New Item
+Stygian Vise
+Crafted: true
+Prefix: {range:0.183}IncreasedLife7
+Prefix: {range:0.352}IncreasedEnergyShield8
+Prefix: None
+Suffix: {range:0.859}FireResist6
+Suffix: {range:0.775}LightningResist6
+Suffix: {range:1}BeltReducedFlaskChargesUsed1
+Quality: 0
+Sockets: A
+LevelReq: 48
+Implicits: 1
+Has 1 Abyssal Socket
++28 to maximum Energy Shield
++72 to maximum Life
++40% to Fire Resistance
++40% to Lightning Resistance
+20% reduced Flask Charges used
+		</Item>
+		<Item id="14">
+			Rarity: RARE
+New Item
+Hypnotic Eye Jewel
+Crafted: true
+Prefix: {range:0.662}AbyssJewelAddedLife3
+Prefix: {range:0.246}AbyssSpellAddedFireDamageWhileWieldingTwoHandedWeaponJewel5
+Suffix: {range:0.19}AbyssSpellAddedFireDamageJewel5
+Suffix: None
+Quality: 0
+LevelReq: 61
+Implicits: 0
+Adds 20 to 26 Fire Damage to Spells
++34 to maximum Life
+16 to 22 Added Spell Fire Damage while wielding a Two Handed Weapon
+		</Item>
+		<Item variant="34" variantAlt="97" id="15" variantAlt2="23">
+			Rarity: UNIQUE
+Watcher&apos;s Eye
+Prismatic Jewel
+Variant: Anger: Fire Damage Life Leech
+Variant: Anger: Fire Penetration
+Variant: Anger: Inc Crit Strike Mult
+Variant: Anger: Inc Fire Damage
+Variant: Anger: Phys Added As Fire
+Variant: Anger: Phys Converted To Fire
+Variant: Clarity: Damage Taken From Mana Before Life
+Variant: Clarity: Damage Taken Gained As Mana
+Variant: Clarity: Mana Added As ES (Pre 3.12.0)
+Variant: Clarity: Mana Added As ES
+Variant: Clarity: Mana Recovery Rate (Pre 3.12.0)
+Variant: Clarity: Mana Recovery Rate
+Variant: Clarity: Recover Mana On Skill Use
+Variant: Clarity: Red. Mana Cost (Pre 3.8.0)
+Variant: Clarity: Red. Mana Cost Non Channelled
+Variant: Determination: Additional Armour
+Variant: Determination: Additional Block
+Variant: Determination: Phys Damage Reduction
+Variant: Determination: Red. Extra Damage From Crits
+Variant: Determination: Red. Reflected Phys Damage
+Variant: Determination: Unaffected By Vulnerability
+Variant: Discipline: Additional Spell Block
+Variant: Discipline: ES Per Hit
+Variant: Discipline: ES Recovery Rate (Pre 3.12.0)
+Variant: Discipline: ES Recovery Rate
+Variant: Discipline: ES Regen
+Variant: Discipline: Faster Start Of Recharge
+Variant: Grace: Additional Chance To Evade
+Variant: Grace: Blind Enemies When Hit
+Variant: Grace: Chance To Dodge
+Variant: Grace: Inc Movement Speed
+Variant: Grace: Unaffected By Enfeeble
+Variant: Haste: Chance To Dodge Spells
+Variant: Haste: Cooldown Recovery For Movement Skills
+Variant: Haste: Debuffs Expire Faster
+Variant: Haste: Gain Onslaught On Kill
+Variant: Haste: Gain Phasing
+Variant: Haste: Unaffected By Temporal Chains
+Variant: Hatred: Added Cold Damage
+Variant: Hatred: Additional Crit Strike Chance
+Variant: Hatred: Cold Penetration
+Variant: Hatred: Inc Cold Damage
+Variant: Hatred: Phys Converted To Cold
+Variant: Malevolence: Damage Over Time Mult (Pre 3.8.0)
+Variant: Malevolence: Damage Over Time Mult
+Variant: Malevolence: Life And ES Recovery Rate (Pre 3.12.0)
+Variant: Malevolence: Life And ES Recovery Rate
+Variant: Malevolence: Unaffected By Bleeding
+Variant: Malevolence: Unaffected By Poison
+Variant: Malevolence: Your Ailments Deal Damage Faster
+Variant: Precision: Cannot Be Blinded
+Variant: Precision: Flask Charge On Crit
+Variant: Precision: Inc Attack Damage
+Variant: Precision: Inc Attack Speed
+Variant: Precision: Inc Crit Strike Mult (Pre 3.12.0)
+Variant: Precision: Inc Crit Strike Mult
+Variant: Pride: Chance For Double Damage
+Variant: Pride: Chance To Impale
+Variant: Pride: Impale Additional Hits
+Variant: Pride: Inc Phys Damage
+Variant: Pride: Intimidate On Hit
+Variant: Purity Of Elements: Chaos Resistance
+Variant: Purity Of Elements: Red. Reflected Ele Damage
+Variant: Purity Of Elements: Take Phys As Cold
+Variant: Purity Of Elements: Take Phys As Fire
+Variant: Purity Of Elements: Take Phys As Lightning
+Variant: Purity Of Elements: Unaffected By Ele Weakness
+Variant: Purity Of Fire: Immune To Ignite
+Variant: Purity Of Fire: Take Phys As Fire
+Variant: Purity Of Fire: Unaffected By Burning Ground
+Variant: Purity Of Fire: Unaffected By Flammability
+Variant: Purity Of Ice: Immune To Freeze
+Variant: Purity Of Ice: Take Phys As Ice
+Variant: Purity Of Ice: Unaffected By Chilled Ground
+Variant: Purity Of Ice: Unaffected By Frostbite
+Variant: Purity Of Lightning: Immune To Shock
+Variant: Purity Of Lightning: Take Phys As Lightning
+Variant: Purity Of Lightning: Unaffected By Conductivity
+Variant: Purity Of Lightning: Unaffected By Shocked Ground
+Variant: Vitality: Damage Life Leech (Pre 3.12.0)
+Variant: Vitality: Damage Life Leech
+Variant: Vitality: Flat Life Regen (Pre 3.12.0)
+Variant: Vitality: Life Gain Per Hit
+Variant: Vitality: Life Recovery From Flasks
+Variant: Vitality: Life Recovery Rate (Pre 3.12.0)
+Variant: Vitality: Life Recovery Rate
+Variant: Vitality: Percent Life Regen
+Variant: Wrath: Inc Crit Strike Chance
+Variant: Wrath: Inc Lightning Damage
+Variant: Wrath: Lightning Damage ES Leech
+Variant: Wrath: Lightning Damage Mana Leech (Pre 3.8.0)
+Variant: Wrath: Lightning Penetration
+Variant: Wrath: Phys Added As Lightning
+Variant: Wrath: Phys Converted To Lightning
+Variant: Zealotry: Cast Speed
+Variant: Zealotry: Consecrated Ground Effect Lingers For Ms After Leaving The Area
+Variant: Zealotry: Consecrated Ground Enemy Damage Taken
+Variant: Zealotry: Crit Strike Chance Against Enemies On Consecrated Ground
+Variant: Zealotry: Crit Strikes Penetrates Ele Resistances
+Variant: Zealotry: Gain Arcane Surge For 4 Seconds When You Create Consecrated Ground
+Variant: Zealotry: Maximum ES Per Second To Maximum ES Leech Rate
+Selected Variant: 34
+Prismatic Jewel
+Has Alt Variant: true
+Selected Alt Variant: 97
+Has Alt Variant Two: true
+Selected Alt Variant Two: 23
+Limited to: 1
+Implicits: 0
+{range:0.5}(4-6)% increased maximum Energy Shield
+{range:0.5}(4-6)% increased maximum Life
+{range:0.5}(4-6)% increased maximum Mana
+{variant:1}{range:0.5}(1-1.5)% of Fire Damage Leeched as Life while affected by Anger
+{variant:2}{range:0.5}Damage Penetrates (10-15)% Fire Resistance while affected by Anger
+{variant:3}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Anger
+{variant:4}{range:0.5}(40-60)% increased Fire Damage while affected by Anger
+{variant:5}{range:0.5}Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger
+{variant:6}{range:0.5}(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger
+{variant:7}{range:0.5}(6-10)% of Damage taken from Mana before Life while affected by Clarity
+{variant:8}{range:0.5}(15-20)% of Damage taken while affected by Clarity Recouped as Mana
+{variant:9}{range:0.5}Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:10}{range:0.5}Gain (6-10)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:11}{range:0.5}(20-30)% increased Mana Recovery Rate while affected by Clarity
+{variant:12}{range:0.5}(10-15)% increased Mana Recovery Rate while affected by Clarity
+{variant:13}{range:0.5}(10-15)% chance to Recover 10% of Mana when you use a Skill while affected by Clarity
+{variant:14}{range:0.5}-(10-5) to Total Mana Cost of Skills while affected by Clarity
+{variant:15}{range:0.5}Non-Channelling Skills have -(10-5) to Total Mana Cost while affected by Clarity
+{variant:16}{range:0.5}+(600-1000) to Armour while affected by Determination
+{variant:17}{range:0.5}+(5-8)% Chance to Block Attack Damage while affected by Determination
+{variant:18}{range:0.5}(5-8)% additional Physical Damage Reduction while affected by Determination
+{variant:19}You take (40-60)% reduced Extra Damage from Critical Strikes while affected by Determination
+{variant:20}{range:0.5}(40-50)% reduced Reflected Physical Damage taken while affected by Determination
+{variant:21}Unaffected by Vulnerability while affected by Determination
+{variant:22}{range:0.5}+(5-8)% Chance to Block Spell Damage while affected by Discipline
+{variant:23}{range:0.5}+(20-30) Energy Shield gained for each Enemy Hit while affected by Discipline
+{variant:24}{range:0.5}(20-30)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:25}{range:0.5}(10-15)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:26}{range:0.5}Regenerate (1.5-2.5)% of Energy Shield per Second while affected by Discipline
+{variant:27}{range:0.5}(30-40)% faster start of Energy Shield Recharge while affected by Discipline
+{variant:28}{range:0.5}+(5-8)% chance to Evade Attack Hits while affected by Grace
+{variant:29}{range:0.5}(30-50)% chance to Blind Enemies which Hit you while affected by Grace
+{variant:30}{range:0.5}+(12-15)% chance to Suppress Spell Damage while affected by Grace
+{variant:31}{range:0.5}(10-15)% increased Movement Speed while affected by Grace
+{variant:32}Unaffected by Enfeeble while affected by Grace
+{variant:33}{range:0.5}+(5-8)% chance to Suppress Spell Damage while affected by Haste
+{variant:34}{range:0.5}(30-50)% increased Cooldown Recovery Rate of Movement Skills used while affected by Haste
+{variant:35}Debuffs on you expire (15-20)% faster while affected by Haste
+{variant:36}You gain Onslaught for 4 seconds on Kill while affected by Haste
+{variant:37}You have Phasing while affected by Haste
+{variant:38}{range:0.5}Unaffected by Temporal Chains while affected by Haste
+{variant:39}{range:0.5}Adds (58-70) to (88-104) Cold Damage while affected by Hatred
+{variant:40}{range:0.5}+(1.2-1.8)% to Critical Strike Chance while affected by Hatred
+{variant:41}{range:0.5}Damage Penetrates (10-15)% Cold Resistance while affected by Hatred
+{variant:42}{range:0.5}(40-60)% increased Cold Damage while affected by Hatred
+{variant:43}{range:0.5}(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred
+{variant:44}{range:0.5}+(36-44)% to Damage over Time Multiplier while affected by Malevolence
+{variant:45}{range:0.5}+(18-22)% to Damage over Time Multiplier while affected by Malevolence
+{variant:46}{range:0.5}(15-20)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:47}{range:0.5}(8-12)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:48}Unaffected by Bleeding while affected by Malevolence
+{variant:49}Unaffected by Poison while affected by Malevolence
+{variant:50}{range:0.5}Damaging Ailments you inflict deal Damage (10-15)% faster while affected by Malevolence
+{variant:51}Cannot be Blinded while affected by Precision
+{variant:52}Gain a Flask Charge when you deal a Critical Strike while affected by Precision
+{variant:53}{range:0.5}(40-60)% increased Attack Damage while affected by Precision
+{variant:54}{range:0.5}(10-15)% increased Attack Speed while affected by Precision
+{variant:55}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Precision
+{variant:56}{range:0.5}+(20-30)% to Critical Strike Multiplier while affected by Precision
+{variant:57}{range:0.5}(8-12)% chance to deal Double Damage while using Pride
+{variant:58}25% chance to Impale Enemies on Hit with Attacks while using Pride
+{variant:59}Impales you inflict last 2 additional Hits while using Pride
+{variant:60}{range:0.5}(40-60)% increased Physical Damage while using Pride
+{variant:61}Your Hits Intimidate Enemies for 4 seconds while you are using Pride
+{variant:62}{range:0.5}+(30-50)% to Chaos Resistance while affected by Purity of Elements
+{variant:63}{range:0.5}(40-50)% reduced Reflected Elemental Damage taken while affected by Purity of Elements
+{variant:64}{range:0.5}(8-12)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements
+{variant:65}{range:0.5}(8-12)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements
+{variant:66}{range:0.5}(8-12)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Elements
+{variant:67}Unaffected by Elemental Weakness while affected by Purity of Elements
+{variant:68}Immune to Ignite while affected by Purity of Fire
+{variant:69}{range:0.5}(6-10)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Fire
+{variant:70}Unaffected by Burning Ground while affected by Purity of Fire
+{variant:71}Unaffected by Flammability while affected by Purity of Fire
+{variant:72}Immune to Freeze while affected by Purity of Ice
+{variant:73}{range:0.5}(6-10)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice
+{variant:74}Unaffected by Chilled Ground while affected by Purity of Ice
+{variant:75}Unaffected by Frostbite while affected by Purity of Ice
+{variant:76}Immune to Shock while affected by Purity of Lightning
+{variant:77}{range:0.5}(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning
+{variant:78}Unaffected by Conductivity while affected by Purity of Lightning
+{variant:79}Unaffected by Shocked Ground while affected by Purity of Lightning
+{variant:80}{range:0.5}(1-1.5)% of Damage leeched as Life while affected by Vitality
+{variant:81}{range:0.5}(0.8-1.2)% of Damage leeched as Life while affected by Vitality
+{variant:82}{range:0.5}Regenerate (100-140) Life per Second while affected by Vitality
+{variant:83}{range:0.5}+(20-30) Life gained for each Enemy Hit while affected by Vitality
+{variant:84}{range:0.5}(50-70)% increased Life Recovery from Flasks while affected by Vitality
+{variant:85}{range:0.5}(20-30)% increased Life Recovery Rate while affected by Vitality
+{variant:86}{range:0.5}(10-15)% increased Life Recovery Rate while affected by Vitality
+{variant:87}{range:0.5}Regenerate (1-1.5)% of Life per second while affected by Vitality
+{variant:88}{range:0.5}(70-100)% increased Critical Strike Chance while affected by Wrath
+{variant:89}{range:0.5}(40-60)% increased Lightning Damage while affected by Wrath
+{variant:90}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Energy Shield while affected by Wrath
+{variant:91}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath
+{variant:92}{range:0.5}Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath
+{variant:93}{range:0.5}Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath
+{variant:94}{range:0.5}(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath
+{variant:95}{range:0.5}(10-15)% increased Cast Speed while affected by Zealotry
+{variant:96}Effects of Consecrated Ground you create while affected by Zealotry Linger for 2 seconds
+{variant:97}{range:0.5}Consecrated Ground you create while affected by Zealotry causes enemies to take (8-10)% increased Damage
+{variant:98}{range:0.5}(100-120)% increased Critical Strike Chance against Enemies on Consecrated Ground while affected by Zealotry
+{variant:99}{range:0.5}Critical Strikes Penetrate (8-10)% of Enemy Elemental Resistances while affected by Zealotry
+{variant:100}Gain Arcane Surge for 4 seconds when you create Consecrated Ground while affected by Zealotry
+{variant:101}30% increased Maximum total Energy Shield Recovery per second from Leech while affected by Zealotry
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+			<ModRange range="0.5" id="46"/>
+			<ModRange range="0.5" id="47"/>
+			<ModRange range="0.5" id="48"/>
+			<ModRange range="0.5" id="49"/>
+			<ModRange range="0.5" id="50"/>
+			<ModRange range="0.5" id="53"/>
+			<ModRange range="0.5" id="56"/>
+			<ModRange range="0.5" id="57"/>
+			<ModRange range="0.5" id="58"/>
+			<ModRange range="0.5" id="59"/>
+			<ModRange range="0.5" id="60"/>
+			<ModRange range="0.5" id="63"/>
+			<ModRange range="0.5" id="65"/>
+			<ModRange range="0.5" id="66"/>
+			<ModRange range="0.5" id="67"/>
+			<ModRange range="0.5" id="68"/>
+			<ModRange range="0.5" id="69"/>
+			<ModRange range="0.5" id="72"/>
+			<ModRange range="0.5" id="76"/>
+			<ModRange range="0.5" id="80"/>
+			<ModRange range="0.5" id="83"/>
+			<ModRange range="0.5" id="84"/>
+			<ModRange range="0.5" id="85"/>
+			<ModRange range="0.5" id="86"/>
+			<ModRange range="0.5" id="87"/>
+			<ModRange range="0.5" id="88"/>
+			<ModRange range="0.5" id="89"/>
+			<ModRange range="0.5" id="90"/>
+			<ModRange range="0.5" id="91"/>
+			<ModRange range="0.5" id="92"/>
+			<ModRange range="0.5" id="93"/>
+			<ModRange range="0.5" id="94"/>
+			<ModRange range="0.5" id="95"/>
+			<ModRange range="0.5" id="96"/>
+			<ModRange range="0.5" id="97"/>
+			<ModRange range="0.5" id="98"/>
+			<ModRange range="0.5" id="100"/>
+			<ModRange range="0.5" id="101"/>
+			<ModRange range="0.5" id="102"/>
+		</Item>
+		<Item id="16">
+			Rarity: RARE
+New Item
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableFasting
+Prefix: {range:0.5}AfflictionNotableSpikedConcoction
+Suffix: None
+Suffix: None
+Cluster Jewel Skill: affliction_flask_duration
+Cluster Jewel Node Count: 4
+Quality: 0
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: 6% increased Flask Effect Duration
+1 Added Passive Skill is Fasting
+1 Added Passive Skill is Spiked Concoction
+		</Item>
+		<Item id="17">
+			Rarity: MAGIC
+Flagellant&apos;s Jade Flask of the Antelope
+Crafted: true
+Prefix: {range:0.5}FlaskFullRechargeOnHit5___
+Suffix: {range:0.5}FlaskBuffEvasionWhileHealing2
+Quality: 20
+LevelReq: 64
+Implicits: 0
+Gain 7 Charges when you are Hit by an Enemy
+48% increased Evasion Rating during Flask effect
+		</Item>
+		<Item variant="3" id="18">
+			Rarity: UNIQUE
+Carcass Jack
+Varnished Coat
+Evasion: 1172
+EvasionBasePercentile: 1
+Energy Shield: 240
+EnergyShieldBasePercentile: 1
+Variant: Pre 3.0.0
+Variant: Pre 3.5.0
+Variant: Current
+Selected Variant: 3
+Varnished Coat
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 62
+Implicits: 0
+{range:1}(120-150)% increased Evasion and Energy Shield
+{range:1}+(50-70) to maximum Life
+{range:0.5}+(9-12)% to all Elemental Resistances
+{variant:1,2}20% increased Area of Effect of Area Skills
+{variant:3}{range:0.805}(40-50)% increased Area of Effect of Area Skills
+{variant:1}12% increased Area Damage
+{variant:2,3}{range:0.939}(40-50)% increased Area Damage
+Extra gore
+			<ModRange range="1" id="1"/>
+			<ModRange range="1" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.805" id="5"/>
+			<ModRange range="0.939" id="7"/>
+		</Item>
+		<Item variant="1" id="19">
+			Rarity: UNIQUE
+Doryani&apos;s Delusion
+Slink Boots
+Evasion: 674
+EvasionBasePercentile: 1
+League: Delve
+Variant: Purity of Fire: Fire
+Variant: Purity of Fire: Cold
+Variant: Purity of Fire: Lightning
+Variant: Purity of Ice: Fire
+Variant: Purity of Ice: Cold
+Variant: Purity of Ice: Lightning
+Variant: Purity of Lightning: Fire
+Variant: Purity of Lightning: Cold
+Variant: Purity of Lightning: Lightning
+Selected Variant: 1
+Slink Boots
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 69
+Implicits: 0
+{variant:1,2,3}Grants Level 25 Purity of Fire Skill
+{variant:4,5,6}Grants Level 25 Purity of Ice Skill
+{variant:7,8,9}Grants Level 25 Purity of Lightning Skill
+{variant:1,4,7}{range:1}Adds (25-30) to (40-45) Fire Damage to Spells and Attacks
+{variant:2,5,8}{range:0.5}Adds (25-30) to (40-45) Cold Damage to Spells and Attacks
+{variant:6,9,3}{range:0.5}Adds (1-3) to (68-72) Lightning Damage to Spells and Attacks
+{range:0.878}(100-120)% increased Evasion Rating
+{range:0.951}+(60-70) to maximum Life
+30% increased Movement Speed
+			<ModRange range="1" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.878" id="7"/>
+			<ModRange range="0.951" id="8"/>
+		</Item>
+		<Item variant="2" id="20">
+			Rarity: UNIQUE
+Darkness Enthroned
+Stygian Vise
+League: Abyss
+Variant: Pre 3.11.0
+Variant: Current
+Selected Variant: 2
+Stygian Vise
+Sockets: A A
+Implicits: 1
+Has 1 Abyssal Socket
+Has 1 Abyssal Socket
+{variant:1}50% increased Effect of Socketed Abyss Jewels
+{variant:2}75% increased Effect of Socketed Abyss Jewels
+		</Item>
+		<Item variant="4" id="21">
+			Rarity: UNIQUE
+Shroud of the Lightless
+Carnal Armour
+Evasion: 1125
+EvasionBasePercentile: 0.998
+Energy Shield: 328
+EnergyShieldBasePercentile: 1
+League: Abyss
+Variant: Two Abyssal Sockets (Pre 3.12.0)
+Variant: One Abyssal Socket (Pre 3.12.0)
+Variant: Two Abyssal Sockets (Current)
+Variant: One Abyssal Socket (Current)
+Selected Variant: 4
+Carnal Armour
+Quality: 20
+Sockets: B-B-B-B-B A
+LevelReq: 71
+Implicits: 1
+{range:1}+(20-25) to maximum Mana
+{variant:1,3}Has 2 Abyssal Sockets
+{variant:2,4}Has 1 Abyssal Socket
+{variant:1,2}Socketed Gems are Supported by Level 20 Elemental Penetration
+{variant:3,4}Socketed Gems are Supported by Level 25 Elemental Penetration
+20% chance to Trigger Level 20 Shade Form when you Use a Socketed Skill
+{range:0.5}(160-180)% increased Evasion and Energy Shield
+{range:1}(6-10)% increased maximum Life
+{range:0.5}(9-15)% increased maximum Mana
+1% increased Maximum Life per Abyss Jewel affecting you
+1% increased Maximum Mana per Abyss Jewel affecting you
+			<ModRange range="1" id="1"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="1" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Slot name="Weapon 1" itemId="1"/>
+		<Slot name="Belt Abyssal Socket 2" itemId="14"/>
+		<Slot name="Gloves" itemId="9"/>
+		<Slot name="Belt" itemId="20"/>
+		<Slot name="Body Armour Abyssal Socket 1" itemId="14"/>
+		<Slot name="Helmet" itemId="2"/>
+		<Slot active="true" name="Flask 1" itemId="4"/>
+		<Slot name="Belt Abyssal Socket 1" itemId="14"/>
+		<Slot active="true" name="Flask 2" itemId="17"/>
+		<Slot name="Ring 2" itemId="12"/>
+		<Slot name="Body Armour" itemId="21"/>
+		<Slot name="Ring 1" itemId="11"/>
+		<Slot name="Boots" itemId="19"/>
+		<Slot name="Amulet" itemId="10"/>
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Weapon 1" itemId="1"/>
+			<Slot name="Boots Abyssal Socket 5" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 2" itemId="14"/>
+			<Slot name="Flask 3" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 3" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 5" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 5" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 4" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 6" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 6" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 3" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 6" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot name="Gloves" itemId="9"/>
+			<Slot name="Helmet Abyssal Socket 3" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 4" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 4" itemId="0"/>
+			<Slot name="Belt" itemId="20"/>
+			<Slot name="Gloves Abyssal Socket 4" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 4" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot name="Flask 5" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 3" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 1" itemId="14"/>
+			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 5" itemId="0"/>
+			<Slot name="Helmet Abyssal Socket 6" itemId="0"/>
+			<Slot name="Helmet" itemId="2"/>
+			<Slot active="true" name="Flask 1" itemId="4"/>
+			<Slot name="Gloves Abyssal Socket 5" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 6" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 3" itemId="0"/>
+			<Slot name="Weapon 2 Abyssal Socket 3" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 4" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 2" itemId="0"/>
+			<Slot name="Belt Abyssal Socket 1" itemId="14"/>
+			<Slot name="Body Armour Abyssal Socket 3" itemId="0"/>
+			<Slot name="Flask 4" itemId="0"/>
+			<Slot active="true" name="Flask 2" itemId="17"/>
+			<Slot name="Belt Abyssal Socket 5" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 3" itemId="0"/>
+			<Slot name="Weapon 2" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 6" itemId="0"/>
+			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 4" itemId="0"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 4" itemId="0"/>
+			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Weapon 1 Swap" itemId="0"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 6" itemId="0"/>
+			<Slot name="Ring 2" itemId="12"/>
+			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 6" itemId="0"/>
+			<Slot name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot name="Body Armour" itemId="21"/>
+			<Slot name="Gloves Abyssal Socket 3" itemId="0"/>
+			<Slot name="Ring 1" itemId="11"/>
+			<Slot name="Weapon 1Swap Abyssal Socket 4" itemId="0"/>
+			<Slot name="Body Armour Abyssal Socket 5" itemId="0"/>
+			<Slot name="Gloves Abyssal Socket 6" itemId="0"/>
+			<Slot name="Boots" itemId="19"/>
+			<Slot name="Weapon 2Swap Abyssal Socket 5" itemId="0"/>
+			<Slot name="Amulet" itemId="10"/>
+		</ItemSet>
+	</Items>
+	<Config>
+		<Input name="buffLifetap" boolean="true"/>
+		<Input name="enemyIsBoss" string="Sirus"/>
+		<Input name="critChanceLucky" boolean="false"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="conditionHaveEnergyShield" boolean="true"/>
+		<Input name="conditionEnemyBurning" boolean="true"/>
+		<Input name="conditionLeeching" boolean="true"/>
+		<Input name="waveOfConvictionExposureType" string="Fire"/>
+	</Config>
+</PathOfBuilding>
