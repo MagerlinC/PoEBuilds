@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="96" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Scion" ascendClassName="Ascendant" characterLevelAutoMode="true" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageHit" value="0"/>
+		<PlayerStat stat="AverageBurstDamage" value="0"/>
+		<PlayerStat stat="Speed" value="0.63131313131313"/>
+		<PlayerStat stat="WarcryCastTime" value="0"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
+		<PlayerStat stat="CritChance" value="0"/>
+		<PlayerStat stat="CritMultiplier" value="1.5"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="0"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithDotDPS" value="0"/>
+		<PlayerStat stat="CorruptingBloodDPS" value="5757942.4193546"/>
+		<PlayerStat stat="WithBleedDPS" value="0"/>
+		<PlayerStat stat="WithIgniteDPS" value="0"/>
+		<PlayerStat stat="WithPoisonDPS" value="0"/>
+		<PlayerStat stat="TotalDotDPS" value="5757942.4193546"/>
+		<PlayerStat stat="CullingDPS" value="0"/>
+		<PlayerStat stat="ReservationDPS" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="5757942.4193546"/>
+		<PlayerStat stat="Cooldown" value="1.584"/>
+		<PlayerStat stat="AreaOfEffectRadiusMetres" value="8.8"/>
+		<PlayerStat stat="ManaCost" value="0"/>
+		<PlayerStat stat="ManaPercentCost" value="0"/>
+		<PlayerStat stat="ManaPerSecondCost" value="0"/>
+		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="LifeCost" value="407"/>
+		<PlayerStat stat="LifePercentCost" value="0"/>
+		<PlayerStat stat="LifePerSecondCost" value="256.94444444444"/>
+		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
+		<PlayerStat stat="ESCost" value="0"/>
+		<PlayerStat stat="ESPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="RageCost" value="0"/>
+		<PlayerStat stat="SoulCost" value="0"/>
+		<PlayerStat stat="Str" value="247"/>
+		<PlayerStat stat="ReqStr" value="155"/>
+		<PlayerStat stat="Dex" value="157"/>
+		<PlayerStat stat="ReqDex" value="126"/>
+		<PlayerStat stat="Int" value="144"/>
+		<PlayerStat stat="ReqInt" value="140"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="TotalEHP" value="49163.75332296"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="17495"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="30150"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="31267"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="30150"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="10823"/>
+		<PlayerStat stat="Life" value="4555"/>
+		<PlayerStat stat="Spec:LifeInc" value="122"/>
+		<PlayerStat stat="LifeUnreserved" value="4152"/>
+		<PlayerStat stat="LifeRecoverable" value="4152"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="91.152579582876"/>
+		<PlayerStat stat="LifeRegenRecovery" value="798.6"/>
+		<PlayerStat stat="LifeLeechGainRate" value="0"/>
+		<PlayerStat stat="Mana" value="950"/>
+		<PlayerStat stat="Spec:ManaInc" value="26"/>
+		<PlayerStat stat="ManaUnreserved" value="56"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="5.8947368421053"/>
+		<PlayerStat stat="ManaRegenRecovery" value="16.6"/>
+		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="EnergyShield" value="0"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="0"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
+		<PlayerStat stat="EnergyShieldRegenRecovery" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Ward" value="0"/>
+		<PlayerStat stat="RageRegenRecovery" value="0"/>
+		<PlayerStat stat="Evasion" value="2615"/>
+		<PlayerStat stat="Spec:EvasionInc" value="54"/>
+		<PlayerStat stat="MeleeEvadeChance" value="18"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="18"/>
+		<PlayerStat stat="Armour" value="34458"/>
+		<PlayerStat stat="Spec:ArmourInc" value="102"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="90"/>
+		<PlayerStat stat="BlockChance" value="30"/>
+		<PlayerStat stat="SpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="EffectiveSpellSuppressionChance" value="96"/>
+		<PlayerStat stat="FireResist" value="76"/>
+		<PlayerStat stat="FireResistOverCap" value="23"/>
+		<PlayerStat stat="ColdResist" value="75"/>
+		<PlayerStat stat="ColdResistOverCap" value="28"/>
+		<PlayerStat stat="LightningResist" value="75"/>
+		<PlayerStat stat="LightningResistOverCap" value="32"/>
+		<PlayerStat stat="ChaosResist" value="22"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.0475"/>
+		<PlayerStat stat="FullDPS" value="14165253.116518"/>
+		<PlayerStat stat="FullDotDPS" value="13221131.986588"/>
+		<FullDPSSkill skillPart="" source="" stat="Full DoT DPS" value="7460118.6646094"/>
+		<FullDPSSkill skillPart="" source="General&apos;s Cry" stat="Corrupting Blood DPS" value="5761013.3219783"/>
+		<FullDPSSkill skillPart="" source="" stat="Reap" value="482872.19435301"/>
+		<FullDPSSkill skillPart="" source="" stat="Vaal Reap" value="461248.93557694"/>
+		<PlayerStat stat="PowerCharges" value="3"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="3"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="3"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
+		<TimelessData jewelTypeId="5" devotionVariant2="1" jewelSocketId="48768" searchListFallback="" searchList="eternal_notable_endurance_1, 1, 0, 0
+eternal_notable_flask_duration_1, 1, 0, 0
+eternal_notable_physical_damage_1, 3, 0, 0
+eternal_notable_armour_1, 1, 0, 0
+eternal_notable_dodge_2, 1, 0, 0
+eternal_notable_life_1, 1, 0, 0
+eternal_notable_minion_1, 3, 0, 0
+eternal_notable_aura_1, 1, 0, 0" socketFilterDistance="0" devotionVariant1="1" conquerorTypeId="1" socketFilter="true"/>
+	</Build>
+	<Import exportParty="false"/>
+	<Party destination="All" ShowAdvanceTools="false" append="false"/>
+	<Tree activeSpec="1">
+		<Spec masteryEffects="{8732,64875},{52220,18859},{50757,57074},{8460,12916},{12382,47642},{2841,34242},{53615,28638},{25031,23021}" ascendClassId="1" nodes="47421,10829,9327,16775,56359,66713,45067,64587,6289,26725,46578,64265,1572,32091,21602,15073,35754,34400,33508,31257,42671,49080,33287,33989,65698,50422,48287,11792,65683,66707,29353,34513,33718,63723,53118,19609,24798,3452,63033,63194,39598,8732,34207,16167,58833,12247,44103,7618,44169,24496,19939,25031,53987,34906,5197,7285,65097,53615,23090,44606,55190,65167,28330,59423,50862,14930,46910,19144,15405,6538,48768,24256,55485,42041,30380,3644,49978,45803,50570,13714,65706,65689,47426,65680,49532,6799,65034,9995,14993,43833,24970,31683,63282,47062,30302,48822,8460,36881,62021,18402,33631,2219,19261,55676,66704,55854,62429,41996,607,26564,56116,40229,20812,12769,59928,38689,12382,65696,26712,49445,224,52220,51786,2841,5233,56153,35503,33740,50757,48828,23036,35288,39861,31598,8930,11688" secondaryAscendClassId="nil" treeVersion="3_22" classId="0">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgABfbk9Kk0kb0GH3CewC_xLGJFoZbXy-wkGJH1bVGI64YZgguR6Gaavv7iCB4TFxPa8ny4QcqmG0YO2-OvPfkyZYN4NfPY59tqariIchZ8_Jy_XrEcdwqyJX7BN42HH0uOIWhRNHHX-SdFvWjKuPteW_o9uqugfxq46Urc-Ssg8LRmKvoBewNi9pDl2rA48wzqy68WKNZK5QsF8Go_-CicLOpGrOWGKe8P3MrfWdl6-tiEMkBHyRUfig18Iq0s92XzaLvPdpAwCX2fE2zSdJVFMMeHqGJchMF5oWMElAODL_MpKCxkUcdtZiq-DzMZFvrxZ_InYm7V7biLiLagJBJkAogCTBJMAqgCZAJAEkACgCP1rIhxZ7WHHb97RbzJ0IQy6GjBeSavL_IXCCxne8sZF
+			</URL>
+			<Sockets>
+				<Socket nodeId="24970" itemId="17"/>
+				<Socket nodeId="26725" itemId="27"/>
+				<Socket nodeId="31683" itemId="2"/>
+				<Socket nodeId="55190" itemId="5"/>
+				<Socket nodeId="33631" itemId="3"/>
+				<Socket nodeId="14993" itemId="17"/>
+				<Socket nodeId="33989" itemId="4"/>
+				<Socket nodeId="44169" itemId="8"/>
+				<Socket nodeId="48768" itemId="7"/>
+				<Socket nodeId="49080" itemId="8"/>
+			</Sockets>
+			<Overrides/>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<Skills sortGemsByDPSField="CombinedDPS" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="20" defaultGemLevel="normalMaximum" showSupportGemTypes="ALL" showAltQualityGems="false">
+		<SkillSet id="1">
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" gemId="Metadata/Items/Gems/SkillGemGeneralsCry" variantId="GeneralsCry" skillId="GeneralsCry" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="General&apos;s Cry"/>
+				<Gem enableGlobal2="true" level="21" gemId="Metadata/Items/Gems/SupportGemCorruptingCry" variantId="CorruptingCrySupport" skillId="SupportCorruptingCry" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Corrupting Cry"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemBrutality" variantId="BrutalitySupport" skillId="SupportBrutality" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Brutality"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemRapidDecay" variantId="RapidDecaySupport" skillId="SupportRapidDecay" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Swift Affliction"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemEfficacy" variantId="EfficacySupport" skillId="SupportEfficacy" quality="20" qualityId="Alternate1" enableGlobal1="true" enabled="true" count="1" nameSpec="Efficacy"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect" variantId="IncreasedAreaOfEffectSupport" skillId="SupportIncreasedAreaOfEffect" quality="20" qualityId="Alternate2" enableGlobal1="true" enabled="true" count="1" nameSpec="Increased Area of Effect"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemLifetap" variantId="LifetapSupport" skillId="SupportLifetap" quality="20" qualityId="Default" enableGlobal1="true" enabled="false" count="1" nameSpec="Lifetap"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" variantId="AdditionalXPSupport" skillId="SupportAdditionalXP" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Enlighten"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemDamageOverTimeAura" variantId="DamageOverTimeAura" skillId="DamageOverTimeAura" quality="20" qualityId="Alternate1" enableGlobal1="true" enabled="true" count="1" nameSpec="Malevolence"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemDetermination" variantId="Determination" skillId="Determination" quality="20" qualityId="Alternate2" enableGlobal1="true" enabled="true" count="1" nameSpec="Determination"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemPride" variantId="Pride" skillId="PhysicalDamageAura" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Pride"/>
+				<Gem enableGlobal2="true" skillMinionSkillCalcs="1" level="20" gemId="Metadata/Items/Gems/SkillGemHeraldOfPurity" variantId="HeraldOfPurity" skillId="HeraldOfPurity" skillMinionSkill="1" quality="20" qualityId="Alternate1" enableGlobal1="true" enabled="true" count="1" nameSpec="Herald of Purity" skillMinion="AxisEliteSoldierHeraldOfLight"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemWarBanner" variantId="WarBanner" skillId="BloodstainedBanner" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="War Banner"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemNewVulnerability" variantId="NewVulnerability" skillId="Vulnerability" quality="20" qualityId="Alternate1" enableGlobal1="true" enabled="true" count="1" nameSpec="Vulnerability"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemLifetap" variantId="LifetapSupport" skillId="SupportLifetap" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Lifetap"/>
+				<Gem enableGlobal2="true" level="17" gemId="Metadata/Items/Gems/SkillGemFlameDash" variantId="FlameDash" skillId="FlameDash" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Flame Dash"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemMoltenShell" variantId="MoltenShell" skillId="MoltenShell" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Molten Shell"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="true" skillMinionSkillCalcs="1" level="20" gemId="Metadata/Items/Gems/SkillGemVaalReap" variantId="VaalReap" skillId="VaalReap" skillMinionSkill="1" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Vaal Reap" skillMinion="SummonedPhantasm"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemBrutality" variantId="BrutalitySupport" skillId="SupportBrutality" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Brutality"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemControlledDestruction" variantId="ControlledDestructionSupport" skillId="SupportControlledDestruction" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Controlled Destruction"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemRapidDecay" variantId="RapidDecaySupport" skillId="SupportRapidDecay" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Swift Affliction"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Boots" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemVitality" variantId="Vitality" skillId="Vitality" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Vitality"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemBloodMagic" variantId="BloodMagicSupport" skillId="SupportBloodMagic" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Arrogance"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Boots" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemLifetap" variantId="LifetapSupport" skillId="SupportLifetap" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Lifetap"/>
+				<Gem enableGlobal2="true" skillMinionSkillCalcs="1" level="20" gemId="Metadata/Items/Gems/SkillGemSummonRockGolem" variantId="SummonRockGolem" skillId="SummonRockGolem" skillMinionSkill="1" quality="20" qualityId="Alternate1" enableGlobal1="true" enabled="true" count="1" nameSpec="Summon Stone Golem" skillMinion="SummonedStoneGolem"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="Forbidden Shako variant" enabled="true" slot="Helmet" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="1" gemId="Metadata/Items/Gems/SkillGemGeneralsCry" variantId="GeneralsCry" skillId="GeneralsCry" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="General&apos;s Cry"/>
+				<Gem enableGlobal2="true" level="5" gemId="Metadata/Items/Gems/SupportGemSwiftAfflictionPlus" variantId="SwiftAfflictionPlusSupport" skillId="SupportSwiftAfflictionPlus" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Swift Affliction"/>
+				<Gem enableGlobal2="true" level="5" gemId="Metadata/Items/Gems/SupportGemBrutalityPlus" variantId="BrutalityPlusSupport" skillId="SupportBrutalityPlus" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Brutality"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemEfficacy" variantId="EfficacySupport" skillId="SupportEfficacy" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Efficacy"/>
+				<Gem enableGlobal2="true" level="32" gemId="Metadata/Items/Gems/SupportGemCorruptingCry" variantId="CorruptingCrySupport" skillId="SupportCorruptingCry" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Corrupting Cry"/>
+			</Skill>
+		</SkillSet>
+	</Skills>
+	<Calcs>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Input name="skill_number" number="4"/>
+		<Section subsection="ViewSkillDetails" collapsed="false" id="SkillSelect"/>
+		<Section subsection="SkillHitDamage" collapsed="false" id="HitDamage"/>
+		<Section subsection="ExertingWarcries" collapsed="false" id="Warcries"/>
+		<Section subsection="SkillDamageoverTime" collapsed="false" id="Dot"/>
+		<Section subsection="AttackCastRate" collapsed="false" id="Speed"/>
+		<Section subsection="Crits" collapsed="false" id="Crit"/>
+		<Section subsection="Impale" collapsed="false" id="Impale"/>
+		<Section subsection="SkilltypespecificStats" collapsed="false" id="SkillTypeStats"/>
+		<Section subsection="Accuracy" collapsed="false" id="HitChance"/>
+		<Section subsection="Bleed" collapsed="false" id="Bleed"/>
+		<Section subsection="Poison" collapsed="false" id="Poison"/>
+		<Section subsection="Ignite" collapsed="false" id="Ignite"/>
+		<Section subsection="Decay" collapsed="false" id="Decay"/>
+		<Section subsection="LeechGainonHit" collapsed="false" id="LeechGain"/>
+		<Section subsection="NonDamagingAilments" collapsed="false" id="EleAilments"/>
+		<Section subsection="OtherEffects" collapsed="false" id="MiscEffects"/>
+		<Section subsection="Attributes" collapsed="false" id="Attributes"/>
+		<Section subsection="Life" collapsed="false" id="Life"/>
+		<Section subsection="Mana" collapsed="false" id="Mana"/>
+		<Section subsection="EnergyShield" collapsed="false" id="EnergyShield"/>
+		<Section subsection="Ward" collapsed="false" id="Ward"/>
+		<Section subsection="Resists" collapsed="false" id="Resist"/>
+		<Section subsection="Armour" collapsed="false" id="Armour"/>
+		<Section subsection="Evasion" collapsed="false" id="Evasion"/>
+		<Section subsection="DamageAvoidance" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Block" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Dodge" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="SpellSuppression" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Flasks" collapsed="false" id="Flasks"/>
+		<Section subsection="UtilityFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="LifeFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="ManaFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="Rage" collapsed="true" id="Rage"/>
+		<Section subsection="Charges" collapsed="true" id="Charges"/>
+		<Section subsection="Endurance" collapsed="true" id="Charges"/>
+		<Section subsection="Frenzy" collapsed="true" id="Charges"/>
+		<Section subsection="Power" collapsed="true" id="Charges"/>
+		<Section subsection="OtherDefences" collapsed="false" id="MiscDefences"/>
+		<Section subsection="StunDuration" collapsed="false" id="MiscDefences"/>
+		<Section subsection="OtherAvoidance" collapsed="true" id="MiscDefences"/>
+		<Section subsection="OtherAilmentDefences" collapsed="true" id="MiscDefences"/>
+		<Section subsection="DamageTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DamagingHits" collapsed="false" id="DamageTaken"/>
+		<Section subsection="EffectiveHealthPool" collapsed="false" id="DamageTaken"/>
+		<Section subsection="MaximumHitTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DotsandDegens" collapsed="false" id="DamageTaken"/>
+		<Section subsection="RecoupandHitTakenOverTime" collapsed="true" id="DamageTaken"/>
+	</Calcs>
+	<TreeView searchStr="" zoomY="110.39823582717" zoomLevel="7" showStatDifferences="true" zoomX="-336.90520898766"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
+		<Item variant="31" variantAlt="6" id="1" variantAlt2="12">
+			Rarity: UNIQUE
+Cane of Kulemak
+Serpentine Staff
+Variant: (Prefix) Chaos Damage And Chaos Skill Duration
+Variant: (Prefix) Chaos Penetration With Attacks
+Variant: (Prefix) Cold Damage And Base Chance To Freeze
+Variant: (Prefix) Elemental Penetration With Attacks
+Variant: (Prefix) Fire Damage And Chance To Ignite
+Variant: (Prefix) Increase Socketed Support Gem Level
+Variant: (Prefix) Increased Physical Damage And Bleed Chance
+Variant: (Prefix) Increased Physical Damage And Blind Chance
+Variant: (Prefix) Increased Physical Damage And Impale
+Variant: (Prefix) Increased Physical Damage And Poison Chance
+Variant: (Prefix) Lightning Damage And Chance To Shock
+Variant: (Prefix) Minion Damage And Minion Maximum Life
+Variant: (Prefix) Spell Damage And Mana Regeneration Rate
+Variant: (Prefix) Spell Damage And Non Chaos Damage To Add As Chaos Damage
+Variant: (Suffix) Accuracy Rating Strength Dexterity
+Variant: (Suffix) Attack Speed And Trigger Level 1 Blood Rage On Kill Chance
+Variant: (Suffix) Attack Speed Dexterity Intelligence
+Variant: (Suffix) Attack Speed Percent If Rare Or Unique Enemy Nearby
+Variant: (Suffix) Cast Speed And Gain Arcane Surge On Kill Chance
+Variant: (Suffix) Chance To Deal Double Damage While Focused
+Variant: (Suffix) Chaos Damage Over Time Multiplier Two Hand
+Variant: (Suffix) Cold Damage Over Time Multiplier Two Hand
+Variant: (Suffix) Critical Strike Chance Strength Intelligence
+Variant: (Suffix) Critical Strike Multiplier If Rare Or Unique Enemy Nearby
+Variant: (Suffix) Damage Per Endurance Charge
+Variant: (Suffix) Damage Per Frenzy Charge
+Variant: (Suffix) Damage Per Power Charge
+Variant: (Suffix) Double Damage Chance
+Variant: (Suffix) Fire Damage Over Time Multiplier Two Hand
+Variant: (Suffix) Minion Attack And Cast Speed On Weapon
+Variant: (Suffix) Physical Damage Over Time Multiplier Two Hand
+Variant: (Suffix) Trigger Socketed Spell On Skill Use
+Selected Variant: 31
+Has Alt Variant: true
+Selected Alt Variant: 6
+Has Alt Variant Two: true
+Selected Alt Variant Two: 12
+Quality: 20
+Sockets: B-B-B-B-B-B
+LevelReq: 68
+Implicits: 1
++20% Chance to Block Attack Damage while wielding a Staff
+{range:0.5}(60-90)% increased Unveiled Modifier magnitudes
+{variant:1}{range:0.5}(144-188)% increased Chaos Damage
+{variant:1}{range:0.5}Chaos Skills have (41-57)% increased Skill Effect Duration
+{variant:2}{range:0.5}Attacks with this Weapon Penetrate (22-30)% Chaos Resistance
+{variant:3}{range:0.5}(160-207)% increased Cold Damage
+{variant:3}{range:0.5}(56-76)% chance to Freeze
+{variant:4}{range:0.5}Attacks with this Weapon Penetrate (22-30)% Elemental Resistances
+{variant:5}{range:0.5}(160-207)% increased Fire Damage
+{variant:5}{range:0.5}(56-76)% chance to Ignite
+{variant:6}+3 to Level of Socketed Support Gems
+{variant:6}{range:0.5}+(8-15)% to Quality of Socketed Support Gems
+{variant:7}{range:0.5}(192-264)% increased Physical Damage
+{variant:7}{range:0.5}(33-47)% chance to cause Bleeding on Hit
+{variant:8}{range:0.5}(192-264)% increased Physical Damage
+{variant:8}{range:0.5}(33-47)% chance to Blind Enemies on hit
+{variant:9}{range:0.5}(192-264)% increased Physical Damage
+{variant:9}{range:0.5}(33-47)% chance to Impale Enemies on Hit with Attacks
+{variant:10}{range:0.5}(192-264)% increased Physical Damage
+{variant:10}{range:0.5}(33-47)% chance to Poison on Hit
+{variant:11}{range:0.5}(160-207)% increased Lightning Damage
+{variant:11}{range:0.5}(56-76)% chance to Shock
+{variant:12}{range:0.5}Minions have (80-112)% increased maximum Life
+{variant:12}{range:0.829}Minions deal (80-112)% increased Damage
+{variant:13}{range:0.5}(160-207)% increased Spell Damage
+{variant:13}{range:0.5}(57-76)% increased Mana Regeneration Rate
+{variant:14}{range:0.5}(144-188)% increased Spell Damage
+{variant:14}{range:0.5}Gain (14-19)% of Non-Chaos Damage as extra Chaos Damage
+{variant:15}{range:0.5}+(40-53) to Strength and Dexterity
+{variant:15}{range:0.5}+(497-665) to Accuracy Rating
+{variant:16}15% chance to Trigger Level 1 Blood Rage when you Kill an Enemy
+{variant:16}{range:0.5}(28-41)% increased Attack Speed
+{variant:17}{range:0.5}+(40-53) to Dexterity and Intelligence
+{variant:17}{range:0.5}(28-41)% increased Attack Speed
+{variant:18}{range:0.5}(43-57)% increased Attack Speed while a Rare or Unique Enemy is Nearby
+{variant:19}{range:0.5}(41-58)% increased Cast Speed
+{variant:19}15% chance to gain Arcane Surge when you Kill an Enemy
+{variant:20}{range:0.5}(57-76)% chance to deal Double Damage while Focused
+{variant:21}{range:0.5}+(70-91)% to Chaos Damage over Time Multiplier
+{variant:22}{range:0.5}+(70-91)% to Cold Damage over Time Multiplier
+{variant:23}{range:0.5}+(40-53) to Strength and Intelligence
+{variant:23}{range:0.5}(44-60)% increased Critical Strike Chance
+{variant:24}{range:0.5}+(86-114)% Critical Strike Multiplier while a Rare or Unique Enemy is Nearby
+{variant:25}{range:0.5}(11-15)% increased Damage per Endurance Charge
+{variant:26}{range:0.5}(11-15)% increased Damage per Frenzy Charge
+{variant:27}{range:0.5}(11-15)% increased Damage per Power Charge
+{variant:28}{range:0.5}(19-26)% chance to deal Double Damage
+{variant:29}{range:0.5}+(70-91)% to Fire Damage over Time Multiplier
+{variant:30}{range:0.5}Minions have (54-72)% increased Attack Speed
+{variant:30}{range:0.5}Minions have (54-72)% increased Cast Speed
+{variant:31}{range:0.854}+(70-91)% to Physical Damage over Time Multiplier
+{variant:32}Trigger a Socketed Spell on Using a Skill, with a 4 second Cooldown
+{variant:32}Spells Triggered this way have 150% more Cost
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.829" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+			<ModRange range="0.5" id="46"/>
+			<ModRange range="0.5" id="47"/>
+			<ModRange range="0.5" id="48"/>
+			<ModRange range="0.5" id="49"/>
+			<ModRange range="0.5" id="50"/>
+			<ModRange range="0.854" id="51"/>
+		</Item>
+		<Item id="25">
+			Rarity: RARE
+DoT Multi, Minion Damage, Damage over Time
+Calling Wand
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: {range:0.292}GlobalDamageOverTimeMultiplier1h4
+Suffix: {range:0.648}PhysicalDamageOverTimeMultiplier5
+Suffix: None
+Quality: 20
+Sockets: B-B-B
+LevelReq: 62
+Implicits: 1
+{tags:damage,minion}{range:1}Minions deal (12-16)% increased Damage
++21% to Damage over Time Multiplier
+{fractured}+37% to Physical Damage over Time Multiplier
+{tags:damage,minion}{custom}{range:0.5}Minions deal (83-94)% increased Damage
+{tags:damage}{crafted}{range:1}(21-30)% increased Damage over Time
+			<ModRange range="1" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="1" id="5"/>
+		</Item>
+		<Item id="18">
+			Rarity: RARE
+DoT Multi, Minion Damage, Phys Skill Gem Levels
+Imperial Staff
+Crafted: true
+Prefix: None
+Prefix: {range:0.979}GlobalPhysicalSpellGemsLevelTwoHand2_
+Prefix: None
+Suffix: {range:0.595}PhysicalDamageOverTimeMultiplierTwoHand5
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: B-B-B-B-B-B
+LevelReq: 66
+Implicits: 1
+{tags:block}+18% Chance to Block Attack Damage while wielding a Staff
++71% to Physical Damage over Time Multiplier
++3 to Level of all Physical Spell Skill Gems
+{tags:damage,minion}{custom}{range:0.5}Minions deal (123-144)% increased Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="10">
+			Rarity: RARE
+Life, Spell Suppression, Mana Reservation Efficiency, Phys Taken as Elemental, Resistance
+Nightmare Bascinet
+Armour: 224
+ArmourBasePercentile: 1
+Evasion: 322
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.521}IncreasedLife8
+Prefix: None
+Prefix: None
+Suffix: {range:0.366}ChanceToSuppressSpells5__
+Suffix: {range:1}FireResist4
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 68
+Implicits: 3
+{crafted}General&apos;s Cry has 30% increased Cooldown Recovery Rate
+{exarch}{range:0.5}(7-8)% increased Area of Effect
+{tags:resource,mana}{eater}9% increased Mana Reservation Efficiency of Skills
++13% chance to Suppress Spell Damage
++85 to maximum Life
++29% to Fire Resistance
+{tags:unveiled_mod,physical,elemental,fire}{crafted}{range:0.5}(7-8)% of Physical Damage from Hits taken as Fire Damage
+{tags:resource,mana}{custom}{range:0.5}(9-10)% increased Mana Reservation Efficiency of Skills
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="26">
+			Rarity: UNIQUE
+Forbidden Shako
+Great Crown
+Armour: 187
+ArmourBasePercentile: 0.7222
+Energy Shield: 38
+EnergyShieldBasePercentile: 0.75
+Item Level: 75
+Quality: 20
+Sockets: B-B-R
+LevelReq: 53
+Implicits: 0
+Socketed Gems are Supported by Level 8 Spell Cascade
+Socketed Gems are Supported by Level 32 Corrupting Cry
++29 to all Attributes
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="11">
+			Rarity: RARE
+Mana Reservation Efficiency, Spell Suppress, Phys Taken as Elemental, Resistance
+Triumphant Lamellar
+Armour: 817
+ArmourBasePercentile: 1
+Evasion: 1027
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:1}LocalIncreasedArmourAndEvasion4
+Prefix: None
+Prefix: None
+Suffix: {range:0.366}ChanceToSuppressSpellsHigh5___
+Suffix: {range:0.113}ColdResist7
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 69
+Implicits: 2
+{tags:aura}{exarch}{range:0.5}(13-14)% increased effect of Non-Curse Auras from your Skills
+{tags:aura}{eater}{range:0.5}Malevolence has (25-27)% increased Aura Effect
++21% chance to Suppress Spell Damage
+67% increased Armour and Evasion
++42% to Cold Resistance
+{tags:resource,mana}{custom}{range:0.5}(9-10)% increased Mana Reservation Efficiency of Skills
+{tags:unveiled_mod,physical,elemental,fire,lightning}{crafted}{range:0.5}(5-6)% of Physical Damage from Hits taken as Fire Damage
+{tags:unveiled_mod,physical,elemental,fire,lightning}{crafted}{range:0.5}(5-6)% of Physical Damage from Hits taken as Lightning Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="28">
+			Rarity: UNIQUE
+Blunderbore
+Astral Plate
+Armour: 1720
+ArmourBasePercentile: 1
+League: Heist
+Quality: 20
+Sockets: R-R-R-R-R-R
+LevelReq: 62
+Implicits: 2
+{tags:gem}+2 to Level of Socketed AoE Gems
+{tags:gem}+2 to Level of Socketed Warcry Gems
+{range:0.5}+(500-700) Strength Requirement
+{range:0.5}(80-120)% increased Armour
+{range:0.5}(50-75)% increased Effect of Shrine Buffs on you
+You have Lesser Brutal Shrine Buff
+You have Lesser Massive Shrine Buff
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="12">
+			Rarity: RARE
+Life, Spell Suppress, Dot Multi, Minion Dmg, Essence of Delirium
+Dragonscale Gauntlets
+Armour: 167
+ArmourBasePercentile: 1
+Evasion: 167
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.289}IncreasedLife7
+Prefix: None
+Prefix: None
+Suffix: {range:0.401}ChanceToSuppressSpells5__
+Suffix: {range:0.239}LightningResist8
+Suffix: None
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 68
+Implicits: 2
+{tags:dot_multi,physical_damage,damage,physical}{exarch}{range:0.5}While a Unique Enemy is in your Presence, +(17-19)% to Physical Damage over Time Multiplier
+{eater}0.3% of Physical Damage Leeched as Life
++13% chance to Suppress Spell Damage
++73 to maximum Life
++46% to Lightning Resistance
+{tags:skill,damage,gem}{custom}Socketed Gems deal 30% more Damage over Time
+{tags:damage,minion}{crafted}{range:0.951}Minions deal (10-20)% increased Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.951" id="7"/>
+		</Item>
+		<Item id="13">
+			Rarity: RARE
+Life, Spell Suppression, Movement Speed, Resistance, Regen
+Dragonscale Boots
+Armour: 167
+ArmourBasePercentile: 1
+Evasion: 167
+EvasionBasePercentile: 1
+Searing Exarch Item
+Eater of Worlds Item
+Crafted: true
+Prefix: {range:0.701}IncreasedLife7
+Prefix: {range:0.817}MovementVelocity5
+Prefix: None
+Suffix: {range:0.278}ChanceToSuppressSpells5__
+Suffix: {range:0.099}FireResist8
+Suffix: {range:0.901}ColdResist7
+Quality: 20
+Sockets: G-G-G-G
+LevelReq: 68
+Implicits: 2
+{exarch}5% increased Action Speed
+{eater}{range:0.5}General&apos;s Cry has (21-23)% increased Cooldown Recovery Rate
++13% chance to Suppress Spell Damage
++76 to maximum Life
++46% to Fire Resistance
++45% to Cold Resistance
+30% increased Movement Speed
+{tags:resource,unveiled_mod,life,mana}{crafted}Regenerate 25 Life per second
+{tags:resource,unveiled_mod,life,mana}{crafted}{range:0.5}+(41-45) to maximum Mana
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="6">
+			Rarity: RARE
+Life, Dot Multi, Resistance, Gem lvl for Reap, Resistance, AoE
+Lapis Amulet
+Crafted: true
+Prefix: {range:0.989}IncreasedLife5
+Prefix: {range:0.5}GlobalPhysicalGemLevel1_
+Prefix: None
+Suffix: {range:0.398}GlobalDamageOverTimeMultiplier1h4
+Suffix: {range:1}AllResistances3
+Suffix: None
+CatalystQuality: 20
+Quality: 0
+LevelReq: 60
+Implicits: 2
+{crafted}Allocates Spiritual Aid
+{tags:attribute}{range:1}+(20-30) to Intelligence
++21% to Damage over Time Multiplier
++59 to maximum Life
++11% to all Elemental Resistances
++1 to Level of all Physical Skill Gems
+{tags:unveiled_mod,damage}{crafted}{range:0.5}(10-12)% increased Area of Effect
+{tags:unveiled_mod,damage}{crafted}{range:0.5}(14-16)% increased Area Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="1" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item variant="3" variantAlt="5" id="15">
+			Rarity: UNIQUE
+Circle of Guilt
+Iron Ring
+League: Synthesis
+Catalyst: Noxious
+CatalystQuality: 20
+Variant: Skill Reservation (Pre 3.11.0)
+Variant: Skill Reservation (Current)
+Variant: Physical Damage
+Variant: Buff Effect (Pre 3.11.0)
+Variant: Buff Effect (Current)
+Variant: Sentinel Damage
+Variant: Damage Reduction
+Selected Variant: 3
+Has Alt Variant: true
+Selected Alt Variant: 5
+LevelReq: 52
+Implicits: 1
+{tags:attack,physical_damage}Adds 1 to 4 Physical Damage to Attacks
+{tags:jewellery_attribute}{fractured}{range:0.902}+(10-20) to all Attributes
+{tags:physical_damage}{range:0.5}Adds (8-10) to (13-15) Physical Damage
+{tags:jewellery_defense}{range:0.5}+(350-400) to Armour
+{tags:mana}{variant:1}{range:0.5}Herald of Purity has (60-80)% increased Mana Reservation Efficiency
+{tags:mana}{variant:2}{range:0.5}Herald of Purity has (30-40)% increased Mana Reservation Efficiency
+{tags:physical_damage}{variant:3}{range:0.878}(40-60)% increased Physical Damage while affected by Herald of Purity
+{variant:4}{range:0.5}Herald of Purity has (70-100)% increased Buff Effect
+{variant:5}{range:0.878}Herald of Purity has (40-60)% increased Buff Effect
+{variant:6}{range:0.5}Sentinels of Purity deal (70-100)% increased Damage
+{tags:physical}{variant:7}4% additional Physical Damage Reduction while affected by Herald of Purity
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.902" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.878" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.878" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+		</Item>
+		<Item id="16">
+			Rarity: RARE
+Life, Resistance, Essence of Delirium, Attribute
+Amethyst Ring
+Crafted: true
+Prefix: {range:0.479}IncreasedLife6
+Prefix: None
+Prefix: None
+Suffix: {range:0.542}Intelligence8
+Suffix: {range:0.049}ChaosResist6
+Suffix: None
+Catalyst: Prismatic
+CatalystQuality: 20
+Quality: 0
+LevelReq: 64
+Implicits: 1
+{tags:chaos,resistance}{range:1}+(17-23)% to Chaos Resistance
++47 to Intelligence
++64 to maximum Life
++37% to Chaos Resistance
+{tags:dot_multi,damage}{custom}{range:0.5}+(12-15)% to Damage over Time Multiplier
+{tags:unveiled_mod,elemental,lightning,chaos,resistance}{crafted}{range:1}+(13-15)% to Lightning and Chaos Resistances
+			<ModRange range="1" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="1" id="6"/>
+		</Item>
+		<Item id="14">
+			Rarity: RARE
+Life, Resistance, Regen, Flask modifiers
+Stygian Vise
+Crafted: true
+Prefix: {range:0.768}IncreasedLife8
+Prefix: None
+Prefix: {range:0.556}BeltIncreasedFlaskEffect3
+Suffix: {range:0.891}LifeRegeneration8_
+Suffix: {range:0.549}LightningResist8
+Suffix: None
+Quality: 0
+Sockets: A
+LevelReq: 68
+Implicits: 1
+Has 1 Abyssal Socket
++87 to maximum Life
+Regenerate 92.5 Life per second
++47% to Lightning Resistance
+Flasks applied to you have 11% increased Effect
+{tags:elemental,fire,cold,resistance}{crafted}{range:1}+(17-20)% to Fire and Cold Resistances
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="1" id="6"/>
+		</Item>
+		<Item id="20">
+			Rarity: MAGIC
+Cautious Eternal Life Flask of Perenniality
+Crafted: true
+Prefix: {range:0.225}FlaskIncreasedRecoveryOnLowLife5
+Suffix: {range:0.63}LocalLifeFlaskAdditionalLifeRecovery5_
+Quality: 20
+LevelReq: 65
+Implicits: 0
+126% more Recovery if used while on Low Life
+Recover an additional 38% of Flask&apos;s Life Recovery Amount over 10 seconds if used while not on Full Life
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+		</Item>
+		<Item id="21">
+			Rarity: MAGIC
+Flagellant&apos;s Granite Flask of the Armadillo
+Crafted: true
+Prefix: {range:0.461}FlaskFullRechargeOnHit5___
+Suffix: {range:0.451}FlaskBuffArmourWhileHealing4
+Quality: 20
+LevelReq: 67
+Implicits: 0
+Gain 3 Charges when you are Hit by an Enemy
+58% increased Armour during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="22">
+			Rarity: MAGIC
+Flagellant&apos;s Quicksilver Flask of the Cheetah
+Crafted: true
+Prefix: {range:0.44}FlaskFullRechargeOnHit5___
+Suffix: {range:0.641}FlaskBuffMovementSpeedWhileHealing3
+Quality: 20
+LevelReq: 68
+Implicits: 0
+Gain 3 Charges when you are Hit by an Enemy
+13% increased Movement Speed during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="23">
+			Rarity: MAGIC
+Flagellant&apos;s Quartz Flask of the Owl
+Crafted: true
+Prefix: {range:0.683}FlaskFullRechargeOnHit5___
+Suffix: {range:0.419}FlaskBuffCurseEffect5
+Quality: 20
+LevelReq: 67
+Implicits: 0
+Gain 3 Charges when you are Hit by an Enemy
+62% reduced Effect of Curses on you during Effect
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item variant="3" id="24">
+			Rarity: UNIQUE
+Bottled Faith
+Sulphur Flask
+League: Synthesis
+Variant: Pre 3.15.0
+Variant: Pre 3.16.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+LevelReq: 27
+Implicits: 1
+Creates Consecrated Ground on Use
+{variant:1}{range:0.5}(30-50)% increased Duration
+{variant:2}{range:0.5}(20-40)% increased Duration
+{variant:3}{range:0.5}(30-15)% reduced Duration
+Consecrated Ground created by this Flask has Tripled Radius
+{variant:1}{range:0.5}+(1-2)% to Critical Strike Chance against Enemies on Consecrated Ground during Effect
+{range:0.5}Consecrated Ground created during Effect applies (7-10)% increased Damage taken to Enemies
+{variant:2,3}{range:0.5}(100-150)% increased Critical Strike Chance against Enemies on Consecrated Ground during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="19">
+			Rarity: RARE
+Life, increased DoT, Resistance, Attribute, Corruted Blood immunity, Mana Reservation Efficiency
+Murderous Eye Jewel
+Crafted: true
+Prefix: {range:0.577}AbyssJewelAddedLife4
+Prefix: {range:0.789}AbyssDamageOverTimeWhileWieldingTwoHandedWeaponJewel2
+Prefix: None
+Suffix: {range:0.905}AbyssAllResistancesJewel1
+Suffix: None
+Suffix: None
+Quality: 0
+LevelReq: 65
+Implicits: 1
+{tags:bleed,physical,ailment}Corrupted Blood cannot be inflicted on you
++38 to maximum Life
++10% to all Elemental Resistances
+17% increased Damage over Time while wielding a Two Handed Weapon
+Corrupted
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="17">
+			Rarity: RARE
+Life, DoT Multi, Minion Damage, Phys Damage, Resistance, Attribute, Life Recoup, Reservation Efficiency
+Cobalt Jewel
+Crafted: true
+Prefix: {range:0.857}PercentIncreasedLifeJewel
+Prefix: {range:0.679}MinionDamageJewel
+Suffix: {range:0.631}JewelPhysicalDamageOverTimeMultiplier1
+Suffix: {range:0.738}LifeRecoupJewel
+CatalystQuality: 20
+Quality: 0
+LevelReq: 0
+Implicits: 0
++7% to Physical Damage over Time Multiplier
+7% increased maximum Life
+Minions deal 15% increased Damage
+5% of Damage taken Recouped as Life
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item variant="61" variantAlt="20" id="27" variantAlt2="1">
+			Rarity: UNIQUE
+Watcher&apos;s Eye
+Prismatic Jewel
+Variant: None
+Variant: Anger: Fire Damage Life Leech
+Variant: Anger: Fire Penetration
+Variant: Anger: Inc Crit Strike Mult
+Variant: Anger: Inc Fire Damage
+Variant: Anger: Phys Added As Fire
+Variant: Anger: Phys Converted To Fire
+Variant: Clarity: Damage Taken From Mana Before Life
+Variant: Clarity: Damage Taken Gained As Mana
+Variant: Clarity: Mana Added As ES (Pre 3.12.0)
+Variant: Clarity: Mana Added As ES
+Variant: Clarity: Mana Recovery Rate (Pre 3.12.0)
+Variant: Clarity: Mana Recovery Rate
+Variant: Clarity: Recover Mana On Skill Use
+Variant: Clarity: Red. Mana Cost (Pre 3.8.0)
+Variant: Clarity: Red. Mana Cost Non Channelled
+Variant: Determination: Additional Armour
+Variant: Determination: Additional Block
+Variant: Determination: Phys Damage Reduction
+Variant: Determination: Red. Extra Damage From Crits
+Variant: Determination: Red. Reflected Phys Damage
+Variant: Determination: Unaffected By Vulnerability
+Variant: Discipline: Additional Spell Block
+Variant: Discipline: ES Per Hit
+Variant: Discipline: ES Recovery Rate (Pre 3.12.0)
+Variant: Discipline: ES Recovery Rate
+Variant: Discipline: ES Regen
+Variant: Discipline: Faster Start Of Recharge
+Variant: Grace: Additional Chance To Evade
+Variant: Grace: Blind Enemies When Hit
+Variant: Grace: Chance to Suppress Spells
+Variant: Grace: Inc Movement Speed
+Variant: Grace: Unaffected By Enfeeble
+Variant: Haste: Chance to Suppress Spells
+Variant: Haste: Cooldown Recovery For Movement Skills
+Variant: Haste: Debuffs Expire Faster
+Variant: Haste: Gain Onslaught On Kill
+Variant: Haste: Gain Phasing
+Variant: Haste: Unaffected By Temporal Chains
+Variant: Hatred: Added Cold Damage
+Variant: Hatred: Additional Crit Strike Chance
+Variant: Hatred: Cold Penetration
+Variant: Hatred: Inc Cold Damage
+Variant: Hatred: Phys Converted To Cold
+Variant: Malevolence: Damage Over Time Mult (Pre 3.8.0)
+Variant: Malevolence: Damage Over Time Mult
+Variant: Malevolence: Life And ES Recovery Rate (Pre 3.12.0)
+Variant: Malevolence: Life And ES Recovery Rate
+Variant: Malevolence: Unaffected By Bleeding
+Variant: Malevolence: Unaffected By Poison
+Variant: Malevolence: Your Ailments Deal Damage Faster
+Variant: Precision: Cannot Be Blinded
+Variant: Precision: Flask Charge On Crit
+Variant: Precision: Inc Attack Damage
+Variant: Precision: Inc Attack Speed
+Variant: Precision: Inc Crit Strike Mult (Pre 3.12.0)
+Variant: Precision: Inc Crit Strike Mult
+Variant: Pride: Chance For Double Damage
+Variant: Pride: Chance To Impale
+Variant: Pride: Impale Additional Hits
+Variant: Pride: Inc Phys Damage
+Variant: Pride: Intimidate On Hit
+Variant: Purity Of Elements: Chaos Resistance
+Variant: Purity Of Elements: Red. Reflected Ele Damage
+Variant: Purity Of Elements: Take Phys As Cold
+Variant: Purity Of Elements: Take Phys As Fire
+Variant: Purity Of Elements: Take Phys As Lightning
+Variant: Purity Of Elements: Unaffected By Ele Weakness
+Variant: Purity Of Fire: Immune To Ignite
+Variant: Purity Of Fire: Take Phys As Fire
+Variant: Purity Of Fire: Unaffected By Burning Ground
+Variant: Purity Of Fire: Unaffected By Flammability
+Variant: Purity Of Ice: Immune To Freeze
+Variant: Purity Of Ice: Take Phys As Ice
+Variant: Purity Of Ice: Unaffected By Chilled Ground
+Variant: Purity Of Ice: Unaffected By Frostbite
+Variant: Purity Of Lightning: Immune To Shock
+Variant: Purity Of Lightning: Take Phys As Lightning
+Variant: Purity Of Lightning: Unaffected By Conductivity
+Variant: Purity Of Lightning: Unaffected By Shocked Ground
+Variant: Vitality: Damage Life Leech (Pre 3.12.0)
+Variant: Vitality: Damage Life Leech
+Variant: Vitality: Flat Life Regen (Pre 3.12.0)
+Variant: Vitality: Life Gain Per Hit
+Variant: Vitality: Life Recovery From Flasks
+Variant: Vitality: Life Recovery Rate (Pre 3.12.0)
+Variant: Vitality: Life Recovery Rate
+Variant: Vitality: Percent Life Regen
+Variant: Wrath: Inc Crit Strike Chance
+Variant: Wrath: Inc Lightning Damage
+Variant: Wrath: Lightning Damage ES Leech
+Variant: Wrath: Lightning Damage Mana Leech (Pre 3.8.0)
+Variant: Wrath: Lightning Penetration
+Variant: Wrath: Phys Added As Lightning
+Variant: Wrath: Phys Converted To Lightning
+Variant: Zealotry: Cast Speed
+Variant: Zealotry: Consecrated Ground Effect Lingers For Ms After Leaving The Area
+Variant: Zealotry: Consecrated Ground Enemy Damage Taken
+Variant: Zealotry: Crit Strike Chance Against Enemies On Consecrated Ground
+Variant: Zealotry: Crit Strikes Penetrates Ele Resistances
+Variant: Zealotry: Gain Arcane Surge For 4 Seconds When You Create Consecrated Ground
+Variant: Zealotry: Maximum ES Per Second To Maximum ES Leech Rate
+Selected Variant: 61
+Has Alt Variant: true
+Selected Alt Variant: 20
+Has Alt Variant Two: true
+Selected Alt Variant Two: 1
+Limited to: 1
+Implicits: 0
+{range:0.5}(4-6)% increased maximum Energy Shield
+{range:0.5}(4-6)% increased maximum Life
+{range:0.5}(4-6)% increased maximum Mana
+{variant:2}{range:0.5}(1-1.5)% of Fire Damage Leeched as Life while affected by Anger
+{variant:3}{range:0.5}Damage Penetrates (10-15)% Fire Resistance while affected by Anger
+{variant:4}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Anger
+{variant:5}{range:0.5}(40-60)% increased Fire Damage while affected by Anger
+{variant:6}{range:0.5}Gain (15-25)% of Physical Damage as Extra Fire Damage while affected by Anger
+{variant:7}{range:0.5}(25-40)% of Physical Damage Converted to Fire Damage while affected by Anger
+{variant:8}{range:0.5}(6-10)% of Damage taken from Mana before Life while affected by Clarity
+{variant:9}{range:0.5}(15-20)% of Damage taken while affected by Clarity Recouped as Mana
+{variant:10}{range:0.5}Gain (12-18)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:11}{range:0.5}Gain (6-10)% of Maximum Mana as Extra Maximum Energy Shield while affected by Clarity
+{variant:12}{range:0.5}(20-30)% increased Mana Recovery Rate while affected by Clarity
+{variant:13}{range:0.5}(10-15)% increased Mana Recovery Rate while affected by Clarity
+{variant:14}{range:0.5}(10-15)% chance to Recover 10% of Mana when you use a Skill while affected by Clarity
+{variant:15}{range:0.5}-(10-5) to Total Mana Cost of Skills while affected by Clarity
+{variant:16}{range:0.5}Non-Channelling Skills have -(10-5) to Total Mana Cost while affected by Clarity
+{variant:17}{range:0.5}+(600-1000) to Armour while affected by Determination
+{variant:18}{range:0.5}+(5-8)% Chance to Block Attack Damage while affected by Determination
+{variant:19}{range:0.5}(5-8)% additional Physical Damage Reduction while affected by Determination
+{variant:20}{range:0.5}You take (40-60)% reduced Extra Damage from Critical Strikes while affected by Determination
+{variant:21}{range:0.5}(40-50)% reduced Reflected Physical Damage taken while affected by Determination
+{variant:22}Unaffected by Vulnerability while affected by Determination
+{variant:23}{range:0.5}+(5-8)% Chance to Block Spell Damage while affected by Discipline
+{variant:24}{range:0.5}Gain (20-30) Energy Shield per Enemy Hit while affected by Discipline
+{variant:25}{range:0.5}(20-30)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:26}{range:0.5}(10-15)% increased Energy Shield Recovery Rate while affected by Discipline
+{variant:27}{range:0.5}Regenerate (1.5-2.5)% of Energy Shield per Second while affected by Discipline
+{variant:28}{range:0.5}(30-40)% faster start of Energy Shield Recharge while affected by Discipline
+{variant:29}{range:0.5}+(5-8)% chance to Evade Attack Hits while affected by Grace
+{variant:30}{range:0.5}(30-50)% chance to Blind Enemies which Hit you while affected by Grace
+{variant:31}{range:0.5}+(12-15)% chance to Suppress Spell Damage while affected by Grace
+{variant:32}{range:0.5}(10-15)% increased Movement Speed while affected by Grace
+{variant:33}Unaffected by Enfeeble while affected by Grace
+{variant:34}{range:0.5}+(5-8)% chance to Suppress Spell Damage while affected by Haste
+{variant:35}{range:0.5}(30-50)% increased Cooldown Recovery Rate of Movement Skills used while affected by Haste
+{variant:36}Debuffs on you expire (15-20)% faster while affected by Haste
+{variant:37}You gain Onslaught for 4 seconds on Kill while affected by Haste
+{variant:38}You have Phasing while affected by Haste
+{variant:39}Unaffected by Temporal Chains while affected by Haste
+{variant:40}{range:0.5}Adds (58-70) to (88-104) Cold Damage while affected by Hatred
+{variant:41}{range:0.5}+(1.2-1.8)% to Critical Strike Chance while affected by Hatred
+{variant:42}{range:0.5}Damage Penetrates (10-15)% Cold Resistance while affected by Hatred
+{variant:43}{range:0.5}(40-60)% increased Cold Damage while affected by Hatred
+{variant:44}{range:0.5}(25-40)% of Physical Damage Converted to Cold Damage while affected by Hatred
+{variant:45}{range:0.5}+(36-44)% to Damage over Time Multiplier while affected by Malevolence
+{variant:46}{range:0.5}+(18-22)% to Damage over Time Multiplier while affected by Malevolence
+{variant:47}{range:0.5}(15-20)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:48}{range:0.5}(8-12)% increased Recovery rate of Life and Energy Shield while affected by Malevolence
+{variant:49}Unaffected by Bleeding while affected by Malevolence
+{variant:50}Unaffected by Poison while affected by Malevolence
+{variant:51}{range:0.5}Damaging Ailments you inflict deal Damage (10-15)% faster while affected by Malevolence
+{variant:52}Cannot be Blinded while affected by Precision
+{variant:53}Gain a Flask Charge when you deal a Critical Strike while affected by Precision
+{variant:54}{range:0.5}(40-60)% increased Attack Damage while affected by Precision
+{variant:55}{range:0.5}(10-15)% increased Attack Speed while affected by Precision
+{variant:56}{range:0.5}+(30-50)% to Critical Strike Multiplier while affected by Precision
+{variant:57}{range:0.5}+(20-30)% to Critical Strike Multiplier while affected by Precision
+{variant:58}{range:0.5}(8-12)% chance to deal Double Damage while using Pride
+{variant:59}25% chance to Impale Enemies on Hit with Attacks while using Pride
+{variant:60}Impales you inflict last 2 additional Hits while using Pride
+{variant:61}{range:0.829}(40-60)% increased Physical Damage while using Pride
+{variant:62}Your Hits Intimidate Enemies for 4 seconds while you are using Pride
+{variant:63}{range:0.5}+(30-50)% to Chaos Resistance while affected by Purity of Elements
+{variant:64}{range:0.5}(40-50)% reduced Reflected Elemental Damage taken while affected by Purity of Elements
+{variant:65}{range:0.5}(8-12)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements
+{variant:66}{range:0.5}(8-12)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements
+{variant:67}{range:0.5}(8-12)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Elements
+{variant:68}Unaffected by Elemental Weakness while affected by Purity of Elements
+{variant:69}Immune to Ignite while affected by Purity of Fire
+{variant:70}{range:0.5}(6-10)% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Fire
+{variant:71}Unaffected by Burning Ground while affected by Purity of Fire
+{variant:72}Unaffected by Flammability while affected by Purity of Fire
+{variant:73}Immune to Freeze while affected by Purity of Ice
+{variant:74}{range:0.5}(6-10)% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice
+{variant:75}Unaffected by Chilled Ground while affected by Purity of Ice
+{variant:76}Unaffected by Frostbite while affected by Purity of Ice
+{variant:77}Immune to Shock while affected by Purity of Lightning
+{variant:78}{range:0.5}(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of Lightning
+{variant:79}Unaffected by Conductivity while affected by Purity of Lightning
+{variant:80}Unaffected by Shocked Ground while affected by Purity of Lightning
+{variant:81}{range:0.5}(1-1.5)% of Damage leeched as Life while affected by Vitality
+{variant:82}{range:0.5}(0.8-1.2)% of Damage leeched as Life while affected by Vitality
+{variant:83}{range:0.5}Regenerate (100-140) Life per Second while affected by Vitality
+{variant:84}{range:0.5}Gain (20-30) Life per Enemy Hit while affected by Vitality
+{variant:85}{range:0.5}(50-70)% increased Life Recovery from Flasks while affected by Vitality
+{variant:86}{range:0.5}(20-30)% increased Life Recovery Rate while affected by Vitality
+{variant:87}{range:0.5}(10-15)% increased Life Recovery Rate while affected by Vitality
+{variant:88}{range:0.5}Regenerate (1-1.5)% of Life per second while affected by Vitality
+{variant:89}{range:0.5}(70-100)% increased Critical Strike Chance while affected by Wrath
+{variant:90}{range:0.5}(40-60)% increased Lightning Damage while affected by Wrath
+{variant:91}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Energy Shield while affected by Wrath
+{variant:92}{range:0.5}(1-1.5)% of Lightning Damage is Leeched as Mana while affected by Wrath
+{variant:93}{range:0.5}Damage Penetrates (10-15)% Lightning Resistance while affected by Wrath
+{variant:94}{range:0.5}Gain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath
+{variant:95}{range:0.5}(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath
+{variant:96}{range:0.5}(10-15)% increased Cast Speed while affected by Zealotry
+{variant:97}Effects of Consecrated Ground you create while affected by Zealotry Linger for 2 seconds
+{variant:98}{range:0.5}Consecrated Ground you create while affected by Zealotry causes enemies to take (8-10)% increased Damage
+{variant:99}{range:0.5}(100-120)% increased Critical Strike Chance against Enemies on Consecrated Ground while affected by Zealotry
+{variant:100}{range:0.5}Critical Strikes Penetrate (8-10)% of Enemy Elemental Resistances while affected by Zealotry
+{variant:101}Gain Arcane Surge for 4 seconds when you create Consecrated Ground while affected by Zealotry
+{variant:102}30% increased Maximum total Energy Shield Recovery per second from Leech while affected by Zealotry
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+			<ModRange range="0.5" id="46"/>
+			<ModRange range="0.5" id="47"/>
+			<ModRange range="0.5" id="48"/>
+			<ModRange range="0.5" id="49"/>
+			<ModRange range="0.5" id="50"/>
+			<ModRange range="0.5" id="53"/>
+			<ModRange range="0.5" id="55"/>
+			<ModRange range="0.5" id="56"/>
+			<ModRange range="0.5" id="57"/>
+			<ModRange range="0.5" id="58"/>
+			<ModRange range="0.5" id="59"/>
+			<ModRange range="0.5" id="60"/>
+			<ModRange range="0.5" id="61"/>
+			<ModRange range="0.5" id="62"/>
+			<ModRange range="0.829" id="63"/>
+			<ModRange range="0.5" id="65"/>
+			<ModRange range="0.5" id="66"/>
+			<ModRange range="0.5" id="67"/>
+			<ModRange range="0.5" id="68"/>
+			<ModRange range="0.5" id="69"/>
+			<ModRange range="0.5" id="72"/>
+			<ModRange range="0.5" id="76"/>
+			<ModRange range="0.5" id="80"/>
+			<ModRange range="0.5" id="83"/>
+			<ModRange range="0.5" id="84"/>
+			<ModRange range="0.5" id="85"/>
+			<ModRange range="0.5" id="86"/>
+			<ModRange range="0.5" id="87"/>
+			<ModRange range="0.5" id="88"/>
+			<ModRange range="0.5" id="89"/>
+			<ModRange range="0.5" id="90"/>
+			<ModRange range="0.5" id="91"/>
+			<ModRange range="0.5" id="92"/>
+			<ModRange range="0.5" id="93"/>
+			<ModRange range="0.5" id="94"/>
+			<ModRange range="0.5" id="95"/>
+			<ModRange range="0.5" id="96"/>
+			<ModRange range="0.5" id="97"/>
+			<ModRange range="0.5" id="98"/>
+			<ModRange range="0.5" id="100"/>
+			<ModRange range="0.5" id="101"/>
+			<ModRange range="0.5" id="102"/>
+			<ModRange range="0.5" id="103"/>
+			<ModRange range="0.5" id="104"/>
+		</Item>
+		<Item variant="132" id="2">
+			Rarity: UNIQUE
+Forbidden Flame
+Crimson Jewel
+Item Level: 83
+Variant: (Duelist) Impact
+Variant: (Duelist) Fatal Flourish
+Variant: (Duelist) Arena Challenger
+Variant: (Duelist) Headsman
+Variant: (Duelist) First to Strike, Last to Fall
+Variant: (Duelist) Unstoppable Hero
+Variant: (Duelist) Bane of Legends
+Variant: (Duelist) Inspirational
+Variant: (Duelist) Painforged
+Variant: (Duelist) Gratuitous Violence
+Variant: (Duelist) Violent Retaliation
+Variant: (Duelist) Overwhelm
+Variant: (Duelist) Masterful Form
+Variant: (Duelist) Blood in the Eyes
+Variant: (Duelist) Outmatch and Outlast
+Variant: (Duelist) Worthy Foe
+Variant: (Duelist) Reigning Veteran
+Variant: (Duelist) Fortitude
+Variant: (Duelist) Master of Metal
+Variant: (Duelist) Conqueror
+Variant: (Duelist) Brutal Fervour
+Variant: (Duelist) Endless Hunger
+Variant: (Templar) Instruments of Virtue
+Variant: (Templar) Sanctuary of Thought
+Variant: (Templar) Pursuit of Faith
+Variant: (Templar) Unwavering Crusade
+Variant: (Templar) Righteous Providence
+Variant: (Templar) Conviction of Power
+Variant: (Templar) Pious Path
+Variant: (Templar) Radiant Faith
+Variant: (Templar) Instruments of Zeal
+Variant: (Templar) Sign of Purpose
+Variant: (Templar) Augury of Penitence
+Variant: (Templar) Harmony of Purpose
+Variant: (Templar) Searing Purity
+Variant: (Templar) Unwavering Faith
+Variant: (Templar) Time of Need
+Variant: (Templar) Sanctuary
+Variant: (Templar) Bastion of Hope
+Variant: (Templar) Inevitable Judgement
+Variant: (Templar) Arcane Blessing
+Variant: (Templar) Ritual of Awakening
+Variant: (Templar) Illuminated Devotion
+Variant: (Templar) Divine Guidance
+Variant: (Templar) Radiant Crusade
+Variant: (Marauder) Arohongui, Moon&apos;s Presence
+Variant: (Marauder) Ramako, Sun&apos;s Light
+Variant: (Marauder) Untiring
+Variant: (Marauder) Unrelenting
+Variant: (Marauder) Tukohama, War&apos;s Herald
+Variant: (Marauder) Unbreakable
+Variant: (Marauder) War Bringer
+Variant: (Marauder) Indomitable Resolve
+Variant: (Marauder) Undeniable
+Variant: (Marauder) Valako, Storm&apos;s Embrace
+Variant: (Marauder) Unyielding
+Variant: (Marauder) Aspect of Carnage
+Variant: (Marauder) Flawless Savagery
+Variant: (Marauder) Defy Pain
+Variant: (Marauder) Ngamahu, Flame&apos;s Advance
+Variant: (Marauder) Rite of Ruin
+Variant: (Marauder) Tawhoa, Forest&apos;s Strength
+Variant: (Marauder) Tasalio, Cleansing Water
+Variant: (Marauder) Unflinching
+Variant: (Marauder) Hinekora, Death&apos;s Fury
+Variant: (Marauder) Crave the Slaughter
+Variant: (Marauder) Unstoppable
+Variant: (Marauder) Blitz
+Variant: (Ranger) Avatar of the Slaughter
+Variant: (Ranger) Far Shot
+Variant: (Ranger) Nature&apos;s Reprisal
+Variant: (Ranger) Way of the Poacher
+Variant: (Ranger) Master Alchemist
+Variant: (Ranger) Nature&apos;s Adrenaline
+Variant: (Ranger) Wind Ward
+Variant: (Ranger) Fury of Nature
+Variant: (Ranger) Nature&apos;s Boon
+Variant: (Ranger) Rapid Assault
+Variant: (Ranger) Master Surgeon
+Variant: (Ranger) Rupturing
+Variant: (Ranger) Master Distiller
+Variant: (Ranger) Focal Point
+Variant: (Ranger) Ricochet
+Variant: (Ranger) Avatar of the Chase
+Variant: (Ranger) Endless Munitions
+Variant: (Ranger) Avatar of the Veil
+Variant: (Ranger) Occupying Force
+Variant: (Ranger) Gathering Winds
+Variant: (Ranger) Master Toxicist
+Variant: (Ranger) Quartz Infusion
+Variant: (Witch) Shaper of Winter
+Variant: (Witch) Heart of Destruction
+Variant: (Witch) Unholy Authority
+Variant: (Witch) Nine Lives
+Variant: (Witch) Mindless Aggression
+Variant: (Witch) Plaguebringer
+Variant: (Witch) Corpse Pact
+Variant: (Witch) Liege of the Primordial
+Variant: (Witch) Bastion of Elements
+Variant: (Witch) Vile Bastion
+Variant: (Witch) Essence Glutton
+Variant: (Witch) Shaper of Storms
+Variant: (Witch) Mistress of Sacrifice
+Variant: (Witch) Forbidden Power
+Variant: (Witch) Elemancer
+Variant: (Witch) Mastermind of Discord
+Variant: (Witch) Void Beacon
+Variant: (Witch) Frigid Wake
+Variant: (Witch) Shaper of Flames
+Variant: (Witch) Unnatural Strength
+Variant: (Witch) Bone Barrier
+Variant: (Witch) Withering Presence
+Variant: (Witch) Commander of Darkness
+Variant: (Witch) Profane Bloom
+Variant: (Scion) Slayer
+Variant: (Scion) Raider
+Variant: (Scion) Hierophant
+Variant: (Scion) Assassin
+Variant: (Scion) Chieftain
+Variant: (Scion) Pathfinder
+Variant: (Scion) Elementalist
+Variant: (Scion) Inquisitor
+Variant: (Scion) Saboteur
+Variant: (Scion) Guardian
+Variant: (Scion) Juggernaut
+Variant: (Scion) Champion
+Variant: (Scion) Necromancer
+Variant: (Scion) Occultist
+Variant: (Scion) Unleashed Potential
+Variant: (Scion) Berserker
+Variant: (Scion) Deadeye
+Variant: (Scion) Gladiator
+Variant: (Scion) Trickster
+Variant: (Shadow) Pyromaniac
+Variant: (Shadow) Like Clockwork
+Variant: (Shadow) Unstable Infusion
+Variant: (Shadow) Opportunistic
+Variant: (Shadow) Harness the Void
+Variant: (Shadow) Perfect Crime
+Variant: (Shadow) Born in the Shadows
+Variant: (Shadow) Noxious Strike
+Variant: (Shadow) Polymath
+Variant: (Shadow) Soul Drinker
+Variant: (Shadow) Ambush and Assassinate
+Variant: (Shadow) Heartstopper
+Variant: (Shadow) Bomb Specialist
+Variant: (Shadow) One Step Ahead
+Variant: (Shadow) Mistwalker
+Variant: (Shadow) Spellbreaker
+Variant: (Shadow) Toxic Delivery
+Variant: (Shadow) Deadly Infusion
+Variant: (Shadow) Explosives Expert
+Variant: (Shadow) Chain Reaction
+Variant: (Shadow) Demolitions Specialist
+Variant: (Shadow) Escape Artist
+Variant: (Shadow) Swift Killer
+Selected Variant: 132
+Limited to: 1
+Requires Class Scion
+Implicits: 0
+{variant:2}Requires Class Duelist
+{variant:3}Requires Class Duelist
+{variant:4}Requires Class Duelist
+{variant:5}Requires Class Duelist
+{variant:6}Requires Class Duelist
+{variant:7}Requires Class Duelist
+{variant:8}Requires Class Duelist
+{variant:9}Requires Class Duelist
+{variant:10}Requires Class Duelist
+{variant:11}Requires Class Duelist
+{variant:12}Requires Class Duelist
+{variant:13}Requires Class Duelist
+{variant:14}Requires Class Duelist
+{variant:15}Requires Class Duelist
+{variant:16}Requires Class Duelist
+{variant:17}Requires Class Duelist
+{variant:18}Requires Class Duelist
+{variant:19}Requires Class Duelist
+{variant:20}Requires Class Duelist
+{variant:21}Requires Class Duelist
+{variant:22}Requires Class Duelist
+{variant:23}Requires Class Templar
+{variant:24}Requires Class Templar
+{variant:25}Requires Class Templar
+{variant:26}Requires Class Templar
+{variant:27}Requires Class Templar
+{variant:28}Requires Class Templar
+{variant:29}Requires Class Templar
+{variant:30}Requires Class Templar
+{variant:31}Requires Class Templar
+{variant:32}Requires Class Templar
+{variant:33}Requires Class Templar
+{variant:34}Requires Class Templar
+{variant:35}Requires Class Templar
+{variant:36}Requires Class Templar
+{variant:37}Requires Class Templar
+{variant:38}Requires Class Templar
+{variant:39}Requires Class Templar
+{variant:40}Requires Class Templar
+{variant:41}Requires Class Templar
+{variant:42}Requires Class Templar
+{variant:43}Requires Class Templar
+{variant:44}Requires Class Templar
+{variant:45}Requires Class Templar
+{variant:46}Requires Class Marauder
+{variant:47}Requires Class Marauder
+{variant:48}Requires Class Marauder
+{variant:49}Requires Class Marauder
+{variant:50}Requires Class Marauder
+{variant:51}Requires Class Marauder
+{variant:52}Requires Class Marauder
+{variant:53}Requires Class Marauder
+{variant:54}Requires Class Marauder
+{variant:55}Requires Class Marauder
+{variant:56}Requires Class Marauder
+{variant:57}Requires Class Marauder
+{variant:58}Requires Class Marauder
+{variant:59}Requires Class Marauder
+{variant:60}Requires Class Marauder
+{variant:61}Requires Class Marauder
+{variant:62}Requires Class Marauder
+{variant:63}Requires Class Marauder
+{variant:64}Requires Class Marauder
+{variant:65}Requires Class Marauder
+{variant:66}Requires Class Marauder
+{variant:67}Requires Class Marauder
+{variant:68}Requires Class Marauder
+{variant:69}Requires Class Ranger
+{variant:70}Requires Class Ranger
+{variant:71}Requires Class Ranger
+{variant:72}Requires Class Ranger
+{variant:73}Requires Class Ranger
+{variant:74}Requires Class Ranger
+{variant:75}Requires Class Ranger
+{variant:76}Requires Class Ranger
+{variant:77}Requires Class Ranger
+{variant:78}Requires Class Ranger
+{variant:79}Requires Class Ranger
+{variant:80}Requires Class Ranger
+{variant:81}Requires Class Ranger
+{variant:82}Requires Class Ranger
+{variant:83}Requires Class Ranger
+{variant:84}Requires Class Ranger
+{variant:85}Requires Class Ranger
+{variant:86}Requires Class Ranger
+{variant:87}Requires Class Ranger
+{variant:88}Requires Class Ranger
+{variant:89}Requires Class Ranger
+{variant:90}Requires Class Ranger
+{variant:91}Requires Class Witch
+{variant:92}Requires Class Witch
+{variant:93}Requires Class Witch
+{variant:94}Requires Class Witch
+{variant:95}Requires Class Witch
+{variant:96}Requires Class Witch
+{variant:97}Requires Class Witch
+{variant:98}Requires Class Witch
+{variant:99}Requires Class Witch
+{variant:100}Requires Class Witch
+{variant:101}Requires Class Witch
+{variant:102}Requires Class Witch
+{variant:103}Requires Class Witch
+{variant:104}Requires Class Witch
+{variant:105}Requires Class Witch
+{variant:106}Requires Class Witch
+{variant:107}Requires Class Witch
+{variant:108}Requires Class Witch
+{variant:109}Requires Class Witch
+{variant:110}Requires Class Witch
+{variant:111}Requires Class Witch
+{variant:112}Requires Class Witch
+{variant:113}Requires Class Witch
+{variant:114}Requires Class Witch
+{variant:115}Requires Class Scion
+{variant:116}Requires Class Scion
+{variant:117}Requires Class Scion
+{variant:118}Requires Class Scion
+{variant:119}Requires Class Scion
+{variant:120}Requires Class Scion
+{variant:121}Requires Class Scion
+{variant:122}Requires Class Scion
+{variant:123}Requires Class Scion
+{variant:124}Requires Class Scion
+{variant:125}Requires Class Scion
+{variant:126}Requires Class Scion
+{variant:127}Requires Class Scion
+{variant:128}Requires Class Scion
+{variant:129}Requires Class Scion
+{variant:130}Requires Class Scion
+{variant:131}Requires Class Scion
+{variant:132}Requires Class Scion
+{variant:133}Requires Class Scion
+{variant:134}Requires Class Shadow
+{variant:135}Requires Class Shadow
+{variant:136}Requires Class Shadow
+{variant:137}Requires Class Shadow
+{variant:138}Requires Class Shadow
+{variant:139}Requires Class Shadow
+{variant:140}Requires Class Shadow
+{variant:141}Requires Class Shadow
+{variant:142}Requires Class Shadow
+{variant:143}Requires Class Shadow
+{variant:144}Requires Class Shadow
+{variant:145}Requires Class Shadow
+{variant:146}Requires Class Shadow
+{variant:147}Requires Class Shadow
+{variant:148}Requires Class Shadow
+{variant:149}Requires Class Shadow
+{variant:150}Requires Class Shadow
+{variant:151}Requires Class Shadow
+{variant:152}Requires Class Shadow
+{variant:153}Requires Class Shadow
+{variant:154}Requires Class Shadow
+{variant:155}Requires Class Shadow
+{variant:156}Requires Class Shadow
+{variant:1}Allocates Impact if you have the matching modifier on Forbidden Flesh
+{variant:2}Allocates Fatal Flourish if you have the matching modifier on Forbidden Flesh
+{variant:3}Allocates Arena Challenger if you have the matching modifier on Forbidden Flesh
+{variant:4}Allocates Headsman if you have the matching modifier on Forbidden Flesh
+{variant:5}Allocates First to Strike, Last to Fall if you have the matching modifier on Forbidden Flesh
+{variant:6}Allocates Unstoppable Hero if you have the matching modifier on Forbidden Flesh
+{variant:7}Allocates Bane of Legends if you have the matching modifier on Forbidden Flesh
+{variant:8}Allocates Inspirational if you have the matching modifier on Forbidden Flesh
+{variant:9}Allocates Painforged if you have the matching modifier on Forbidden Flesh
+{variant:10}Allocates Gratuitous Violence if you have the matching modifier on Forbidden Flesh
+{variant:11}Allocates Violent Retaliation if you have the matching modifier on Forbidden Flesh
+{variant:12}Allocates Overwhelm if you have the matching modifier on Forbidden Flesh
+{variant:13}Allocates Masterful Form if you have the matching modifier on Forbidden Flesh
+{variant:14}Allocates Blood in the Eyes if you have the matching modifier on Forbidden Flesh
+{variant:15}Allocates Outmatch and Outlast if you have the matching modifier on Forbidden Flesh
+{variant:16}Allocates Worthy Foe if you have the matching modifier on Forbidden Flesh
+{variant:17}Allocates Reigning Veteran if you have the matching modifier on Forbidden Flesh
+{variant:18}Allocates Fortitude if you have the matching modifier on Forbidden Flesh
+{variant:19}Allocates Master of Metal if you have the matching modifier on Forbidden Flesh
+{variant:20}Allocates Conqueror if you have the matching modifier on Forbidden Flesh
+{variant:21}Allocates Brutal Fervour if you have the matching modifier on Forbidden Flesh
+{variant:22}Allocates Endless Hunger if you have the matching modifier on Forbidden Flesh
+{variant:23}Allocates Instruments of Virtue if you have the matching modifier on Forbidden Flesh
+{variant:24}Allocates Sanctuary of Thought if you have the matching modifier on Forbidden Flesh
+{variant:25}Allocates Pursuit of Faith if you have the matching modifier on Forbidden Flesh
+{variant:26}Allocates Unwavering Crusade if you have the matching modifier on Forbidden Flesh
+{variant:27}Allocates Righteous Providence if you have the matching modifier on Forbidden Flesh
+{variant:28}Allocates Conviction of Power if you have the matching modifier on Forbidden Flesh
+{variant:29}Allocates Pious Path if you have the matching modifier on Forbidden Flesh
+{variant:30}Allocates Radiant Faith if you have the matching modifier on Forbidden Flesh
+{variant:31}Allocates Instruments of Zeal if you have the matching modifier on Forbidden Flesh
+{variant:32}Allocates Sign of Purpose if you have the matching modifier on Forbidden Flesh
+{variant:33}Allocates Augury of Penitence if you have the matching modifier on Forbidden Flesh
+{variant:34}Allocates Harmony of Purpose if you have the matching modifier on Forbidden Flesh
+{variant:35}Allocates Searing Purity if you have the matching modifier on Forbidden Flesh
+{variant:36}Allocates Unwavering Faith if you have the matching modifier on Forbidden Flesh
+{variant:37}Allocates Time of Need if you have the matching modifier on Forbidden Flesh
+{variant:38}Allocates Sanctuary if you have the matching modifier on Forbidden Flesh
+{variant:39}Allocates Bastion of Hope if you have the matching modifier on Forbidden Flesh
+{variant:40}Allocates Inevitable Judgement if you have the matching modifier on Forbidden Flesh
+{variant:41}Allocates Arcane Blessing if you have the matching modifier on Forbidden Flesh
+{variant:42}Allocates Ritual of Awakening if you have the matching modifier on Forbidden Flesh
+{variant:43}Allocates Illuminated Devotion if you have the matching modifier on Forbidden Flesh
+{variant:44}Allocates Divine Guidance if you have the matching modifier on Forbidden Flesh
+{variant:45}Allocates Radiant Crusade if you have the matching modifier on Forbidden Flesh
+{variant:46}Allocates Arohongui, Moon&apos;s Presence if you have the matching modifier on Forbidden Flesh
+{variant:47}Allocates Ramako, Sun&apos;s Light if you have the matching modifier on Forbidden Flesh
+{variant:48}Allocates Untiring if you have the matching modifier on Forbidden Flesh
+{variant:49}Allocates Unrelenting if you have the matching modifier on Forbidden Flesh
+{variant:50}Allocates Tukohama, War&apos;s Herald if you have the matching modifier on Forbidden Flesh
+{variant:51}Allocates Unbreakable if you have the matching modifier on Forbidden Flesh
+{variant:52}Allocates War Bringer if you have the matching modifier on Forbidden Flesh
+{variant:53}Allocates Indomitable Resolve if you have the matching modifier on Forbidden Flesh
+{variant:54}Allocates Undeniable if you have the matching modifier on Forbidden Flesh
+{variant:55}Allocates Valako, Storm&apos;s Embrace if you have the matching modifier on Forbidden Flesh
+{variant:56}Allocates Unyielding if you have the matching modifier on Forbidden Flesh
+{variant:57}Allocates Aspect of Carnage if you have the matching modifier on Forbidden Flesh
+{variant:58}Allocates Flawless Savagery if you have the matching modifier on Forbidden Flesh
+{variant:59}Allocates Defy Pain if you have the matching modifier on Forbidden Flesh
+{variant:60}Allocates Ngamahu, Flame&apos;s Advance if you have the matching modifier on Forbidden Flesh
+{variant:61}Allocates Rite of Ruin if you have the matching modifier on Forbidden Flesh
+{variant:62}Allocates Tawhoa, Forest&apos;s Strength if you have the matching modifier on Forbidden Flesh
+{variant:63}Allocates Tasalio, Cleansing Water if you have the matching modifier on Forbidden Flesh
+{variant:64}Allocates Unflinching if you have the matching modifier on Forbidden Flesh
+{variant:65}Allocates Hinekora, Death&apos;s Fury if you have the matching modifier on Forbidden Flesh
+{variant:66}Allocates Crave the Slaughter if you have the matching modifier on Forbidden Flesh
+{variant:67}Allocates Unstoppable if you have the matching modifier on Forbidden Flesh
+{variant:68}Allocates Blitz if you have the matching modifier on Forbidden Flesh
+{variant:69}Allocates Avatar of the Slaughter if you have the matching modifier on Forbidden Flesh
+{variant:70}Allocates Far Shot if you have the matching modifier on Forbidden Flesh
+{variant:71}Allocates Nature&apos;s Reprisal if you have the matching modifier on Forbidden Flesh
+{variant:72}Allocates Way of the Poacher if you have the matching modifier on Forbidden Flesh
+{variant:73}Allocates Master Alchemist if you have the matching modifier on Forbidden Flesh
+{variant:74}Allocates Nature&apos;s Adrenaline if you have the matching modifier on Forbidden Flesh
+{variant:75}Allocates Wind Ward if you have the matching modifier on Forbidden Flesh
+{variant:76}Allocates Fury of Nature if you have the matching modifier on Forbidden Flesh
+{variant:77}Allocates Nature&apos;s Boon if you have the matching modifier on Forbidden Flesh
+{variant:78}Allocates Rapid Assault if you have the matching modifier on Forbidden Flesh
+{variant:79}Allocates Master Surgeon if you have the matching modifier on Forbidden Flesh
+{variant:80}Allocates Rupturing if you have the matching modifier on Forbidden Flesh
+{variant:81}Allocates Master Distiller if you have the matching modifier on Forbidden Flesh
+{variant:82}Allocates Focal Point if you have the matching modifier on Forbidden Flesh
+{variant:83}Allocates Ricochet if you have the matching modifier on Forbidden Flesh
+{variant:84}Allocates Avatar of the Chase if you have the matching modifier on Forbidden Flesh
+{variant:85}Allocates Endless Munitions if you have the matching modifier on Forbidden Flesh
+{variant:86}Allocates Avatar of the Veil if you have the matching modifier on Forbidden Flesh
+{variant:87}Allocates Occupying Force if you have the matching modifier on Forbidden Flesh
+{variant:88}Allocates Gathering Winds if you have the matching modifier on Forbidden Flesh
+{variant:89}Allocates Master Toxicist if you have the matching modifier on Forbidden Flesh
+{variant:90}Allocates Quartz Infusion if you have the matching modifier on Forbidden Flesh
+{variant:91}Allocates Shaper of Winter if you have the matching modifier on Forbidden Flesh
+{variant:92}Allocates Heart of Destruction if you have the matching modifier on Forbidden Flesh
+{variant:93}Allocates Unholy Authority if you have the matching modifier on Forbidden Flesh
+{variant:94}Allocates Nine Lives if you have the matching modifier on Forbidden Flesh
+{variant:95}Allocates Mindless Aggression if you have the matching modifier on Forbidden Flesh
+{variant:96}Allocates Plaguebringer if you have the matching modifier on Forbidden Flesh
+{variant:97}Allocates Corpse Pact if you have the matching modifier on Forbidden Flesh
+{variant:98}Allocates Liege of the Primordial if you have the matching modifier on Forbidden Flesh
+{variant:99}Allocates Bastion of Elements if you have the matching modifier on Forbidden Flesh
+{variant:100}Allocates Vile Bastion if you have the matching modifier on Forbidden Flesh
+{variant:101}Allocates Essence Glutton if you have the matching modifier on Forbidden Flesh
+{variant:102}Allocates Shaper of Storms if you have the matching modifier on Forbidden Flesh
+{variant:103}Allocates Mistress of Sacrifice if you have the matching modifier on Forbidden Flesh
+{variant:104}Allocates Forbidden Power if you have the matching modifier on Forbidden Flesh
+{variant:105}Allocates Elemancer if you have the matching modifier on Forbidden Flesh
+{variant:106}Allocates Mastermind of Discord if you have the matching modifier on Forbidden Flesh
+{variant:107}Allocates Void Beacon if you have the matching modifier on Forbidden Flesh
+{variant:108}Allocates Frigid Wake if you have the matching modifier on Forbidden Flesh
+{variant:109}Allocates Shaper of Flames if you have the matching modifier on Forbidden Flesh
+{variant:110}Allocates Unnatural Strength if you have the matching modifier on Forbidden Flesh
+{variant:111}Allocates Bone Barrier if you have the matching modifier on Forbidden Flesh
+{variant:112}Allocates Withering Presence if you have the matching modifier on Forbidden Flesh
+{variant:113}Allocates Commander of Darkness if you have the matching modifier on Forbidden Flesh
+{variant:114}Allocates Profane Bloom if you have the matching modifier on Forbidden Flesh
+{variant:115}Allocates Slayer if you have the matching modifier on Forbidden Flesh
+{variant:116}Allocates Raider if you have the matching modifier on Forbidden Flesh
+{variant:117}Allocates Hierophant if you have the matching modifier on Forbidden Flesh
+{variant:118}Allocates Assassin if you have the matching modifier on Forbidden Flesh
+{variant:119}Allocates Chieftain if you have the matching modifier on Forbidden Flesh
+{variant:120}Allocates Pathfinder if you have the matching modifier on Forbidden Flesh
+{variant:121}Allocates Elementalist if you have the matching modifier on Forbidden Flesh
+{variant:122}Allocates Inquisitor if you have the matching modifier on Forbidden Flesh
+{variant:123}Allocates Saboteur if you have the matching modifier on Forbidden Flesh
+{variant:124}Allocates Guardian if you have the matching modifier on Forbidden Flesh
+{variant:125}Allocates Juggernaut if you have the matching modifier on Forbidden Flesh
+{variant:126}Allocates Champion if you have the matching modifier on Forbidden Flesh
+{variant:127}Allocates Necromancer if you have the matching modifier on Forbidden Flesh
+{variant:128}Allocates Occultist if you have the matching modifier on Forbidden Flesh
+{variant:129}Allocates Unleashed Potential if you have the matching modifier on Forbidden Flesh
+{variant:130}Allocates Berserker if you have the matching modifier on Forbidden Flesh
+{variant:131}Allocates Deadeye if you have the matching modifier on Forbidden Flesh
+{variant:132}Allocates Gladiator if you have the matching modifier on Forbidden Flesh
+{variant:133}Allocates Trickster if you have the matching modifier on Forbidden Flesh
+{variant:134}Allocates Pyromaniac if you have the matching modifier on Forbidden Flesh
+{variant:135}Allocates Like Clockwork if you have the matching modifier on Forbidden Flesh
+{variant:136}Allocates Unstable Infusion if you have the matching modifier on Forbidden Flesh
+{variant:137}Allocates Opportunistic if you have the matching modifier on Forbidden Flesh
+{variant:138}Allocates Harness the Void if you have the matching modifier on Forbidden Flesh
+{variant:139}Allocates Perfect Crime if you have the matching modifier on Forbidden Flesh
+{variant:140}Allocates Born in the Shadows if you have the matching modifier on Forbidden Flesh
+{variant:141}Allocates Noxious Strike if you have the matching modifier on Forbidden Flesh
+{variant:142}Allocates Polymath if you have the matching modifier on Forbidden Flesh
+{variant:143}Allocates Soul Drinker if you have the matching modifier on Forbidden Flesh
+{variant:144}Allocates Ambush and Assassinate if you have the matching modifier on Forbidden Flesh
+{variant:145}Allocates Heartstopper if you have the matching modifier on Forbidden Flesh
+{variant:146}Allocates Bomb Specialist if you have the matching modifier on Forbidden Flesh
+{variant:147}Allocates One Step Ahead if you have the matching modifier on Forbidden Flesh
+{variant:148}Allocates Mistwalker if you have the matching modifier on Forbidden Flesh
+{variant:149}Allocates Spellbreaker if you have the matching modifier on Forbidden Flesh
+{variant:150}Allocates Toxic Delivery if you have the matching modifier on Forbidden Flesh
+{variant:151}Allocates Deadly Infusion if you have the matching modifier on Forbidden Flesh
+{variant:152}Allocates Explosives Expert if you have the matching modifier on Forbidden Flesh
+{variant:153}Allocates Chain Reaction if you have the matching modifier on Forbidden Flesh
+{variant:154}Allocates Demolitions Specialist if you have the matching modifier on Forbidden Flesh
+{variant:155}Allocates Escape Artist if you have the matching modifier on Forbidden Flesh
+{variant:156}Allocates Swift Killer if you have the matching modifier on Forbidden Flesh
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+			<ModRange range="0.5" id="46"/>
+			<ModRange range="0.5" id="47"/>
+			<ModRange range="0.5" id="48"/>
+			<ModRange range="0.5" id="49"/>
+			<ModRange range="0.5" id="50"/>
+			<ModRange range="0.5" id="51"/>
+			<ModRange range="0.5" id="52"/>
+			<ModRange range="0.5" id="53"/>
+			<ModRange range="0.5" id="54"/>
+			<ModRange range="0.5" id="55"/>
+			<ModRange range="0.5" id="56"/>
+			<ModRange range="0.5" id="57"/>
+			<ModRange range="0.5" id="58"/>
+			<ModRange range="0.5" id="59"/>
+			<ModRange range="0.5" id="60"/>
+			<ModRange range="0.5" id="61"/>
+			<ModRange range="0.5" id="62"/>
+			<ModRange range="0.5" id="63"/>
+			<ModRange range="0.5" id="64"/>
+			<ModRange range="0.5" id="65"/>
+			<ModRange range="0.5" id="66"/>
+			<ModRange range="0.5" id="67"/>
+			<ModRange range="0.5" id="68"/>
+			<ModRange range="0.5" id="69"/>
+			<ModRange range="0.5" id="70"/>
+			<ModRange range="0.5" id="71"/>
+			<ModRange range="0.5" id="72"/>
+			<ModRange range="0.5" id="73"/>
+			<ModRange range="0.5" id="74"/>
+			<ModRange range="0.5" id="75"/>
+			<ModRange range="0.5" id="76"/>
+			<ModRange range="0.5" id="77"/>
+			<ModRange range="0.5" id="78"/>
+			<ModRange range="0.5" id="79"/>
+			<ModRange range="0.5" id="80"/>
+			<ModRange range="0.5" id="81"/>
+			<ModRange range="0.5" id="82"/>
+			<ModRange range="0.5" id="83"/>
+			<ModRange range="0.5" id="84"/>
+			<ModRange range="0.5" id="85"/>
+			<ModRange range="0.5" id="86"/>
+			<ModRange range="0.5" id="87"/>
+			<ModRange range="0.5" id="88"/>
+			<ModRange range="0.5" id="89"/>
+			<ModRange range="0.5" id="90"/>
+			<ModRange range="0.5" id="91"/>
+			<ModRange range="0.5" id="92"/>
+			<ModRange range="0.5" id="93"/>
+			<ModRange range="0.5" id="94"/>
+			<ModRange range="0.5" id="95"/>
+			<ModRange range="0.5" id="96"/>
+			<ModRange range="0.5" id="97"/>
+			<ModRange range="0.5" id="98"/>
+			<ModRange range="0.5" id="99"/>
+			<ModRange range="0.5" id="100"/>
+			<ModRange range="0.5" id="101"/>
+			<ModRange range="0.5" id="102"/>
+			<ModRange range="0.5" id="103"/>
+			<ModRange range="0.5" id="104"/>
+			<ModRange range="0.5" id="105"/>
+			<ModRange range="0.5" id="106"/>
+			<ModRange range="0.5" id="107"/>
+			<ModRange range="0.5" id="108"/>
+			<ModRange range="0.5" id="109"/>
+			<ModRange range="0.5" id="110"/>
+			<ModRange range="0.5" id="111"/>
+			<ModRange range="0.5" id="112"/>
+			<ModRange range="0.5" id="113"/>
+			<ModRange range="0.5" id="114"/>
+			<ModRange range="0.5" id="115"/>
+			<ModRange range="0.5" id="116"/>
+			<ModRange range="0.5" id="117"/>
+			<ModRange range="0.5" id="118"/>
+			<ModRange range="0.5" id="119"/>
+			<ModRange range="0.5" id="120"/>
+			<ModRange range="0.5" id="121"/>
+			<ModRange range="0.5" id="122"/>
+			<ModRange range="0.5" id="123"/>
+			<ModRange range="0.5" id="124"/>
+			<ModRange range="0.5" id="125"/>
+			<ModRange range="0.5" id="126"/>
+			<ModRange range="0.5" id="127"/>
+			<ModRange range="0.5" id="128"/>
+			<ModRange range="0.5" id="129"/>
+			<ModRange range="0.5" id="130"/>
+			<ModRange range="0.5" id="131"/>
+			<ModRange range="0.5" id="132"/>
+			<ModRange range="0.5" id="133"/>
+			<ModRange range="0.5" id="134"/>
+			<ModRange range="0.5" id="135"/>
+			<ModRange range="0.5" id="136"/>
+			<ModRange range="0.5" id="137"/>
+			<ModRange range="0.5" id="138"/>
+			<ModRange range="0.5" id="139"/>
+			<ModRange range="0.5" id="140"/>
+			<ModRange range="0.5" id="141"/>
+			<ModRange range="0.5" id="142"/>
+			<ModRange range="0.5" id="143"/>
+			<ModRange range="0.5" id="144"/>
+			<ModRange range="0.5" id="145"/>
+			<ModRange range="0.5" id="146"/>
+			<ModRange range="0.5" id="147"/>
+			<ModRange range="0.5" id="148"/>
+			<ModRange range="0.5" id="149"/>
+			<ModRange range="0.5" id="150"/>
+			<ModRange range="0.5" id="151"/>
+			<ModRange range="0.5" id="152"/>
+			<ModRange range="0.5" id="153"/>
+			<ModRange range="0.5" id="154"/>
+			<ModRange range="0.5" id="155"/>
+			<ModRange range="0.5" id="156"/>
+		</Item>
+		<Item variant="132" id="3">
+			Rarity: UNIQUE
+Forbidden Flesh
+Cobalt Jewel
+Item Level: 83
+Variant: (Duelist) Impact
+Variant: (Duelist) Fatal Flourish
+Variant: (Duelist) Arena Challenger
+Variant: (Duelist) Headsman
+Variant: (Duelist) First to Strike, Last to Fall
+Variant: (Duelist) Unstoppable Hero
+Variant: (Duelist) Bane of Legends
+Variant: (Duelist) Inspirational
+Variant: (Duelist) Painforged
+Variant: (Duelist) Gratuitous Violence
+Variant: (Duelist) Violent Retaliation
+Variant: (Duelist) Overwhelm
+Variant: (Duelist) Masterful Form
+Variant: (Duelist) Blood in the Eyes
+Variant: (Duelist) Outmatch and Outlast
+Variant: (Duelist) Worthy Foe
+Variant: (Duelist) Reigning Veteran
+Variant: (Duelist) Fortitude
+Variant: (Duelist) Master of Metal
+Variant: (Duelist) Conqueror
+Variant: (Duelist) Brutal Fervour
+Variant: (Duelist) Endless Hunger
+Variant: (Templar) Instruments of Virtue
+Variant: (Templar) Sanctuary of Thought
+Variant: (Templar) Pursuit of Faith
+Variant: (Templar) Unwavering Crusade
+Variant: (Templar) Righteous Providence
+Variant: (Templar) Conviction of Power
+Variant: (Templar) Pious Path
+Variant: (Templar) Radiant Faith
+Variant: (Templar) Instruments of Zeal
+Variant: (Templar) Sign of Purpose
+Variant: (Templar) Augury of Penitence
+Variant: (Templar) Harmony of Purpose
+Variant: (Templar) Searing Purity
+Variant: (Templar) Unwavering Faith
+Variant: (Templar) Time of Need
+Variant: (Templar) Sanctuary
+Variant: (Templar) Bastion of Hope
+Variant: (Templar) Inevitable Judgement
+Variant: (Templar) Arcane Blessing
+Variant: (Templar) Ritual of Awakening
+Variant: (Templar) Illuminated Devotion
+Variant: (Templar) Divine Guidance
+Variant: (Templar) Radiant Crusade
+Variant: (Marauder) Arohongui, Moon&apos;s Presence
+Variant: (Marauder) Ramako, Sun&apos;s Light
+Variant: (Marauder) Untiring
+Variant: (Marauder) Unrelenting
+Variant: (Marauder) Tukohama, War&apos;s Herald
+Variant: (Marauder) Unbreakable
+Variant: (Marauder) War Bringer
+Variant: (Marauder) Indomitable Resolve
+Variant: (Marauder) Undeniable
+Variant: (Marauder) Valako, Storm&apos;s Embrace
+Variant: (Marauder) Unyielding
+Variant: (Marauder) Aspect of Carnage
+Variant: (Marauder) Flawless Savagery
+Variant: (Marauder) Defy Pain
+Variant: (Marauder) Ngamahu, Flame&apos;s Advance
+Variant: (Marauder) Rite of Ruin
+Variant: (Marauder) Tawhoa, Forest&apos;s Strength
+Variant: (Marauder) Tasalio, Cleansing Water
+Variant: (Marauder) Unflinching
+Variant: (Marauder) Hinekora, Death&apos;s Fury
+Variant: (Marauder) Crave the Slaughter
+Variant: (Marauder) Unstoppable
+Variant: (Marauder) Blitz
+Variant: (Ranger) Avatar of the Slaughter
+Variant: (Ranger) Far Shot
+Variant: (Ranger) Nature&apos;s Reprisal
+Variant: (Ranger) Way of the Poacher
+Variant: (Ranger) Master Alchemist
+Variant: (Ranger) Nature&apos;s Adrenaline
+Variant: (Ranger) Wind Ward
+Variant: (Ranger) Fury of Nature
+Variant: (Ranger) Nature&apos;s Boon
+Variant: (Ranger) Rapid Assault
+Variant: (Ranger) Master Surgeon
+Variant: (Ranger) Rupturing
+Variant: (Ranger) Master Distiller
+Variant: (Ranger) Focal Point
+Variant: (Ranger) Ricochet
+Variant: (Ranger) Avatar of the Chase
+Variant: (Ranger) Endless Munitions
+Variant: (Ranger) Avatar of the Veil
+Variant: (Ranger) Occupying Force
+Variant: (Ranger) Gathering Winds
+Variant: (Ranger) Master Toxicist
+Variant: (Ranger) Quartz Infusion
+Variant: (Witch) Shaper of Winter
+Variant: (Witch) Heart of Destruction
+Variant: (Witch) Unholy Authority
+Variant: (Witch) Nine Lives
+Variant: (Witch) Mindless Aggression
+Variant: (Witch) Plaguebringer
+Variant: (Witch) Corpse Pact
+Variant: (Witch) Liege of the Primordial
+Variant: (Witch) Bastion of Elements
+Variant: (Witch) Vile Bastion
+Variant: (Witch) Essence Glutton
+Variant: (Witch) Shaper of Storms
+Variant: (Witch) Mistress of Sacrifice
+Variant: (Witch) Forbidden Power
+Variant: (Witch) Elemancer
+Variant: (Witch) Mastermind of Discord
+Variant: (Witch) Void Beacon
+Variant: (Witch) Frigid Wake
+Variant: (Witch) Shaper of Flames
+Variant: (Witch) Unnatural Strength
+Variant: (Witch) Bone Barrier
+Variant: (Witch) Withering Presence
+Variant: (Witch) Commander of Darkness
+Variant: (Witch) Profane Bloom
+Variant: (Scion) Slayer
+Variant: (Scion) Raider
+Variant: (Scion) Hierophant
+Variant: (Scion) Assassin
+Variant: (Scion) Chieftain
+Variant: (Scion) Pathfinder
+Variant: (Scion) Elementalist
+Variant: (Scion) Inquisitor
+Variant: (Scion) Saboteur
+Variant: (Scion) Guardian
+Variant: (Scion) Juggernaut
+Variant: (Scion) Champion
+Variant: (Scion) Necromancer
+Variant: (Scion) Occultist
+Variant: (Scion) Unleashed Potential
+Variant: (Scion) Berserker
+Variant: (Scion) Deadeye
+Variant: (Scion) Gladiator
+Variant: (Scion) Trickster
+Variant: (Shadow) Pyromaniac
+Variant: (Shadow) Like Clockwork
+Variant: (Shadow) Unstable Infusion
+Variant: (Shadow) Opportunistic
+Variant: (Shadow) Harness the Void
+Variant: (Shadow) Perfect Crime
+Variant: (Shadow) Born in the Shadows
+Variant: (Shadow) Noxious Strike
+Variant: (Shadow) Polymath
+Variant: (Shadow) Soul Drinker
+Variant: (Shadow) Ambush and Assassinate
+Variant: (Shadow) Heartstopper
+Variant: (Shadow) Bomb Specialist
+Variant: (Shadow) One Step Ahead
+Variant: (Shadow) Mistwalker
+Variant: (Shadow) Spellbreaker
+Variant: (Shadow) Toxic Delivery
+Variant: (Shadow) Deadly Infusion
+Variant: (Shadow) Explosives Expert
+Variant: (Shadow) Chain Reaction
+Variant: (Shadow) Demolitions Specialist
+Variant: (Shadow) Escape Artist
+Variant: (Shadow) Swift Killer
+Selected Variant: 132
+Limited to: 1
+Requires Class Scion
+Implicits: 0
+{variant:2}Requires Class Duelist
+{variant:3}Requires Class Duelist
+{variant:4}Requires Class Duelist
+{variant:5}Requires Class Duelist
+{variant:6}Requires Class Duelist
+{variant:7}Requires Class Duelist
+{variant:8}Requires Class Duelist
+{variant:9}Requires Class Duelist
+{variant:10}Requires Class Duelist
+{variant:11}Requires Class Duelist
+{variant:12}Requires Class Duelist
+{variant:13}Requires Class Duelist
+{variant:14}Requires Class Duelist
+{variant:15}Requires Class Duelist
+{variant:16}Requires Class Duelist
+{variant:17}Requires Class Duelist
+{variant:18}Requires Class Duelist
+{variant:19}Requires Class Duelist
+{variant:20}Requires Class Duelist
+{variant:21}Requires Class Duelist
+{variant:22}Requires Class Duelist
+{variant:23}Requires Class Templar
+{variant:24}Requires Class Templar
+{variant:25}Requires Class Templar
+{variant:26}Requires Class Templar
+{variant:27}Requires Class Templar
+{variant:28}Requires Class Templar
+{variant:29}Requires Class Templar
+{variant:30}Requires Class Templar
+{variant:31}Requires Class Templar
+{variant:32}Requires Class Templar
+{variant:33}Requires Class Templar
+{variant:34}Requires Class Templar
+{variant:35}Requires Class Templar
+{variant:36}Requires Class Templar
+{variant:37}Requires Class Templar
+{variant:38}Requires Class Templar
+{variant:39}Requires Class Templar
+{variant:40}Requires Class Templar
+{variant:41}Requires Class Templar
+{variant:42}Requires Class Templar
+{variant:43}Requires Class Templar
+{variant:44}Requires Class Templar
+{variant:45}Requires Class Templar
+{variant:46}Requires Class Marauder
+{variant:47}Requires Class Marauder
+{variant:48}Requires Class Marauder
+{variant:49}Requires Class Marauder
+{variant:50}Requires Class Marauder
+{variant:51}Requires Class Marauder
+{variant:52}Requires Class Marauder
+{variant:53}Requires Class Marauder
+{variant:54}Requires Class Marauder
+{variant:55}Requires Class Marauder
+{variant:56}Requires Class Marauder
+{variant:57}Requires Class Marauder
+{variant:58}Requires Class Marauder
+{variant:59}Requires Class Marauder
+{variant:60}Requires Class Marauder
+{variant:61}Requires Class Marauder
+{variant:62}Requires Class Marauder
+{variant:63}Requires Class Marauder
+{variant:64}Requires Class Marauder
+{variant:65}Requires Class Marauder
+{variant:66}Requires Class Marauder
+{variant:67}Requires Class Marauder
+{variant:68}Requires Class Marauder
+{variant:69}Requires Class Ranger
+{variant:70}Requires Class Ranger
+{variant:71}Requires Class Ranger
+{variant:72}Requires Class Ranger
+{variant:73}Requires Class Ranger
+{variant:74}Requires Class Ranger
+{variant:75}Requires Class Ranger
+{variant:76}Requires Class Ranger
+{variant:77}Requires Class Ranger
+{variant:78}Requires Class Ranger
+{variant:79}Requires Class Ranger
+{variant:80}Requires Class Ranger
+{variant:81}Requires Class Ranger
+{variant:82}Requires Class Ranger
+{variant:83}Requires Class Ranger
+{variant:84}Requires Class Ranger
+{variant:85}Requires Class Ranger
+{variant:86}Requires Class Ranger
+{variant:87}Requires Class Ranger
+{variant:88}Requires Class Ranger
+{variant:89}Requires Class Ranger
+{variant:90}Requires Class Ranger
+{variant:91}Requires Class Witch
+{variant:92}Requires Class Witch
+{variant:93}Requires Class Witch
+{variant:94}Requires Class Witch
+{variant:95}Requires Class Witch
+{variant:96}Requires Class Witch
+{variant:97}Requires Class Witch
+{variant:98}Requires Class Witch
+{variant:99}Requires Class Witch
+{variant:100}Requires Class Witch
+{variant:101}Requires Class Witch
+{variant:102}Requires Class Witch
+{variant:103}Requires Class Witch
+{variant:104}Requires Class Witch
+{variant:105}Requires Class Witch
+{variant:106}Requires Class Witch
+{variant:107}Requires Class Witch
+{variant:108}Requires Class Witch
+{variant:109}Requires Class Witch
+{variant:110}Requires Class Witch
+{variant:111}Requires Class Witch
+{variant:112}Requires Class Witch
+{variant:113}Requires Class Witch
+{variant:114}Requires Class Witch
+{variant:115}Requires Class Scion
+{variant:116}Requires Class Scion
+{variant:117}Requires Class Scion
+{variant:118}Requires Class Scion
+{variant:119}Requires Class Scion
+{variant:120}Requires Class Scion
+{variant:121}Requires Class Scion
+{variant:122}Requires Class Scion
+{variant:123}Requires Class Scion
+{variant:124}Requires Class Scion
+{variant:125}Requires Class Scion
+{variant:126}Requires Class Scion
+{variant:127}Requires Class Scion
+{variant:128}Requires Class Scion
+{variant:129}Requires Class Scion
+{variant:130}Requires Class Scion
+{variant:131}Requires Class Scion
+{variant:132}Requires Class Scion
+{variant:133}Requires Class Scion
+{variant:134}Requires Class Shadow
+{variant:135}Requires Class Shadow
+{variant:136}Requires Class Shadow
+{variant:137}Requires Class Shadow
+{variant:138}Requires Class Shadow
+{variant:139}Requires Class Shadow
+{variant:140}Requires Class Shadow
+{variant:141}Requires Class Shadow
+{variant:142}Requires Class Shadow
+{variant:143}Requires Class Shadow
+{variant:144}Requires Class Shadow
+{variant:145}Requires Class Shadow
+{variant:146}Requires Class Shadow
+{variant:147}Requires Class Shadow
+{variant:148}Requires Class Shadow
+{variant:149}Requires Class Shadow
+{variant:150}Requires Class Shadow
+{variant:151}Requires Class Shadow
+{variant:152}Requires Class Shadow
+{variant:153}Requires Class Shadow
+{variant:154}Requires Class Shadow
+{variant:155}Requires Class Shadow
+{variant:156}Requires Class Shadow
+{variant:1}Allocates Impact if you have the matching modifier on Forbidden Flame
+{variant:2}Allocates Fatal Flourish if you have the matching modifier on Forbidden Flame
+{variant:3}Allocates Arena Challenger if you have the matching modifier on Forbidden Flame
+{variant:4}Allocates Headsman if you have the matching modifier on Forbidden Flame
+{variant:5}Allocates First to Strike, Last to Fall if you have the matching modifier on Forbidden Flame
+{variant:6}Allocates Unstoppable Hero if you have the matching modifier on Forbidden Flame
+{variant:7}Allocates Bane of Legends if you have the matching modifier on Forbidden Flame
+{variant:8}Allocates Inspirational if you have the matching modifier on Forbidden Flame
+{variant:9}Allocates Painforged if you have the matching modifier on Forbidden Flame
+{variant:10}Allocates Gratuitous Violence if you have the matching modifier on Forbidden Flame
+{variant:11}Allocates Violent Retaliation if you have the matching modifier on Forbidden Flame
+{variant:12}Allocates Overwhelm if you have the matching modifier on Forbidden Flame
+{variant:13}Allocates Masterful Form if you have the matching modifier on Forbidden Flame
+{variant:14}Allocates Blood in the Eyes if you have the matching modifier on Forbidden Flame
+{variant:15}Allocates Outmatch and Outlast if you have the matching modifier on Forbidden Flame
+{variant:16}Allocates Worthy Foe if you have the matching modifier on Forbidden Flame
+{variant:17}Allocates Reigning Veteran if you have the matching modifier on Forbidden Flame
+{variant:18}Allocates Fortitude if you have the matching modifier on Forbidden Flame
+{variant:19}Allocates Master of Metal if you have the matching modifier on Forbidden Flame
+{variant:20}Allocates Conqueror if you have the matching modifier on Forbidden Flame
+{variant:21}Allocates Brutal Fervour if you have the matching modifier on Forbidden Flame
+{variant:22}Allocates Endless Hunger if you have the matching modifier on Forbidden Flame
+{variant:23}Allocates Instruments of Virtue if you have the matching modifier on Forbidden Flame
+{variant:24}Allocates Sanctuary of Thought if you have the matching modifier on Forbidden Flame
+{variant:25}Allocates Pursuit of Faith if you have the matching modifier on Forbidden Flame
+{variant:26}Allocates Unwavering Crusade if you have the matching modifier on Forbidden Flame
+{variant:27}Allocates Righteous Providence if you have the matching modifier on Forbidden Flame
+{variant:28}Allocates Conviction of Power if you have the matching modifier on Forbidden Flame
+{variant:29}Allocates Pious Path if you have the matching modifier on Forbidden Flame
+{variant:30}Allocates Radiant Faith if you have the matching modifier on Forbidden Flame
+{variant:31}Allocates Instruments of Zeal if you have the matching modifier on Forbidden Flame
+{variant:32}Allocates Sign of Purpose if you have the matching modifier on Forbidden Flame
+{variant:33}Allocates Augury of Penitence if you have the matching modifier on Forbidden Flame
+{variant:34}Allocates Harmony of Purpose if you have the matching modifier on Forbidden Flame
+{variant:35}Allocates Searing Purity if you have the matching modifier on Forbidden Flame
+{variant:36}Allocates Unwavering Faith if you have the matching modifier on Forbidden Flame
+{variant:37}Allocates Time of Need if you have the matching modifier on Forbidden Flame
+{variant:38}Allocates Sanctuary if you have the matching modifier on Forbidden Flame
+{variant:39}Allocates Bastion of Hope if you have the matching modifier on Forbidden Flame
+{variant:40}Allocates Inevitable Judgement if you have the matching modifier on Forbidden Flame
+{variant:41}Allocates Arcane Blessing if you have the matching modifier on Forbidden Flame
+{variant:42}Allocates Ritual of Awakening if you have the matching modifier on Forbidden Flame
+{variant:43}Allocates Illuminated Devotion if you have the matching modifier on Forbidden Flame
+{variant:44}Allocates Divine Guidance if you have the matching modifier on Forbidden Flame
+{variant:45}Allocates Radiant Crusade if you have the matching modifier on Forbidden Flame
+{variant:46}Allocates Arohongui, Moon&apos;s Presence if you have the matching modifier on Forbidden Flame
+{variant:47}Allocates Ramako, Sun&apos;s Light if you have the matching modifier on Forbidden Flame
+{variant:48}Allocates Untiring if you have the matching modifier on Forbidden Flame
+{variant:49}Allocates Unrelenting if you have the matching modifier on Forbidden Flame
+{variant:50}Allocates Tukohama, War&apos;s Herald if you have the matching modifier on Forbidden Flame
+{variant:51}Allocates Unbreakable if you have the matching modifier on Forbidden Flame
+{variant:52}Allocates War Bringer if you have the matching modifier on Forbidden Flame
+{variant:53}Allocates Indomitable Resolve if you have the matching modifier on Forbidden Flame
+{variant:54}Allocates Undeniable if you have the matching modifier on Forbidden Flame
+{variant:55}Allocates Valako, Storm&apos;s Embrace if you have the matching modifier on Forbidden Flame
+{variant:56}Allocates Unyielding if you have the matching modifier on Forbidden Flame
+{variant:57}Allocates Aspect of Carnage if you have the matching modifier on Forbidden Flame
+{variant:58}Allocates Flawless Savagery if you have the matching modifier on Forbidden Flame
+{variant:59}Allocates Defy Pain if you have the matching modifier on Forbidden Flame
+{variant:60}Allocates Ngamahu, Flame&apos;s Advance if you have the matching modifier on Forbidden Flame
+{variant:61}Allocates Rite of Ruin if you have the matching modifier on Forbidden Flame
+{variant:62}Allocates Tawhoa, Forest&apos;s Strength if you have the matching modifier on Forbidden Flame
+{variant:63}Allocates Tasalio, Cleansing Water if you have the matching modifier on Forbidden Flame
+{variant:64}Allocates Unflinching if you have the matching modifier on Forbidden Flame
+{variant:65}Allocates Hinekora, Death&apos;s Fury if you have the matching modifier on Forbidden Flame
+{variant:66}Allocates Crave the Slaughter if you have the matching modifier on Forbidden Flame
+{variant:67}Allocates Unstoppable if you have the matching modifier on Forbidden Flame
+{variant:68}Allocates Blitz if you have the matching modifier on Forbidden Flame
+{variant:69}Allocates Avatar of the Slaughter if you have the matching modifier on Forbidden Flame
+{variant:70}Allocates Far Shot if you have the matching modifier on Forbidden Flame
+{variant:71}Allocates Nature&apos;s Reprisal if you have the matching modifier on Forbidden Flame
+{variant:72}Allocates Way of the Poacher if you have the matching modifier on Forbidden Flame
+{variant:73}Allocates Master Alchemist if you have the matching modifier on Forbidden Flame
+{variant:74}Allocates Nature&apos;s Adrenaline if you have the matching modifier on Forbidden Flame
+{variant:75}Allocates Wind Ward if you have the matching modifier on Forbidden Flame
+{variant:76}Allocates Fury of Nature if you have the matching modifier on Forbidden Flame
+{variant:77}Allocates Nature&apos;s Boon if you have the matching modifier on Forbidden Flame
+{variant:78}Allocates Rapid Assault if you have the matching modifier on Forbidden Flame
+{variant:79}Allocates Master Surgeon if you have the matching modifier on Forbidden Flame
+{variant:80}Allocates Rupturing if you have the matching modifier on Forbidden Flame
+{variant:81}Allocates Master Distiller if you have the matching modifier on Forbidden Flame
+{variant:82}Allocates Focal Point if you have the matching modifier on Forbidden Flame
+{variant:83}Allocates Ricochet if you have the matching modifier on Forbidden Flame
+{variant:84}Allocates Avatar of the Chase if you have the matching modifier on Forbidden Flame
+{variant:85}Allocates Endless Munitions if you have the matching modifier on Forbidden Flame
+{variant:86}Allocates Avatar of the Veil if you have the matching modifier on Forbidden Flame
+{variant:87}Allocates Occupying Force if you have the matching modifier on Forbidden Flame
+{variant:88}Allocates Gathering Winds if you have the matching modifier on Forbidden Flame
+{variant:89}Allocates Master Toxicist if you have the matching modifier on Forbidden Flame
+{variant:90}Allocates Quartz Infusion if you have the matching modifier on Forbidden Flame
+{variant:91}Allocates Shaper of Winter if you have the matching modifier on Forbidden Flame
+{variant:92}Allocates Heart of Destruction if you have the matching modifier on Forbidden Flame
+{variant:93}Allocates Unholy Authority if you have the matching modifier on Forbidden Flame
+{variant:94}Allocates Nine Lives if you have the matching modifier on Forbidden Flame
+{variant:95}Allocates Mindless Aggression if you have the matching modifier on Forbidden Flame
+{variant:96}Allocates Plaguebringer if you have the matching modifier on Forbidden Flame
+{variant:97}Allocates Corpse Pact if you have the matching modifier on Forbidden Flame
+{variant:98}Allocates Liege of the Primordial if you have the matching modifier on Forbidden Flame
+{variant:99}Allocates Bastion of Elements if you have the matching modifier on Forbidden Flame
+{variant:100}Allocates Vile Bastion if you have the matching modifier on Forbidden Flame
+{variant:101}Allocates Essence Glutton if you have the matching modifier on Forbidden Flame
+{variant:102}Allocates Shaper of Storms if you have the matching modifier on Forbidden Flame
+{variant:103}Allocates Mistress of Sacrifice if you have the matching modifier on Forbidden Flame
+{variant:104}Allocates Forbidden Power if you have the matching modifier on Forbidden Flame
+{variant:105}Allocates Elemancer if you have the matching modifier on Forbidden Flame
+{variant:106}Allocates Mastermind of Discord if you have the matching modifier on Forbidden Flame
+{variant:107}Allocates Void Beacon if you have the matching modifier on Forbidden Flame
+{variant:108}Allocates Frigid Wake if you have the matching modifier on Forbidden Flame
+{variant:109}Allocates Shaper of Flames if you have the matching modifier on Forbidden Flame
+{variant:110}Allocates Unnatural Strength if you have the matching modifier on Forbidden Flame
+{variant:111}Allocates Bone Barrier if you have the matching modifier on Forbidden Flame
+{variant:112}Allocates Withering Presence if you have the matching modifier on Forbidden Flame
+{variant:113}Allocates Commander of Darkness if you have the matching modifier on Forbidden Flame
+{variant:114}Allocates Profane Bloom if you have the matching modifier on Forbidden Flame
+{variant:115}Allocates Slayer if you have the matching modifier on Forbidden Flame
+{variant:116}Allocates Raider if you have the matching modifier on Forbidden Flame
+{variant:117}Allocates Hierophant if you have the matching modifier on Forbidden Flame
+{variant:118}Allocates Assassin if you have the matching modifier on Forbidden Flame
+{variant:119}Allocates Chieftain if you have the matching modifier on Forbidden Flame
+{variant:120}Allocates Pathfinder if you have the matching modifier on Forbidden Flame
+{variant:121}Allocates Elementalist if you have the matching modifier on Forbidden Flame
+{variant:122}Allocates Inquisitor if you have the matching modifier on Forbidden Flame
+{variant:123}Allocates Saboteur if you have the matching modifier on Forbidden Flame
+{variant:124}Allocates Guardian if you have the matching modifier on Forbidden Flame
+{variant:125}Allocates Juggernaut if you have the matching modifier on Forbidden Flame
+{variant:126}Allocates Champion if you have the matching modifier on Forbidden Flame
+{variant:127}Allocates Necromancer if you have the matching modifier on Forbidden Flame
+{variant:128}Allocates Occultist if you have the matching modifier on Forbidden Flame
+{variant:129}Allocates Unleashed Potential if you have the matching modifier on Forbidden Flame
+{variant:130}Allocates Berserker if you have the matching modifier on Forbidden Flame
+{variant:131}Allocates Deadeye if you have the matching modifier on Forbidden Flame
+{variant:132}Allocates Gladiator if you have the matching modifier on Forbidden Flame
+{variant:133}Allocates Trickster if you have the matching modifier on Forbidden Flame
+{variant:134}Allocates Pyromaniac if you have the matching modifier on Forbidden Flame
+{variant:135}Allocates Like Clockwork if you have the matching modifier on Forbidden Flame
+{variant:136}Allocates Unstable Infusion if you have the matching modifier on Forbidden Flame
+{variant:137}Allocates Opportunistic if you have the matching modifier on Forbidden Flame
+{variant:138}Allocates Harness the Void if you have the matching modifier on Forbidden Flame
+{variant:139}Allocates Perfect Crime if you have the matching modifier on Forbidden Flame
+{variant:140}Allocates Born in the Shadows if you have the matching modifier on Forbidden Flame
+{variant:141}Allocates Noxious Strike if you have the matching modifier on Forbidden Flame
+{variant:142}Allocates Polymath if you have the matching modifier on Forbidden Flame
+{variant:143}Allocates Soul Drinker if you have the matching modifier on Forbidden Flame
+{variant:144}Allocates Ambush and Assassinate if you have the matching modifier on Forbidden Flame
+{variant:145}Allocates Heartstopper if you have the matching modifier on Forbidden Flame
+{variant:146}Allocates Bomb Specialist if you have the matching modifier on Forbidden Flame
+{variant:147}Allocates One Step Ahead if you have the matching modifier on Forbidden Flame
+{variant:148}Allocates Mistwalker if you have the matching modifier on Forbidden Flame
+{variant:149}Allocates Spellbreaker if you have the matching modifier on Forbidden Flame
+{variant:150}Allocates Toxic Delivery if you have the matching modifier on Forbidden Flame
+{variant:151}Allocates Deadly Infusion if you have the matching modifier on Forbidden Flame
+{variant:152}Allocates Explosives Expert if you have the matching modifier on Forbidden Flame
+{variant:153}Allocates Chain Reaction if you have the matching modifier on Forbidden Flame
+{variant:154}Allocates Demolitions Specialist if you have the matching modifier on Forbidden Flame
+{variant:155}Allocates Escape Artist if you have the matching modifier on Forbidden Flame
+{variant:156}Allocates Swift Killer if you have the matching modifier on Forbidden Flame
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+			<ModRange range="0.5" id="46"/>
+			<ModRange range="0.5" id="47"/>
+			<ModRange range="0.5" id="48"/>
+			<ModRange range="0.5" id="49"/>
+			<ModRange range="0.5" id="50"/>
+			<ModRange range="0.5" id="51"/>
+			<ModRange range="0.5" id="52"/>
+			<ModRange range="0.5" id="53"/>
+			<ModRange range="0.5" id="54"/>
+			<ModRange range="0.5" id="55"/>
+			<ModRange range="0.5" id="56"/>
+			<ModRange range="0.5" id="57"/>
+			<ModRange range="0.5" id="58"/>
+			<ModRange range="0.5" id="59"/>
+			<ModRange range="0.5" id="60"/>
+			<ModRange range="0.5" id="61"/>
+			<ModRange range="0.5" id="62"/>
+			<ModRange range="0.5" id="63"/>
+			<ModRange range="0.5" id="64"/>
+			<ModRange range="0.5" id="65"/>
+			<ModRange range="0.5" id="66"/>
+			<ModRange range="0.5" id="67"/>
+			<ModRange range="0.5" id="68"/>
+			<ModRange range="0.5" id="69"/>
+			<ModRange range="0.5" id="70"/>
+			<ModRange range="0.5" id="71"/>
+			<ModRange range="0.5" id="72"/>
+			<ModRange range="0.5" id="73"/>
+			<ModRange range="0.5" id="74"/>
+			<ModRange range="0.5" id="75"/>
+			<ModRange range="0.5" id="76"/>
+			<ModRange range="0.5" id="77"/>
+			<ModRange range="0.5" id="78"/>
+			<ModRange range="0.5" id="79"/>
+			<ModRange range="0.5" id="80"/>
+			<ModRange range="0.5" id="81"/>
+			<ModRange range="0.5" id="82"/>
+			<ModRange range="0.5" id="83"/>
+			<ModRange range="0.5" id="84"/>
+			<ModRange range="0.5" id="85"/>
+			<ModRange range="0.5" id="86"/>
+			<ModRange range="0.5" id="87"/>
+			<ModRange range="0.5" id="88"/>
+			<ModRange range="0.5" id="89"/>
+			<ModRange range="0.5" id="90"/>
+			<ModRange range="0.5" id="91"/>
+			<ModRange range="0.5" id="92"/>
+			<ModRange range="0.5" id="93"/>
+			<ModRange range="0.5" id="94"/>
+			<ModRange range="0.5" id="95"/>
+			<ModRange range="0.5" id="96"/>
+			<ModRange range="0.5" id="97"/>
+			<ModRange range="0.5" id="98"/>
+			<ModRange range="0.5" id="99"/>
+			<ModRange range="0.5" id="100"/>
+			<ModRange range="0.5" id="101"/>
+			<ModRange range="0.5" id="102"/>
+			<ModRange range="0.5" id="103"/>
+			<ModRange range="0.5" id="104"/>
+			<ModRange range="0.5" id="105"/>
+			<ModRange range="0.5" id="106"/>
+			<ModRange range="0.5" id="107"/>
+			<ModRange range="0.5" id="108"/>
+			<ModRange range="0.5" id="109"/>
+			<ModRange range="0.5" id="110"/>
+			<ModRange range="0.5" id="111"/>
+			<ModRange range="0.5" id="112"/>
+			<ModRange range="0.5" id="113"/>
+			<ModRange range="0.5" id="114"/>
+			<ModRange range="0.5" id="115"/>
+			<ModRange range="0.5" id="116"/>
+			<ModRange range="0.5" id="117"/>
+			<ModRange range="0.5" id="118"/>
+			<ModRange range="0.5" id="119"/>
+			<ModRange range="0.5" id="120"/>
+			<ModRange range="0.5" id="121"/>
+			<ModRange range="0.5" id="122"/>
+			<ModRange range="0.5" id="123"/>
+			<ModRange range="0.5" id="124"/>
+			<ModRange range="0.5" id="125"/>
+			<ModRange range="0.5" id="126"/>
+			<ModRange range="0.5" id="127"/>
+			<ModRange range="0.5" id="128"/>
+			<ModRange range="0.5" id="129"/>
+			<ModRange range="0.5" id="130"/>
+			<ModRange range="0.5" id="131"/>
+			<ModRange range="0.5" id="132"/>
+			<ModRange range="0.5" id="133"/>
+			<ModRange range="0.5" id="134"/>
+			<ModRange range="0.5" id="135"/>
+			<ModRange range="0.5" id="136"/>
+			<ModRange range="0.5" id="137"/>
+			<ModRange range="0.5" id="138"/>
+			<ModRange range="0.5" id="139"/>
+			<ModRange range="0.5" id="140"/>
+			<ModRange range="0.5" id="141"/>
+			<ModRange range="0.5" id="142"/>
+			<ModRange range="0.5" id="143"/>
+			<ModRange range="0.5" id="144"/>
+			<ModRange range="0.5" id="145"/>
+			<ModRange range="0.5" id="146"/>
+			<ModRange range="0.5" id="147"/>
+			<ModRange range="0.5" id="148"/>
+			<ModRange range="0.5" id="149"/>
+			<ModRange range="0.5" id="150"/>
+			<ModRange range="0.5" id="151"/>
+			<ModRange range="0.5" id="152"/>
+			<ModRange range="0.5" id="153"/>
+			<ModRange range="0.5" id="154"/>
+			<ModRange range="0.5" id="155"/>
+			<ModRange range="0.5" id="156"/>
+		</Item>
+		<Item variant="35" id="4">
+			Rarity: UNIQUE
+Impossible Escape
+Viridian Jewel
+League: Sentinel
+Variant: Acrobatics
+Variant: Ancestral Bond
+Variant: Arrow Dancing
+Variant: Avatar of Fire
+Variant: Blood Magic
+Variant: Call to Arms
+Variant: Chaos Inoculation
+Variant: Conduit
+Variant: Crimson Dance
+Variant: Divine Shield
+Variant: Doomsday
+Variant: Eldritch Battery
+Variant: Elemental Equilibrium
+Variant: Elemental Overload
+Variant: Eternal Youth
+Variant: Ghost Dance
+Variant: Ghost Reaver
+Variant: Glancing Blows
+Variant: Hex Master
+Variant: Imbalanced Guard
+Variant: Iron Grip
+Variant: Iron Reflexes
+Variant: Iron Will
+Variant: Lethe Shade
+Variant: Magebane
+Variant: Mind Over Matter
+Variant: Minion Instability
+Variant: Necromantic Aegis
+Variant: Pain Attunement
+Variant: Perfect Agony
+Variant: Point Blank
+Variant: Precise Technique
+Variant: Resolute Technique
+Variant: Runebinder
+Variant: Solipsism
+Variant: Supreme Decadence
+Variant: Supreme Ego
+Variant: The Agnostic
+Variant: The Impaler
+Variant: Unwavering Stance
+Variant: Vaal Pact
+Variant: Versatile Combatant
+Variant: Wicked Ward
+Variant: Wind Dancer
+Variant: Zealot&apos;s Oath
+Variant: Everything (QoL Test Variant)
+Selected Variant: 35
+Radius: Small
+Limited to: 1
+Implicits: 0
+{variant:1,46}Passives in radius of Acrobatics can be allocated without being connected to your tree
+{variant:2,46}Passives in radius of Ancestral Bond can be allocated without being connected to your tree
+{variant:46,3}Passives in radius of Arrow Dancing can be allocated without being connected to your tree
+{variant:46,4}Passives in radius of Avatar of Fire can be allocated without being connected to your tree
+{variant:5,46}Passives in radius of Blood Magic can be allocated without being connected to your tree
+{variant:46,6}Passives in radius of Call to Arms can be allocated without being connected to your tree
+{variant:7,46}Passives in radius of Chaos Inoculation can be allocated without being connected to your tree
+{variant:46,8}Passives in radius of Conduit can be allocated without being connected to your tree
+{variant:46,9}Passives in radius of Crimson Dance can be allocated without being connected to your tree
+{variant:10,46}Passives in radius of Divine Shield can be allocated without being connected to your tree
+{variant:11,46}Passives in radius of Doomsday can be allocated without being connected to your tree
+{variant:46,12}Passives in radius of Eldritch Battery can be allocated without being connected to your tree
+{variant:46,13}Passives in radius of Elemental Equilibrium can be allocated without being connected to your tree
+{variant:14,46}Passives in radius of Elemental Overload can be allocated without being connected to your tree
+{variant:15,46}Passives in radius of Eternal Youth can be allocated without being connected to your tree
+{variant:46,16}Passives in radius of Ghost Dance can be allocated without being connected to your tree
+{variant:17,46}Passives in radius of Ghost Reaver can be allocated without being connected to your tree
+{variant:46,18}Passives in radius of Glancing Blows can be allocated without being connected to your tree
+{variant:46,19}Passives in radius of Hex Master can be allocated without being connected to your tree
+{variant:20,46}Passives in radius of Imbalanced Guard can be allocated without being connected to your tree
+{variant:46,21}Passives in radius of Iron Grip can be allocated without being connected to your tree
+{variant:22,46}Passives in radius of Iron Reflexes can be allocated without being connected to your tree
+{variant:23,46}Passives in radius of Iron Will can be allocated without being connected to your tree
+{variant:46,24}Passives in radius of Lethe Shade can be allocated without being connected to your tree
+{variant:25,46}Passives in radius of Magebane can be allocated without being connected to your tree
+{variant:46,26}Passives in radius of Mind Over Matter can be allocated without being connected to your tree
+{variant:46,27}Passives in radius of Minion Instability can be allocated without being connected to your tree
+{variant:28,46}Passives in radius of Necromantic Aegis can be allocated without being connected to your tree
+{variant:46,29}Passives in radius of Pain Attunement can be allocated without being connected to your tree
+{variant:30,46}Passives in radius of Perfect Agony can be allocated without being connected to your tree
+{variant:31,46}Passives in radius of Point Blank can be allocated without being connected to your tree
+{variant:46,32}Passives in radius of Precise Technique can be allocated without being connected to your tree
+{variant:33,46}Passives in radius of Resolute Technique can be allocated without being connected to your tree
+{variant:34,46}Passives in radius of Runebinder can be allocated without being connected to your tree
+{variant:35,46}Passives in radius of Solipsism can be allocated without being connected to your tree
+{variant:46,36}Passives in radius of Supreme Decadence can be allocated without being connected to your tree
+{variant:46,37}Passives in radius of Supreme Ego can be allocated without being connected to your tree
+{variant:46,38}Passives in radius of The Agnostic can be allocated without being connected to your tree
+{variant:46,39}Passives in radius of The Impaler can be allocated without being connected to your tree
+{variant:40,46}Passives in radius of Unwavering Stance can be allocated without being connected to your tree
+{variant:46,41}Passives in radius of Vaal Pact can be allocated without being connected to your tree
+{variant:46,42}Passives in radius of Versatile Combatant can be allocated without being connected to your tree
+{variant:46,43}Passives in radius of Wicked Ward can be allocated without being connected to your tree
+{variant:44,46}Passives in radius of Wind Dancer can be allocated without being connected to your tree
+{variant:45,46}Passives in radius of Zealot&apos;s Oath can be allocated without being connected to your tree
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+		</Item>
+		<Item id="8">
+			Rarity: RARE
+Cult-Leader + Lasting Impression
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableCultLeader_
+Prefix: {range:0.5}AfflictionNotableLastingImpression_
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantAttributes3
+Suffix: None
+Cluster Jewel Skill: affliction_minion_damage_while_you_have_a_herald
+Cluster Jewel Node Count: 4
+Quality: 0
+LevelReq: 67
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: Minions deal 10% increased Damage while you are affected by a Herald
+Added Small Passive Skills also grant: +4 to All Attributes
+1 Added Passive Skill is Cult-Leader
+1 Added Passive Skill is Lasting Impression
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item variant="3" id="7">
+			Rarity: UNIQUE
+Elegant Hubris
+Timeless Jewel
+League: Legion
+Variant: Cadiro (Supreme Decadence)
+Variant: Victario (Supreme Grandstanding)
+Variant: Caspiro (Supreme Ostentation)
+Selected Variant: 3
+LevelReq: 20
+Radius: Large
+Limited to: 1
+Implicits: 0
+{variant:1}Commissioned 58620 coins to commemorate Cadiro
+{variant:2}Commissioned 58620 coins to commemorate Victario
+{variant:3}Commissioned 58620 coins to commemorate Caspiro
+Passives in radius are Conquered by the Eternal Empire
+Historic
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="5">
+			Rarity: RARE
+Battle-Hardened + Master the Fundamentals + anything 3rd
+Large Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableBattleHardened_
+Prefix: {range:0.5}AfflictionNotableMastertheFundamentals_
+Suffix: {range:0.5}AfflictionNotableForceMultiplier
+Suffix: None
+Cluster Jewel Skill: affliction_physical_damage
+Cluster Jewel Node Count: 8
+Quality: 0
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Physical Damage
+1 Added Passive Skill is Battle-Hardened
+1 Added Passive Skill is Force Multiplier
+1 Added Passive Skill is Master the Fundamentals
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="9">
+			Rarity: RARE
+Lead By Example + Mob Mentality
+Medium Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableLeadByExample__
+Prefix: {range:0.5}AfflictionNotableMobMentality
+Suffix: {range:0.5}AfflictionJewelSmallPassivesGrantChaosRes3
+Suffix: None
+Cluster Jewel Skill: affliction_warcry_buff_effect
+Cluster Jewel Node Count: 4
+Quality: 0
+LevelReq: 67
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: Exerted Attacks deal 20% increased Damage
+Added Small Passive Skills also grant: +5% to Chaos Resistance
+1 Added Passive Skill is Lead By Example
+1 Added Passive Skill is Mob Mentality
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot itemPbURL="" name="Weapon 1" itemId="1"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 6" itemId="0"/>
+			<SocketIdURL nodeId="33989" name="Jewel 33989" itemPbURL=""/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Belt" itemId="14"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 5" itemId="24"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 4" itemId="23"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
+			<SocketIdURL nodeId="33631" name="Jewel 33631" itemPbURL=""/>
+			<Slot itemPbURL="" name="Helmet" itemId="10"/>
+			<Slot itemPbURL="" name="Flask 1" itemId="20"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Amulet" itemId="6"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 2" itemId="21"/>
+			<SocketIdURL nodeId="48768" name="Jewel 48768" itemPbURL=""/>
+			<Slot itemPbURL="" name="Ring 2" itemId="16"/>
+			<SocketIdURL nodeId="49080" name="Jewel 49080" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="25"/>
+			<Slot itemPbURL="" name="Gloves" itemId="12"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 3" itemId="22"/>
+			<SocketIdURL nodeId="24970" name="Jewel 24970" itemPbURL=""/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 4" itemId="0"/>
+			<SocketIdURL nodeId="55190" name="Jewel 55190" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Boots" itemId="13"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Ring 1" itemId="15"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="19"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
+			<SocketIdURL nodeId="31683" name="Jewel 31683" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour" itemId="11"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="25"/>
+			<SocketIdURL nodeId="26725" name="Jewel 26725" itemPbURL=""/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 2" itemId="0"/>
+			<SocketIdURL nodeId="44169" name="Jewel 44169" itemPbURL=""/>
+			<SocketIdURL nodeId="14993" name="Jewel 14993" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 4" itemId="0"/>
+		</ItemSet>
+		<TradeSearchWeights/>
+	</Items>
+	<Config>
+		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
+		<Input name="multiplierLifeSpentRecently" number="400"/>
+		<Input name="enemyIsBoss" string="Pinnacle"/>
+		<Input name="conditionEnemyTaunted" boolean="true"/>
+		<Input name="conditionEnemyDebilitated" boolean="true"/>
+		<Input name="conditionUsedWarcryRecently" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="buffLifetap" boolean="true"/>
+		<Input name="prideEffect" string="MAX"/>
+		<Input name="useEnduranceCharges" boolean="true"/>
+		<Input name="customMods" string="
+"/>
+		<Input name="conditionCorruptingCryStages" number="10"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Placeholder name="enemySpeed" number="700"/>
+		<Placeholder name="enemyChaosResist" number="30"/>
+		<Placeholder name="enemyLightningDamage" number="2241"/>
+		<Placeholder name="enemyCritChance" number="5"/>
+		<Placeholder name="enemyFireResist" number="50"/>
+		<Placeholder name="enemyColdDamage" number="2241"/>
+		<Placeholder name="enemyFireDamage" number="2241"/>
+		<Placeholder name="enemyLevel" number="84"/>
+		<Placeholder name="multiplierWitheredStackCountSelf" number="15"/>
+		<Placeholder name="enemyColdResist" number="50"/>
+		<Placeholder name="enemyLightningPen" number="3"/>
+		<Placeholder name="enemyLightningResist" number="50"/>
+		<Placeholder name="enemyChaosDamage" number="896"/>
+		<Placeholder name="enemyColdPen" number="3"/>
+		<Placeholder name="enemyFirePen" number="3"/>
+		<Placeholder name="enemyDamageRollRange" number="70"/>
+		<Placeholder name="enemyArmour" number="62891"/>
+		<Placeholder name="enemyCritDamage" number="30"/>
+		<Placeholder name="enemyPhysicalDamage" number="2241"/>
+		<Placeholder name="enemyEvasion" number="10143"/>
+		<Placeholder name="sigilOfPowerStages" number="1"/>
+	</Config>
+</PathOfBuilding>
