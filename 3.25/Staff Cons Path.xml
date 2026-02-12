@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="94" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Marauder" ascendClassName="Juggernaut" characterLevelAutoMode="false" mainSocketGroup="1" viewMode="SKILLS" pantheonMinorGod="None">
+		<PlayerStat stat="AverageDamage" value="2927350.2782031"/>
+		<PlayerStat stat="AverageBurstDamage" value="2927350.2782031"/>
+		<PlayerStat stat="Speed" value="1.8354"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="56.28"/>
+		<PlayerStat stat="CritChance" value="55.7172"/>
+		<PlayerStat stat="CritMultiplier" value="2.98"/>
+		<PlayerStat stat="HitChance" value="99"/>
+		<PlayerStat stat="TotalDPS" value="5372858.7006139"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="WithBleedDPS" value="5372858.7006139"/>
+		<PlayerStat stat="IgniteDPS" value="157959.78050651"/>
+		<PlayerStat stat="WithIgniteDPS" value="5530818.4811204"/>
+		<PlayerStat stat="WithPoisonDPS" value="5372858.7006139"/>
+		<PlayerStat stat="TotalDotDPS" value="157959.78050651"/>
+		<PlayerStat stat="CullingDPS" value="0"/>
+		<PlayerStat stat="ReservationDPS" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="5530818.4811204"/>
+		<PlayerStat stat="Cooldown" value="0"/>
+		<PlayerStat stat="AreaOfEffectRadiusMetres" value="4.7"/>
+		<PlayerStat stat="ManaCost" value="33"/>
+		<PlayerStat stat="ManaPercentCost" value="0"/>
+		<PlayerStat stat="ManaPerSecondCost" value="60.5682"/>
+		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="LifeCost" value="5"/>
+		<PlayerStat stat="LifePercentCost" value="0"/>
+		<PlayerStat stat="LifePerSecondCost" value="9.177"/>
+		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
+		<PlayerStat stat="ESCost" value="0"/>
+		<PlayerStat stat="ESPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="RageCost" value="0"/>
+		<PlayerStat stat="SoulCost" value="0"/>
+		<PlayerStat stat="Str" value="1093"/>
+		<PlayerStat stat="ReqStr" value="160"/>
+		<PlayerStat stat="Dex" value="80"/>
+		<PlayerStat stat="ReqDex" value="68"/>
+		<PlayerStat stat="Int" value="122"/>
+		<PlayerStat stat="ReqInt" value="117"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="TotalEHP" value="27992.614907897"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="17910"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="52091"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="54571"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="52091"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="4014"/>
+		<PlayerStat stat="MainHandAccuracy" value="3677"/>
+		<PlayerStat stat="Life" value="5018"/>
+		<PlayerStat stat="Spec:LifeInc" value="110"/>
+		<PlayerStat stat="LifeUnreserved" value="5018"/>
+		<PlayerStat stat="LifeRecoverable" value="5018"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegenRecovery" value="1738.7"/>
+		<PlayerStat stat="LifeLeechGainRate" value="911.7936828"/>
+		<PlayerStat stat="Mana" value="659"/>
+		<PlayerStat stat="Spec:ManaInc" value="0"/>
+		<PlayerStat stat="ManaUnreserved" value="131"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="19.878603945372"/>
+		<PlayerStat stat="ManaRegenRecovery" value="118.16285714286"/>
+		<PlayerStat stat="ManaLeechGainRate" value="119.7433314"/>
+		<PlayerStat stat="EnergyShield" value="139"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="139"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
+		<PlayerStat stat="EnergyShieldRegenRecovery" value="18"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Ward" value="0"/>
+		<PlayerStat stat="Rage" value="0"/>
+		<PlayerStat stat="RageRegenRecovery" value="0"/>
+		<PlayerStat stat="Evasion" value="17"/>
+		<PlayerStat stat="Spec:EvasionInc" value="0"/>
+		<PlayerStat stat="MeleeEvadeChance" value="0"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
+		<PlayerStat stat="Armour" value="17321"/>
+		<PlayerStat stat="Spec:ArmourInc" value="171"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="90"/>
+		<PlayerStat stat="EffectiveBlockChance" value="21"/>
+		<PlayerStat stat="EffectiveSpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="EffectiveSpellSuppressionChance" value="0"/>
+		<PlayerStat stat="FireResist" value="82"/>
+		<PlayerStat stat="FireResistOverCap" value="4"/>
+		<PlayerStat stat="ColdResist" value="81"/>
+		<PlayerStat stat="ColdResistOverCap" value="6"/>
+		<PlayerStat stat="LightningResist" value="81"/>
+		<PlayerStat stat="LightningResistOverCap" value="4"/>
+		<PlayerStat stat="ChaosResist" value="-25"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.1"/>
+		<PlayerStat stat="FullDPS" value="0"/>
+		<PlayerStat stat="FullDotDPS" value="0"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="4"/>
+		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyChargesMax" value="4"/>
+		<PlayerStat stat="EnduranceCharges" value="11"/>
+		<PlayerStat stat="EnduranceChargesMax" value="11"/>
+		<TimelessData devotionVariant2="1" searchListFallback="" searchList="" socketFilterDistance="0" devotionVariant1="1"/>
+	</Build>
+	<Import importLink="eNrtPWlz2ziWn1u_guWq2S9x28RFgtlktuQjtpM4cVvO1V9SIAlaTChSISk77qn57_sAHiJlUqKvrjl6dyptAe89AA_vxMUX__dzFhlXMs3CJH65hXbMLUPGXuKH8eXLrQ8Xr37lW__399GLM5FP3wd7izBSNX8f_fJC_21E8kpGL7ccumXkIr2U-ceKFPkKpOYizqcyiU_FtyQ9SvyXW--SWG4Zroj9MK9-eZHIsndiJl9unYpULHyZbhki82Ts7y-rXi8uL2Uai0UOGFOA83KZvlXtjxd5cpr4ABOIKAOCMxHGk8T7LvOjNFnMYVxbxlUorwugi_PDw0bXwrjZNRjaLy_OInEj00kuciODf15ujYFD4lIeiBn8C7REtABC2ME2YeYOtjk2CdraXYu8t0iz_H4UJnMp_RoJ7XDCaB_sWSoPg0B6eXgl99Mw35-K2Fu2yKwdzPtwu-DZjo1svA7jdBHl4TwK1axV49pxehs5vtWG4_TBXiS5iA7OJsvuEBtzxnds07QQ2YCX5DWe2Qf5KcynexGw9x6tnFzGYS6biIjZDnN2bG4y02JoXaO3kRkjJkd8h3KEsEnXIZ8lYZbED2DMPTq9v4gi0P0mZi9Xz2Um0yuRh-1O9sLvJzM3jFcmYRg79pMk8pPreHMj41SK90GhHOfCDxfZqcxTmdWYdMfuwz0VsdhPsqVAEbIO9EymYL3yFoa5AWEivQQMXhPFMneYxfGAlrrxe5t8GwayBcnWQd5pNCVCR2-cHWTbA9q541gOJ0Ph7kz4fh06Bws_DHKSLKKBkPnSuCLTIf2K96MFavVSPJA_azC-RpF_NAGtXqt-Ei9HgTBeQ68Fiez-_l0lyn5s5o22aYfHZ0vvYzsO3rEQdUybO70tnE1vstAT0an4Gc4WM_BLF-K7XDaIbAetEfPLaR6DPezDZth0em3pqzCVvYiU2f1GGIzdvVoEl5tkfZjURLTfyITxMYRrY89bQMx1s7SA1nptXvbLRHxNZOM9V9AnsdeQirXW5UOcavfSCInWNaFQzkF9VRTmRnIwzrKZ0gw0FNBc39iljMsWbxrSRPjOWoa9ldKbHgG7z0XeCI4Q2rEdAm6Ar_MDSxVlzlpmK-Ams9e6pQ5Wo_4wtY1xi2vODre5ZRKHqmBlHZEeDkIwgCyIcmxEMbfWEehmJYIu2JQQ0i_th7FML28m01BGzSE7Q-CrDu-L-RBUPRtN_EGz0m6wk018CG43h_rDZJH6wzzfMKjurveP-kpkTV_Q7zYKrhbgw8RcQvQPCL5cyUrM_gwr-abyq-huaON0lizSpj3AaO0oCoSWYex3DJUzKxLMc-kvvJb3dPp5W2WLexGkzCuj6e9ijQZ9jaIu3H5O5Lnwvh8k_uVg5ulG7oTR7t9kMZ-DYVJSMZSA8tGQx4SN8Kw_FF8CvweJbloAus6Vr9JHm4FX6VsbI5TBjaxgDB-Jii1WWvkVswHgq01sns1TsBgzcCt6SeQ0aa6K9EdbkLkOSkM1YDs57rcCyTX0faoWvbK7QUMUtpmnr1IZ_3EzmH4LfFADh7EP8RxowmobCA1FabZTY12EM7CoWXYgcmH4ZRD_UaShiHOsV-IyKVJv-ham_5WIIhdMwcutZqn6tYKIFKKi_2JXrzuqv05m8yTNDflT_edMpPlNtf6nAXUJ0MnyMNYLEWB3omjLmEyT67F_pYZxkSRRVi8aivlcxn6LxkUqpSEqK-KpTugxqh_GTGQ5OK9CMoHMPxxqo23I1yn_5_Y_MDMJ2sbExAh-Udu0t6lJTFv9gKBgm1BMsfpBoHAbWY6D_tla9DzxNbPiBIagFlgVbWZRZ9titkm2MTU52dZ01cLPNnWQzaHOcizdKjTHkQPQkALibQsag78h7AIcCq1BCYdOgA-ythlFCtxGNgMClKt_LW4CoGVCLUOOqUtUp8ED6b9VBxzb3GYmZ9AsNW17mzkUyFuWbVL1LyLbCHIZpEvsbWJh01RYiAIdCn9DfkbMbYIws7exhaDjUOJABx0TWicEcxvagmqgzzmG3kLIvq25p8bJ1TgtC0aFoZJZhDHNG7yNTOgKjBwpGOgI1uUAibCFt0uOU5NZGgY6ApkewJjUxtsOQ5rRNrDRYjAeYhLVG4uqbjs22YZCGL1DGFGkbApjshHwSSWd8K8J-NSmwFcKPIdxw8CJ7p4DEgAZKXSbc-BKMUmEAzXoAHCCAQG-zQjEuduIwLDhD6aYzlQfOTIVa5BqlivWwPyazjZgUvjH4RwqKQUkkDslhraaL8sBgcHEgYFhm6vZ5BzEkjgm9AnBZFPFIM1hqiopgFPdIwdmZLsQYmTbFtvGJlNzqbiJMTTJTUCDIQK_KQM4kCgTKUk21RSqscNQIHGBCQZZ24ZgBzEocaDnhGGuSiwYF4gUDB1jJdMQl9vaPqi1FpHejNvaEIegvjmoZGOPAbxMsX1QqIvSzl9efDh_q__4ZZrn8-z57u719fXOXOTTJJA_IWzb8ZLZ7hyQQK9_zb6HUfSrIrs7hv_buzzc88KLr_jTK3n48_W34-PP46Mo_uPqMLhOrs78X98vsvA8PP_u2Rfu16_v0m_25yj5aH_5kh79uJq_s_Y4_0RR8uXjm6MvB_OJnEazjwc_zq_scH_vK4u-fn4zCc7H6adpSk7z629vPr29OphNv4B8zt_84Sb29ZfF4ftr-noS_B4cSdf_cf3-7CT0Xx2_uvkBpvbLyR9h-M76Y_HhTb7_5d1nsi-DG4ReO9_ep-8nZGJNv50Flx_yt9H74-PvglyPj3hsX-V72e9H56eH0ZvDwEe_7338LM6zePH5bHbkjJOjaXQ0sb8D36aTP9D0J9o7Pvp2OaaHv8_TNz9-Xn19vXeW4_ybfzKV9KfjOW-_hf70a5Z8nHx641j2dTaeX-9fjl-Px7Pf9i_2Xo8PZ79NLsZvTsbzy_0fez797fXZr74H_Jx6J7-9MV8HPyb57_an42M9YbvVjL0odm2yYvrKX9oGqvnVJmfLCHM509NdJjq3AbXNagCyXkBl-hqAVh-gNpoNQLsPUJuwJWAVP3cMRlm8BiDubVqZwwag2U_RVupQ97HMPIG9Ta6-UDFXGoJXKalUvw0fNOpC5HmSGElg5FNpvAlzcSUMCO4T3zhIw_i72uMJPe1M03wXH6h_J0qDTqAwq5Qq243CQF5CdjmXabEvuDOPL7fqrioru1V61sKBnqi0pUn1w4kuynZP4iMxA-UEh53lqYguICKIds-KlpSHLvqc7Ra9hWpXlrV7R7rZYqC_mDvsb2pkRfphFJmSoRNh6YPrNdQiTMGT3YopJQNbPAN-gv_XwYhqXv3xLsmLOlVY_XihGZMZGcQnR3KW7d1AYPlKJd8rGx5lhKGgJzIvYqQmzsutPF1IFRQFYhGp8t8WIgpVwGM2S98Wm7Fxks7qVU0gBQGPSn8Kihc3cxVPjN--LWrGUV4SU81V0U8R5ZQdMsKGbdWFeoN1vOz1voi8TPc7jL1oAXMclzF3abVlrJbe_GogWZTAMPcS_8aosuIVinWDv7yAfpX4R1HiighXVMq9Z1Ax47IQ-VOZCx_izt0T0IFsV42okE74ax_kU3qpyKWvNrNV4KpDyxM9G6064Mln6KQW677aH9UMgD5WPxTwQTEbW60uo6rLK3zwkkVczHcMIl6EmI3WDNWcktg68K5VfyNTzPVMqeVBSbb8CVpaLhbUPClB2vU1Tzprlzwhj8uTVjOPzoKVtOZ9rJeEJvmikyHroFfZsw72yZhVN2oUrRpJbOh2Dd3wUPaxgdz7JMU8iQ8jnZVX609n0SLrYt74Wu07SH8FXG1pF1Y5u83EIThPpo1V40bdeuU3rqF9o-rAUKbSgUzV89Ve0tvE0g6Ufl52Aj89EwsxrNotOfnozFNrcWfQHgQLymBsYtwKeD_TbgE-PcNUk0azzTqiU318dI98LKOZzB_kjIca3Q9gmeL8fepDLtc1O-361Slp1z6ZKS2aMcp2dh83IKkD2v1iB6TmQLuiHnq7-Olkr2rGUO08lrMtx6x9Uxhfrg65VV6PuFX6ZAOuWnnU8dZyfhJ7qRQZRPqLymzcFvbTJJXL-lVhb9c-mbCrZoy6nac1NHtJkmdPaWeqoF9E0UUCOUbbxqgDox1Bbbv4yRjdamaowA2zKSdxHs5CqO3QsVt19bhv1TzZ0Jst3Unfhg1_IsNsFnqrI28WL5WrUfhk4y0beYKhnoNk33TMcqu8Hmyr9MlGW7XSGO5TGRDo3JW8nwXRTDkNY9C-lQ7czX8fS3CS_vvgDLxH3p6E1ap6HjorGn3R3fjRWNx5zOkpGlfrCR3Ng1n6GWaH0JicJJEfyrTqq94VHiy91iDe6RXFcexPROy3ONeuqPnWLn4qBhXrnNCEodv5l5XgylDQQbx-lSZZ7kZh_L3F6WZxzedm4ZMFXI1GHjm8fCvFfBKJWWugy8J6mMuipxIl1YKhm3haKSpWXwz0V872p-Rsr2BGZ8INo1WL365Y6lOr-Ok0qtnMI-vUnsjzSOqtmNVYY7Vqaa5XKp5s4MuG_gf0IPvf7CmS1rF7k2W30_STOFDX0aLVWLpR-oRxdNHKUwz3k0j3RBwXt7nq0TZK67E2yp5shqENo2zk38CSDrMie2CZZNp2x3XZUomqkqfTnrKFW4wt_5zIXO9yFvuY6k_NWg1xEs8Xuab1cmsWZt5XdxEE6n4ljCBP9e3Rw1evDvcvTj4elifDmih6lF_jxcxV0lP8tzrjBdMq9eFVI1u4WfHny62PobzWHTkAzoZRpoYURWKeyfrMlt6oLHseAd4aahrqOKzvY3bTWgL0UzrUmXx8CYLqpaHs7Vddv6FTRYPqXLQ6SddHTd1t7CdUbEvsiywvTnf3cErfKu2nou529g5HVa7BPZnNRdTbclm7gRO52qoGQQ2D0FOnENdPudrYLqDW8KW-w9I73-Xp4H4a-rJoH4Gish-5uLfZh13WruGqvjPay9With_9QHqid-xFZT9yfWEgiYFNfVRqqDWU3iWxFnJQmnEYqV213pk9jGQN0k_wfT6VaXkOs4_SKdioCmSt4qShu8j71bgBsYZX-vpTD4dUXT9qcZenZwyqbo0lat1d6WFoE6afVHHdo9eQrUMtDnb38q88Jr5mCsoDIT3sL2rXMKG6KdIz_rJ6jZJo-zu-SkK_uCfQoy4rYOsMRuJ9fzgZffnh4WRWb0M8nCIkH9n33vkua_vRP-Q6bemgUgQug4gopXoYBaVbD6NwAdFmvkjlvQmcr0YiS9zz9TFIfYS_E7mqXWc5qvNF96VQ3D-4N7q-HnFvbG3_IRqWautynQOoYdboR76Il5ttDyKlu9VtSJajuxOtwhV2jvTOFAsFL-8Br7MBBcgGQuDLj9dEi8Mo1Zd8jqWI1CMXSfQwgrfuOz-EmLqtuJiL2K_Ive-K0ZfzMJB7SZ4BTX2r5UBdinwoD2M5u-kg1N-vF7tVVqfvu6g8q7yMM8lTdRfnjySZfdErpOqv8pApKQ-WQsR9EMK8pVreqnYU4OfqutILnQKXp1zV3_Uh134Ci0wWTy4UabnGaBxNVVSax1LPhdrQeG58eHfy24fD0cVUGicpcOZVkqoXPrLRfrrIhC9T4yyCjGhUhBHPDWRRXP7YE1n1AEUYSagafYjDHwsgdPDcwJ5nmSb3hS18RuC_3GSeh13HFgJjJDizBYX_CU-YDvzPQYHtWgEl1KIB8Z2R7rBm3XPD5qPyyC0QNkfl4eznxvmv9f-PNOi5_PHcYIA8m0ehFyoYc_QM_c0okhQjTwwdXKycaJ7DMJlpwOzJ-DKfjlahdQhQAYeZ8SGOFt73m9EzhyugGs_hf1MrKMXxhfKg7giZfzNSdbtUHecq7-IZOpMcVYjVUlzZwl4SLzIglOVS-MYl-Jk8M0iTtD4WNlo5FqaHgRrDUEsUp4l_LmKoTNW_IGA7bKuUg3IRoxcCb4QgGyHoRgi2EaK6r6kXhtrCjDuF-dCbJjJT23b7wC-l5aPz5Ab4tLdIL5NY5ktpNtkgaeaScRP7JkfCcQnH2JXIYphanqmEGX5DneNy4VELSwf5AXMRdcE4S8thljeaTIWaHdXxlmRze61kN6TaYm2pLkBBFvQyyY1RHp2fiitpPENG9ciP8SGTIIK4QzCfWZaS3llh8ouz_J-mMjZukkWpINtGDlbPQMU1AAWhTv2vyl2QpCMpvGnVlWqBR9-IKAiNyu754Kc0uZk-O1PjG334s38rKe6SUdIpowcgmEu9T4CDtcHVR31qEWWm2SuhRW5qFMmpkuaqqChZK9JM2p6PTZDWwOWIeB6TAjumiZAV-C4LfMcTgbB8LomLXTDeUgaMmTalOLBMP2gbaDZYjOmKcSZOy4Ri07wtqnqHuTVYMOogRIAowDAvTxoXubIy3tkIs5bFbFte0BBALqMdY_UAeDZirV4sGygDyvrUlzoqDuoy0stYSmQ9EcdJbrjgJ-IAhqk0tIT5zzLHayDsfmWgncrwOZnXuqCPFIzGannbGM8WEVjrhtRS6UuJueX41CfYJtLxgsD2XZd7gtg-wjzwoIhwx7KlR0yLm5ZwHJBg7Ng-523jy5pRQ1Mu8egfXioCmLx_jiMIASACysCkLuJcptdSHe8AwSUtwUUtE7ssbglSy9Y-w44WYX1keSm5o9IqVoeYoWVFZBVqXy14K6WYhVIFC8Y4mxrXynyD1bwxIOTWQje-ErlIlfVWBP57ZJD3yyBry-D5-BxChtn8BuYoNvbD1IvkSMfC56DQTeEjrg0m0Ac7SANsUW5KxD3MqGtRhgPw-m7gY9_mnAobwgLTR9wlgecK37OF57ot4bN4r3NHG81T6bprKRv7PkiJKkLMqB-lqPwrFJfXLoCwiW85fbX6bCBU-Pd5KVU3xhvw2GAqsd1tCm_f6ihjkKXugJGubPRyFfgvO6iRb8vgmZqGjyHEa2ep9BZpBmHRkQCbAzawEQ8QZ0jE6tiQSTGP-ISYjg8BKnKZjWzbJCZivkcoIRYYU-RR36PcweDwXUq9wHIl9phtD86_9lruHSBbZvQZ1RJQbSMZ58VBViVkxQJYKdKjduZUipN21YVsa-HGZmEGO-Ta0QpRRbYI0qBVKX9GaKe5fUaLcvVgTLuc6PKlOjUq_9tk-H6W1u709m9EBPFcKiqPf5EsvOlo1dhSD-JMwQT1XYcEXKVbpo8Z9x1BHM92YIotmyFJMVhbDoXCkcgXCGOfWAGibU9vtqPOcxmo7e5MuUhwjmqpsLD2Q-a1a6S8Q5-PwXcbZ0mWjw6vQEcLBTLOIbppDpP4tuli6vkWU7opEIUg27dJAAyQHgTiAbYll5IghKgvfMuRrmsLwiSAgSS2hkn79HSvY53Exj0hD0JNZVzJ9lZ8k16HrvySjtPXeC3U9lo2WdeO1nusMSi5Vatipx6DoTKDasGl8GRqidq4mKYymyY6dyjc54pVajAA43U9-0v5V5V_DYTTrzROh9IcLLLvagFMLY7dXIai9IjNtZjAlMxmEnTGNZ3A9CxhQYxvIyJpYNmO6_kmsoTnB45rKW0R0iWMm74pXSwwa2uMtdSS8ZqA7Fio-Ko812YUKKNnjLXk-VnhpWa1ArQTVmzf9kmYd_seFXT1-Z5aTNs6MCQy-yv0Um-RtsXudHx0sj86_ClmIUxY5ZSOgGII9lvvQeobANWd0rabMh1qQa7JZeAibHkOhFUEQi7MGRO-71DsU85talku8x3HsRBDDpdmgGwLOxBp9dpv0sxNcdt94Va0VK1FjGhrxUOdN9JWC-Qz_C6rJfDy6l6xc_RI093JZtTF5v0ojGEYIq6XvkIxA21f8lmvGaYz4YPAJq0dBWTSgHgm4sLDoN5IetglPnh7k2FughM1sc0oxAaUY2RJ6VEqHdPDti2ppH4vp62m3tttThPcyWmra5HqT-Ms7hZgCKpDZQGWQjyeyRx8V97m7rGE5LbJWZd40kGEuQ6VFuQJlspXTYwwt4gvIeZipkA2FsBxB3NKMCfScbjvup6NLI56OcvWcdbu5ixpOG_NSdXtyVRtwxTraH8en8kQQzFZRPMpzH6Lxa-Sn62FAwthIWzHZ4FnQVYWEAtiVoKZbxHhYmA7CYRPfQnuK_B817cC17Ec3wQj4frCbC8cNNZanQaDKWq7LL33oZetls-jqI97xHpBUm0L4O4pYKhrCvan6uBw5xSwxg4XZHXyD7m6Pvokc_ZUC_aIds57den5MC8OkqvzL8tZn0gRrbgGi5jUhOQ68DzhuBCzeCbhNg98DoGKp94KdAMRmBRyb-kxRF3LBasF0kAtgS3baqfgzY0ivGZfyLKWkzGeqSVLo3w1GELjcjrDzFCL1KmcQblfrBoun6EuRgYwr4oFoBLJV3tqCu23hVzI0VGxLXkymy1ildfozdJyEVxt6PDyVbrMCAO1Oa2aCSNZA3UR2E_SdDFXglpcLFtHR-hewU_3ZhXv6cMcukZ6WF9UexSFs5lMR2_1GzP70UK9hmm8ltcyam3MIJNQbhPwblQQLiAJtpnpECws33TVQ5AW4hxsbyADW_imFwgLHKKtLDWBX6ti0xCVVhZMGmvcKtXiRvkG2K1lPGwAgH5cqVlviFQWvS_j4axFUC2Cz9TK3wqW3s5-DkEJTGC1fFNuC7Z9bSOIVQdldG5ZHW0dbW7gVECwA_Iz8eQcAvQnaUpEWVK19wxv2I9CXVzUarYAFmqvoTcWeuFORZqHQPQshZw7W0NQHbOJktT_K9wvXii8rY97kWK1cQDTk0rwlOEsA0d1SxWl67mYc0ZsEnAzEIK6iPoesSwfvLJDTOEQxpi0JLc9x3UhzKQuZpB1WiKAPKCtiqs7n8UaZZU9aqE7gegtgr6pkz0jRJtC2lj4rDc_V0P85XelCmG-uE4M9SWK-iGh4mxQVhMoSvvJ_AtJUOfc2h1zeypklOVpMjP2F_noFJwNZNu91hbmlbiu4C71HA9cr1qP8wLEHAmOGTwVcoRJHfjD8YhEtst95GKL2-CzXXZrNYEMtra019r2qrVoWdu7GFt9oKJeJittIDZv28DBxk7vfY7b-zqDDWV737TX3CUuyKcyozC3_WBgDa_0Bu0i_cveFW-8di26v0pSNwQOxipkna2zechmLgo4pCWQnViUM89lkiNmYY85iHGf2w6iDCHIDREKTAKZuMlMiHRtZAfe6g476MICTBfkIerRYaP6XGHbFi432SeQNMhtyKrqFYLzRKQq9lNphD7dpFzlTOTeVIWas8QPA2XwirOL9RhlNh3VYeG9l_WR08nMt5BWa0cc-nJUPd9-m5WmayPTRGbAIVQj2OMugwiOI27qDM9zuS0Ro6ZNpNqX8xi3gI_CtTgRiOFgNa8uPsH23NABZJuB-8lsVhj6SKpDRNk0nBv6hACyHJsb1yJNwyTNDEj_1MGK78mNGJW6pE8PpJq2jukgYYQRpEVorR-1FekiHB1DJJOkofenaVnngT-zy5vLKWQy4O8mc5F-32jyhSc8BCkYtonpezbyPD9AytFTMPwetimFKUC2R2zbCjDkb5CqW446ZoKxdJHXH2Az-p9u8g_kT-CpMshD0fQSeTuu6RvtW3XcdU-d_xPAxTWAn0SqF8XVY1V_Gf3i0exNRr8wiK6I8o6UU3CfccooxhbGDvzAKuZR4i8tYUMkREEFAowC6grqY2JzL3DAnAXCJ6bl_IvYfO3XHmzzMe4wMeq7g8YkAilM-10n8ji1fNvmDlVL_Ix4LuLqnCUROBDIcT3LwdgTFmdgTBgHNgYuh7BSnR_yRDtdoPiu6QK6dUJ8mS9Yg_IFnWP8yVtFnVNAOqZgHHuhOnr5MVS38EbHN_M4gdEYhzfy9lRYnqASSemYtu27FHEBUbtwHWZ7nikE821umo4b-IgSh0jLlwRmz3WlFJZrubht45thPeV3nJdnqFgZKF4bWJdsPcO3D2Trz35JtXprIN7eUtSnaIrFsX_dPE29ht5_NaX9UHqU5Pot_jP3w_lbdY-mePmgevepeqa_tpR9CMuHKSoUvglFn7le2d81Gp8GMGsCuurEB-zVDxMUlAqH3fhWQdXSph5IsMwrHcBdHbiFX1wTqu4BFdSKdenGZxWQOZRrxuRazFd7Qgf1ZIXQEHaup4EfgUb3gKxHGJD1CAO6F42uAaGBwlp-wKMprI1vegwV1i51IY_AUvxY7LiLwBaPOA9i6B2U13pwD_CdKTQ-enK_Jslj8Z89gjCgR9Av9Aj9oHeUhCW48yAbdZf579RI-ggMxAPtSvkZn6ZdaXzZZ6Nd6XdizQ_04LWWrfiGUcuyLT9rNNCyrZ0Q8tAJwQ-0KXfrQP2xmIcoRRF9PYRCt6VhD6ZgDZTM8ktUTblofJzqMeQCPZbVfGjA1-gIovfjKn2wbLDHEdK76EpxUWyJQO9r6skjWEwyNG0oPs7WShuW32t7QNpAH2hlGlKEyQNm8N7BxAO1oDF-RO5DoCF6CA3t-QOZzh7qW9DjqB19LFv2aJkNuW_Odwc8dfmjOYXsfqZvaLBUfqGw5ZKWHy1cVf3OJQf95cL2kkP9McPBWVyvFFiPlWc_RtJP7yfZDSUeNP0NBbLvN_2PFJ6xB7vghztx667maAlP7mW-bjdYrCQWT6qql3aELyf6lZ1P-gZ2VjzFo5_K0S-tJnEQXpZWvfhRPpuj8esSIw_zSDYeg22uQTZfXJXq7tBJtpdk2fKJ1rMwjoVXPcXZRlBLnKE69apvHVUHHbcMN0kiKeLS03QgLjJ5--PiG7Hq5tSS8rlU90Cjm7vg6W7qc73qfc6NeAdhph7IPTw-UxeG38flM30b8VwYl6_3IafSv0h0q3fuZvFUZ183zyLhSXW3S6bNySvea60fy7VNcwMCMD_JygcXazSyCau-pVO9jVthYkzRphbT-gXVGo1twFHbNKudZBuHBiX36J9q6x5oer9kicFpP_ys3gBRHyhU5w4m-i1edXR5IqOg8dgxGzDGOzOmnr0z9d5ZPelDse4-EUrGVlnKHWsDWv1MZ80NE1EygCF3GlbRr_MkivQmT1N3-jEnXqLfPiu-LLnyNHUXQhZehtH7QN8dBTRt7gag6R5Wvr2Ct5DDnQ04q99tvKN-rqJtNAjldw8HsV1fbenh3Yvd2msVz87pX38fvdhV37l9H-g38EAG_z76f4i7NVU=" exportParty="false"/>
+	<Party destination="All" ShowAdvanceTools="false" append="false"/>
+	<Tree activeSpec="1">
+		<Spec masteryEffects="{9471,56848},{25031,23021},{4707,40307},{4139,34242},{43307,16991}" ascendClassId="1" nodes="9471,55649,53793,24083,4707,7285,49178,32115,23027,48199,32690,31471,14993,66707,6289,37326,54127,47175,66713,66704,65485,55190,24970,34171,65683,65689,50858,64077,59423,65680,44169,15451,65696,57011,24914,57992,14930,31257,26196,65703,49080,33287,24716,34130,37501,4139,65698,23066,35288,44606,65702,10594,61262,17765,65706,61190,43307,14056,16093,11792,61198,9511,65125,26523,30380,3644,34973,5233,29353,64882,18025,62429,6712,47426,20551,33623,60472,40907,23881,63027,43833,11730,63723,53118,34400,11859,4833,49153,48287,26725,48109,26712,17988,49445,23972,56789,36949,39023,10311,58831,27806,16544,1734,6446,58449,18103,34590,1325,44297,59928,56355,224,61602,44202,45503,62017,63282,44429,55676,31628,25031,53987,19261,36200,56359,22703,43374" secondaryAscendClassId="nil" treeVersion="3_25" classId="1">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgEBciT_2WHSIV4TEmMcdcAafXNZ87xHf7J67zqRGJGRztNv_83XlmGKhXvGqvpN6B-siTxb3rNhUuKIOlJ6GWZUv7iCB2CMhVKSfRArWhqJ2K4-KWLvTu8GqSs26D7dLhDvDiUn_mVnm3asDjyInRRxcqn9ckZp890aOLlCUEeDV-w4n8tdSfYzqzkt0vjrz36GYC5TEuHAAbyfaGW77WhYRkTBJV2k3dWQVZhvKEflz2yeQKAGxhku5FFGt4ceBS2tCeoY3CMA4PCirKqxv_JB9zKtjdl8e4xhx9LjSz2NaNwnWK-pbgsEkwSZBJAAkwCZAJAAoACnAKIApgCqBd4QJP-dcxJjhcIQK0JfqStZ7WHH
+			</URL>
+			<Sockets>
+				<Socket nodeId="24970" itemId="18"/>
+				<Socket nodeId="55190" itemId="15"/>
+				<Socket nodeId="54127" itemId="16"/>
+				<Socket nodeId="44169" itemId="17"/>
+				<Socket nodeId="14993" itemId="21"/>
+				<Socket nodeId="26196" itemId="22"/>
+				<Socket nodeId="49080" itemId="20"/>
+				<Socket nodeId="26725" itemId="19"/>
+			</Sockets>
+			<Overrides>
+				<Override dn="Tattoo of the Kitava Blood Drinker" icon="Art/2DArt/SkillIcons/passives/lifegainpertarget.png" nodeId="9511" activeEffectImage="Art/2DArt/UIImages/InGame/AncestralTrial/PassiveTreeTattoos/KitavaTribePassiveBG.png">
+					0.5% of Attack Damage Leeched as Life
+				</Override>
+			</Overrides>
+		</Spec>
+	</Tree>
+	<Notes>
+		
+	</Notes>
+	<Skills sortGemsByDPSField="CombinedDPS" activeSkillSet="1" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="normalMaximum" showSupportGemTypes="ALL" showAltQualityGems="false">
+		<SkillSet id="1">
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Body Armour" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="21" gemId="Metadata/Items/Gems/SkillGemConsecratedPath" variantId="ConsecratedPathAltX" skillId="ConsecratedPathAltX" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Consecrated Path of Endurance"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemOverexertion" variantId="SupportOverexertion" skillId="SupportOverexertion" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Overexertion"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemEnduranceChargeOnMeleeStun" variantId="SupportEnduranceChargeOnMeleeStun" skillId="SupportEnduranceChargeOnMeleeStun" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Endurance Charge on Melee Stun"/>
+				<Gem enableGlobal2="true" level="5" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus" variantId="SupportAwakenedElementalDamageWithAttacks" skillId="SupportAwakenedElementalDamageWithAttacks" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Elemental Damage with Attacks"/>
+				<Gem enableGlobal2="true" level="4" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamagePlus" variantId="SupportAwakenedMeleePhysicalDamage" skillId="SupportAwakenedMeleePhysicalDamage" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Melee Physical Damage"/>
+				<Gem enableGlobal2="true" level="4" gemId="Metadata/Items/Gems/SupportGemFirePenetrationPlus" variantId="SupportAwakenedFirePenetration" skillId="SupportAwakenedFirePenetration" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Fire Penetration"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Helmet" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemUrgentOrders" variantId="SupportUrgentOrders" skillId="SupportUrgentOrders" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Urgent Orders"/>
+				<Gem enableGlobal2="true" level="21" gemId="Metadata/Items/Gems/SkillGemAncestralCry" variantId="AncestralCry" skillId="AncestralCry" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Ancestral Cry"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemEnduringCry" variantId="EnduringCry" skillId="EnduringCry" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Enduring Cry"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" variantId="SupportMoreDuration" skillId="SupportMoreDuration" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="More Duration"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Boots" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemCallToArms" variantId="Autoexertion" skillId="Autoexertion" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Autoexertion"/>
+				<Gem enableGlobal2="true" level="1" gemId="Metadata/Items/Gems/SkillGemIntimidatingCry" variantId="IntimidatingCry" skillId="IntimidatingCry" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Intimidating Cry"/>
+				<Gem enableGlobal2="true" level="1" gemId="Metadata/Items/Gems/SkillGemSeismicCry" variantId="SeismicCry" skillId="SeismicCry" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Seismic Cry"/>
+				<Gem enableGlobal2="true" level="1" gemId="Metadata/Items/Gems/SkillGemRallyingCry" variantId="RallyingCry" skillId="RallyingCry" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Rallying Cry"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="true" skillMinionSkillCalcs="1" level="21" gemId="Metadata/Items/Gems/SkillGemHeraldOfPurity" variantId="HeraldOfPurity" skillId="HeraldOfPurity" skillMinionSkill="1" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Herald of Purity" skillMinion="AxisEliteSoldierHeraldOfLight"/>
+				<Gem enableGlobal2="true" level="6" gemId="Metadata/Items/Gems/SkillGemBloodAndSand" variantId="BloodAndSand" skillId="BloodAndSand" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Blood and Sand"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="14" gemId="Metadata/Items/Gems/SkillGemFrostblink" variantId="Frostblink" skillId="Frostblink" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Frostblink"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemLeapSlam" variantId="LeapSlam" skillId="LeapSlam" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Leap Slam"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Weapon 1" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemUrgentOrders" variantId="SupportUrgentOrders" skillId="SupportUrgentOrders" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Urgent Orders"/>
+				<Gem enableGlobal2="true" level="21" gemId="Metadata/Items/Gems/SkillGemFlammability" variantId="Flammability" skillId="Flammability" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Flammability"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemBattlemagesCry" variantId="BattlemagesCry" skillId="BattlemagesCry" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Battlemage&apos;s Cry"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemAbyssalCry" variantId="InfernalCry" skillId="InfernalCry" quality="23" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Infernal Cry"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemWarBanner" variantId="WarBanner" skillId="WarBanner" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="War Banner"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" enabled="true" slot="Weapon 1" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="21" gemId="Metadata/Items/Gems/SkillGemBerserk" variantId="Berserk" skillId="Berserk" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Berserk"/>
+			</Skill>
+		</SkillSet>
+	</Skills>
+	<Calcs>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Input name="skill_number" number="1"/>
+		<Section subsection="ViewSkillDetails" collapsed="false" id="SkillSelect"/>
+		<Section subsection="SkillHitDamage" collapsed="false" id="HitDamage"/>
+		<Section subsection="ExertingWarcries" collapsed="false" id="Warcries"/>
+		<Section subsection="SkillDamageoverTime" collapsed="false" id="Dot"/>
+		<Section subsection="AttackCastRate" collapsed="false" id="Speed"/>
+		<Section subsection="Crits" collapsed="false" id="Crit"/>
+		<Section subsection="Impale" collapsed="false" id="Impale"/>
+		<Section subsection="SkilltypespecificStats" collapsed="false" id="SkillTypeStats"/>
+		<Section subsection="Accuracy" collapsed="false" id="HitChance"/>
+		<Section subsection="Bleed" collapsed="false" id="Bleed"/>
+		<Section subsection="Poison" collapsed="false" id="Poison"/>
+		<Section subsection="Ignite" collapsed="false" id="Ignite"/>
+		<Section subsection="Decay" collapsed="false" id="Decay"/>
+		<Section subsection="LeechGainonHit" collapsed="false" id="LeechGain"/>
+		<Section subsection="NonDamagingAilments" collapsed="false" id="EleAilments"/>
+		<Section subsection="OtherEffects" collapsed="false" id="MiscEffects"/>
+		<Section subsection="Attributes" collapsed="false" id="Attributes"/>
+		<Section subsection="Life" collapsed="false" id="Life"/>
+		<Section subsection="Mana" collapsed="false" id="Mana"/>
+		<Section subsection="EnergyShield" collapsed="false" id="EnergyShield"/>
+		<Section subsection="Ward" collapsed="false" id="Ward"/>
+		<Section subsection="Resists" collapsed="false" id="Resist"/>
+		<Section subsection="Armour" collapsed="false" id="Armour"/>
+		<Section subsection="Evasion" collapsed="false" id="Evasion"/>
+		<Section subsection="DamageAvoidance" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Block" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Dodge" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="SpellSuppression" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Flasks" collapsed="false" id="Flasks"/>
+		<Section subsection="UtilityFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="LifeFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="ManaFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="Tinctures" collapsed="true" id="Flasks"/>
+		<Section subsection="Rage" collapsed="true" id="Rage"/>
+		<Section subsection="Charges" collapsed="true" id="Charges"/>
+		<Section subsection="Endurance" collapsed="true" id="Charges"/>
+		<Section subsection="Frenzy" collapsed="true" id="Charges"/>
+		<Section subsection="Power" collapsed="true" id="Charges"/>
+		<Section subsection="OtherDefences" collapsed="false" id="MiscDefences"/>
+		<Section subsection="StunDuration" collapsed="false" id="MiscDefences"/>
+		<Section subsection="OtherAvoidance" collapsed="true" id="MiscDefences"/>
+		<Section subsection="OtherAilmentDefences" collapsed="true" id="MiscDefences"/>
+		<Section subsection="DamageTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DamagingHits" collapsed="false" id="DamageTaken"/>
+		<Section subsection="EffectiveHealthPool" collapsed="false" id="DamageTaken"/>
+		<Section subsection="MaximumHitTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="RecoupandHitTakenOverTime" collapsed="true" id="DamageTaken"/>
+		<Section subsection="DotsandBuildDegens" collapsed="false" id="DamageTaken"/>
+		<Section subsection="EnemyDegens" collapsed="true" id="DamageTaken"/>
+	</Calcs>
+	<TreeView searchStr="" zoomY="-514.88666666667" zoomLevel="4" showStatDifferences="true" zoomX="303.07333333333"/>
+	<Items activeItemSet="1" showStatDifferences="true" useSecondWeaponSet="false">
+		<Item id="1">
+			Rarity: UNIQUE
+The Iron Fortress
+Crusader Plate
+Armour: 1642
+ArmourBasePercentile: 1
+Unique ID: 2cc6008da7ad538da805cc2b97aa221a857a47a4aca09a0991f7b6f43464f3d9
+Item Level: 78
+Quality: 20
+Sockets: R-R-R-R-R-R
+LevelReq: 59
+Implicits: 0
++1% Chance to Block Attack Damage per 50 Strength
+Chance to Block Spell Damage is Unlucky
++98 to Strength
+98% increased Armour
+10% reduced Movement Speed
+Strength&apos;s Damage Bonus instead grants 3% increased Melee
+Physical Damage per 10 Strength
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="2">
+			Rarity: UNIQUE
+Echoes of Creation
+Royal Burgonet
+Armour: 1052
+ArmourBasePercentile: 1
+Unique ID: 8e5802d081a9b3822be165246c0221a22bd089b8ac462e91df5b14bfece6956c
+Shaper Item
+Item Level: 87
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 65
+Implicits: 0
+Socketed Warcry Skills have +1 Cooldown Use
+102% increased Armour
++66 to maximum Life
+When you Attack, take 15% of Life as Physical Damage for
+each Warcry Exerting the Attack
+Skills deal 15% more Damage for each Warcry Exerting them
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="3">
+			Rarity: UNIQUE
+Death&apos;s Door
+Crusader Boots
+Armour: 500
+ArmourBasePercentile: 1
+Energy Shield: 101
+EnergyShieldBasePercentile: 1
+Unique ID: 5e7cd202e9fb813cc5ea2900116fdb5fd9cafa6d8e3b2b05ceef5507442f60df
+Item Level: 75
+Quality: 20
+Sockets: R-R-R-R
+LevelReq: 64
+Implicits: 0
++39 to Strength
+200% increased Armour and Energy Shield
++15% to all Elemental Resistances
+25% increased Movement Speed
++1 to Maximum Endurance Charges
+50% increased Elemental Ailment Duration on you
+Bleeding cannot be inflicted on you
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="4">
+			Rarity: UNIQUE
+Xoph&apos;s Blood
+Amber Amulet
+Unique ID: 4edee2869d4d3273e9cff7dbb8ca37d128fc9cf38967ec306806a99b2b297d88
+Item Level: 85
+LevelReq: 5
+Implicits: 2
+{crafted}Allocates Counterweight
++33 to Strength
+12% increased Strength
+10% increased maximum Life
++29% to Fire Resistance
+Damage Penetrates 10% Fire Resistance
+Cover Enemies in Ash when they Hit you
+Avatar of Fire
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="5">
+			Rarity: RARE
+Empyrean Circle
+Iron Ring
+Unique ID: 3b7f55def54f26480e18c254b6452f91dbfd2d7884a72210d18b3fcbadc7acbb
+Item Level: 68
+LevelReq: 65
+Implicits: 1
++1 to Maximum Endurance Charges
++66 to Strength
+Adds 1 to 15 Lightning Damage to Attacks
++102 to maximum Life
+Gain 11 Life per Enemy Killed
+27% increased Elemental Damage with Attack Skills
+{crafted}+15 to all Attributes
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="6">
+			Rarity: RARE
+Pain Vise
+Precursor Gauntlets
+Armour: 539
+ArmourBasePercentile: 1
+Unique ID: 973465c3d3309d22b1b5717703015dc343364ed1c4dc48925fdb44cf6be2c577
+Item Level: 78
+Quality: 20
+Sockets: R-R-B-R
+LevelReq: 78
+Implicits: 2
++45 to Accuracy Rating per Frenzy Charge
+8% increased Attack Speed
+Adds 11 to 20 Fire Damage to Attacks
++96 to Armour
++110 to maximum Life
++34% to Fire Resistance
++44% to Cold Resistance
++43% to Lightning Resistance
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="7">
+			Rarity: UNIQUE
+Kalandra&apos;s Touch
+Ring
+Unique ID: 4c2f6a5a4db93f816520d258d9a39c791106751e424a789a3a9e1da122d36f14
+Item Level: 80
+Implicits: 0
+Reflects your other Ring
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="8">
+			Rarity: RARE
+Hate Post
+Eventuality Rod
+Unique ID: 43d70b24cd650301a14507d73f4c2ecb5ff27e8ee31114dad69ebb7a35e07dce
+Item Level: 84
+Quality: 20
+Sockets: R-B-R-R-R-R
+LevelReq: 72
+Implicits: 2
+{crafted}11% increased Physical Damage
++1 to Maximum Power Charges and Maximum Endurance Charges
++16 to Strength
+73% increased Physical Damage
+Adds 26 to 43 Physical Damage
+29% increased Attack Speed
+15% reduced Enemy Stun Threshold
++166 to Accuracy Rating
+{crafted}122% increased Physical Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="9">
+			Rarity: RARE
+Dusk Bond
+Stygian Vise
+Unique ID: 8f0e575e24cb09f0c6a66a9713e4f679bcd016acdf9b669ebaeb3580d0eb2a25
+Item Level: 86
+Sockets: A
+LevelReq: 65
+Implicits: 1
+Has 1 Abyssal Socket
++55 to Strength
++11 to maximum Energy Shield
++127 to maximum Life
++28% to Cold Resistance
++27% to Lightning Resistance
+{crafted}29% increased Elemental Damage with Attack Skills
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="10">
+			Rarity: MAGIC
+Examiner&apos;s Granite Flask of Penetrating
+Unique ID: 09469678efb126c933633302855add942d4887466b5d999615198e0f176292c5
+Item Level: 84
+Quality: 3
+LevelReq: 52
+Implicits: 0
+28% increased Duration
+45% increased Critical Strike Chance during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="11">
+			Rarity: MAGIC
+Clinician&apos;s Diamond Flask of the Armadillo
+Unique ID: 2104f3c018ac2acd1ec2b3dd36052800b2027549c748216eec44e90c277e4e4d
+Item Level: 84
+Quality: 6
+LevelReq: 67
+Implicits: 0
+32% increased Duration
+60% increased Armour during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="12">
+			Rarity: MAGIC
+Experimenter&apos;s Amethyst Flask of the Heron
+Unique ID: b3ce9135b94e61b56dc7a0212863de25850a172a1ec92843283e998dbbc71681
+Item Level: 84
+Quality: 5
+LevelReq: 67
+Implicits: 0
+37% increased Duration
+63% reduced Effect of Shock on you during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="13">
+			Rarity: MAGIC
+Examiner&apos;s Sulphur Flask of the Fox
+Unique ID: 3612aa79d5fc665cf36a78325d63ab294e3fad4de679fcdbd6fb969d0762bda0
+Item Level: 65
+Quality: 9
+LevelReq: 41
+Implicits: 1
+Creates Consecrated Ground on Use
+27% increased Duration
+51% reduced Effect of Chill on you during Effect
+50% reduced Freeze Duration on you during Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="14">
+			Rarity: MAGIC
+Enduring Eternal Mana Flask of Sealing
+Unique ID: 63040c48fcca9be57c03878fd8e4fc4460bfaf0425fec514b6b6ee29446a2676
+Item Level: 77
+Quality: 22
+LevelReq: 65
+Implicits: 0
+66% reduced Amount Recovered
+Effect is not removed when Unreserved Mana is Filled
+Effect does not Queue
+Grants Immunity to Bleeding for 8 seconds if used while Bleeding
+Grants Immunity to Corrupted Blood for 8 seconds if used while affected by Corrupted Blood
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="15">
+			Rarity: RARE
+Dusk Glimmer
+Large Cluster Jewel
+Unique ID: 51034873c2b4a38a6a5750932a6d0b34406188bbcfef7ad0cfa6c2a7de2530cf
+Item Level: 77
+LevelReq: 60
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: Staff Attacks deal 12% increased Damage with Hits and Ailments
+Added Small Passive Skills grant: Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments
+Added Small Passive Skills also grant: +2% to all Elemental Resistances
+1 Added Passive Skill is Fuel the Fight
+1 Added Passive Skill is Martial Prowess
+1 Added Passive Skill is Overlord
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="16">
+			Rarity: RARE
+Blight Desire
+Crimson Jewel
+Unique ID: ebcb2885373f80faa4b14dc366dda0930a93555e6e87c9bb4e44b256696af633
+Item Level: 74
+Implicits: 0
++10 to Strength and Intelligence
+14% increased Fire Damage
++15% to Critical Strike Multiplier with Two Handed Melee Weapons
++15% to Melee Critical Strike Multiplier
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="17">
+			Rarity: RARE
+Maelstrom Cut
+Medium Cluster Jewel
+Unique ID: f803bba8b4c9c94443d7cf159e042eed19a049eed9c3e17b8d1b26875feb5a25
+Item Level: 83
+LevelReq: 60
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: Exerted Attacks deal 20% increased Damage
+Added Small Passive Skills also grant: +3 to All Attributes
+Added Small Passive Skills also grant: +2 to Strength
+1 Added Passive Skill is Mob Mentality
+1 Added Passive Skill is Provocateur
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="18">
+			Rarity: UNIQUE
+Forbidden Flame
+Crimson Jewel
+Unique ID: e175b1f8b29d636485cb5e81562c59158d879145113de11f03d1e0500c4717fc
+Item Level: 85
+Requires Class Marauder
+Implicits: 0
+Allocates Sione, Sun&apos;s Roar if you have the matching modifier on Forbidden Flesh
+Corrupted
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="19">
+			Rarity: UNIQUE
+Lethal Pride
+Timeless Jewel
+Unique ID: 0b710010f8fef32c8b5d0b8180bd6fbcb87e154073e7030c586500ab683a152f
+Item Level: 84
+Radius: Large
+Implicits: 0
+Commanded leadership over 16978 warriors under Akoya
+Passives in radius are Conquered by the Karui
+Historic
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="20">
+			Rarity: RARE
+Behemoth Spark
+Medium Cluster Jewel
+Unique ID: acac1e4f2730dc71ccdf1cb284cf1c2744ab617c3776f248f78369ff7d22eb1c
+Item Level: 77
+LevelReq: 54
+Implicits: 3
+{crafted}Adds 4 Passive Skills
+{crafted}1 Added Passive Skill is a Jewel Socket
+{crafted}Added Small Passive Skills grant: Exerted Attacks deal 20% increased Damage
+Added Small Passive Skills also grant: +3 to Dexterity
+Added Small Passive Skills also grant: +5 to Intelligence
+1 Added Passive Skill is Lead By Example
+1 Added Passive Skill is Warning Call
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="21">
+			Rarity: UNIQUE
+Forbidden Flesh
+Cobalt Jewel
+Unique ID: 5a8d584542262298d5249ee76f2e6a70424836f21f4ba4d2378cf98b5fad3069
+Item Level: 85
+Requires Class Marauder
+Implicits: 0
+Allocates Sione, Sun&apos;s Roar if you have the matching modifier on Forbidden Flame
+Corrupted
+			<ModRange range="0.5" id="1"/>
+		</Item>
+		<Item id="22">
+			Rarity: RARE
+Soul Sliver
+Crimson Jewel
+Unique ID: 1c846d778948e0f53cb185e7c3a2fa19bc6922ca685f7d58378fb83e16452ca3
+Item Level: 42
+Implicits: 0
++10 to Strength and Intelligence
+11% increased Melee Damage
++16% to Critical Strike Multiplier with Fire Skills
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item id="23">
+			Rarity: RARE
+Ancient Vision
+Hypnotic Eye Jewel
+Unique ID: 6ca4e1ee9077db418ab26ab957cc0aa5d78009bfd14393e6de31c8bbeea6b6b2
+Item Level: 73
+LevelReq: 48
+Implicits: 0
++10 to Strength and Intelligence
++12% to Global Critical Strike Multiplier
++26 to maximum Life
+Regenerate 18 Energy Shield per second
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<ItemSet useSecondWeaponSet="false" id="1">
+			<Slot itemPbURL="" name="Gloves" itemId="6"/>
+			<Slot itemPbURL="" name="Weapon 1" itemId="8"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 5" itemId="0"/>
+			<SocketIdURL nodeId="26196" name="Jewel 26196" itemPbURL=""/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 3" itemId="10"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 1" itemId="0"/>
+			<SocketIdURL nodeId="54127" name="Jewel 54127" itemPbURL=""/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet" itemId="2"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Belt" itemId="9"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<SocketIdURL nodeId="14993" name="Jewel 14993" itemPbURL=""/>
+			<Slot itemPbURL="" active="true" name="Flask 5" itemId="12"/>
+			<SocketIdURL nodeId="55190" name="Jewel 55190" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
+			<SocketIdURL nodeId="44169" name="Jewel 44169" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 1" itemId="14"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Amulet" itemId="4"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 3" itemId="0"/>
+			<SocketIdURL nodeId="24970" name="Jewel 24970" itemPbURL=""/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="23"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 4" itemId="13"/>
+			<Slot itemPbURL="" active="true" name="Flask 2" itemId="11"/>
+			<Slot itemPbURL="" name="Weapon 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="0"/>
+			<Slot itemPbURL="" name="Ring 2" itemId="5"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 2" itemId="0"/>
+			<SocketIdURL nodeId="49080" name="Jewel 49080" itemPbURL=""/>
+			<SocketIdURL nodeId="26725" name="Jewel 26725" itemPbURL=""/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour" itemId="1"/>
+			<Slot itemPbURL="" name="Ring 1" itemId="7"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Boots" itemId="3"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
+		</ItemSet>
+		<TradeSearchWeights/>
+	</Items>
+	<Config activeConfigSet="1">
+		<ConfigSet title="Default" id="1">
+			<Input name="enemyIsBoss" string="Pinnacle"/>
+			<Input name="conditionEnemyIgnited" boolean="true"/>
+			<Input name="DisableEHPGainOnBlock" boolean="true"/>
+			<Input name="conditionCritRecently" boolean="true"/>
+			<Input name="conditionEnemyChilled" boolean="true"/>
+			<Input name="useEnduranceCharges" boolean="true"/>
+			<Input name="brandAttachedToEnemy" boolean="true"/>
+			<Input name="conditionEnemyBleeding" boolean="true"/>
+			<Placeholder name="enemySpeed" number="700"/>
+			<Placeholder name="enemyChaosResist" number="30"/>
+			<Placeholder name="enemyLightningDamage" number="2241"/>
+			<Placeholder name="enemyCritChance" number="5"/>
+			<Placeholder name="enemyFireResist" number="50"/>
+			<Placeholder name="enemyColdDamage" number="2241"/>
+			<Placeholder name="enemyFireDamage" number="2241"/>
+			<Placeholder name="enemyLevel" number="84"/>
+			<Placeholder name="multiplierWitheredStackCountSelf" number="15"/>
+			<Placeholder name="enemyColdResist" number="50"/>
+			<Placeholder name="enemyLightningPen" number="3"/>
+			<Placeholder name="enemyLightningResist" number="50"/>
+			<Placeholder name="enemyChaosDamage" number="896"/>
+			<Placeholder name="enemyFirePen" number="3"/>
+			<Placeholder name="enemyCritDamage" number="30"/>
+			<Placeholder name="enemyColdPen" number="3"/>
+			<Placeholder name="ScorchStacks" number="1"/>
+			<Placeholder name="enemyDamageRollRange" number="70"/>
+			<Placeholder name="enemyArmour" number="61989"/>
+			<Placeholder name="sigilOfPowerStages" number="1"/>
+			<Placeholder name="enemyPhysicalDamage" number="2241"/>
+			<Placeholder name="enemyEvasion" number="10143"/>
+			<Placeholder name="ShockStacks" number="1"/>
+		</ConfigSet>
+	</Config>
+</PathOfBuilding>
